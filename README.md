@@ -1,27 +1,68 @@
-# NetflixInAngular
+# Netflix - Replicação em Angular / Layout Replication in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
+![image](https://github.com/jgraffite/hobbies-netflix-layout-replication/assets/5160859/836c4521-dd06-48bd-b5eb-9c2b57f9d23c)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Sobre o projeto / About the project
 
-## Code scaffolding
+Esse projeto é uma replicação do layout da página inicial do [Netflix](http://www.netflix.com "Netflix") utilizando o framework [Angular](https://angular.dev) contendo todos os seus efeitos e funcionalidades visuais, reprodução rápida de vídeos com trailers das séries listadas neste replicação.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Observação: A objetivo deste projeto é de somente replicar os elementos visuais e funcionaliddes visuais básicas da página inicial, não estendendo às funcionalidades de busca por séries, categorização, reprodução de episódios e outras funcionalidades exclusivas do site/aplicativo da Netflix.
 
-## Build
+------------
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+*This project is a replication using Angular of [Netflix](http://www.netflix.com "Netflix") Homepage Layout containing all its effects and visual functionalities, short videos reproduction with trailers of listed tv shows.*
 
-## Running unit tests
+*Note: The goal of this project is just and only replic visual elements and basic visual funcionalities of Netflix homepage, not extending to funcionalities of tv shows search, caegorization, episodes reproduction or other exclusive functionalities of Netflix application/website;*
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Características / Features
 
-## Running end-to-end tests
+- Demonstração de internacionalização com localização para Português do Brasil e Inglês;
+- Fidelidade ao visual do site da Netflix;
+- As imagens (miniatura das séries) foram retiradas do site da Netflix e capas de sites de promoção da série;
+- Os ícones exibidos são da biblioteca [FontAwesome](http://fontawesome.com "FontAwesome") na sua versão gratuita. Por isso alguns ícones terão visuais ligeiramente diferentes dos exibidos no site da Netflix;
+- Fontes utilizadas foram as universais e gratuitas através do Google Fonts. Por isso será possível ver algumas ligeiras diferenças visuais.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+------------
 
-## Further help
+- Internationalization with localization for English and Brazilian Portuguese;
+- *Netflix website visual fidelity;*
+- *The images (tv shows thumbs) was get from the Netflix website and covers from some promotion websites;*
+- *The icons displayed are from the library [FontAwesome](http://fontawesome.com "FontAwesome") in its free version. This is why some icons are displayed a bit different from those displayed in the Netflix website;*
+- *The used fonts was the universals and free by Google Fonts. This is why it will be possible to see some visual differences.*
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Rodando a aplicação / Running the project
+
+Para levantar a aplicação, basta copiar e colar o comando abaixo no seu terminal:
+
+------------
+
+*To run this application just copy and paste in your terminal the following command:*
+
+`npm run serve`
+
+
+### Tecnologias para os vídeos / Technologies for vídeos
+
+A [Youtube Player API](https://developers.google.com/youtube/iframe_api_reference?hl=pt-br "Youtube Player API") foi usada para a reprodução dos trailers das séries. O motivo da escolha desta api ao invés da tag `<video>` do HTML é a maior oferta de vídeos gratuitos e de fácil incorporação no serviço do Google.
+
+------------
+
+*The [Youtube Player API](https://developers.google.com/youtube/iframe_api_reference?hl=pt-br "Youtube Player API") was used to reproduce the tv shows trailers. The motive behind this chose, instead of the HTML tag `<video>` is the vast offering of free videos and easy incorporation of the service from Google.*
+
+------------
+
+
+### Links
+
+Você pode conferir a demonstração deste repositório online neste link:
+
+- [Em português do Brasil](https://jgraffite.github.io/netflix-layout-replication/angular/)
+- [Em inglês](https://jgraffite.github.io/netflix-layout-replication/angular/en)
+
+------------
+
+*You can see this project running on this link:*
+
+- *[In English](https://jgraffite.github.io/netflix-layout-replication/angular/en)*
+- *[In Brazilian Portuguese](https://jgraffite.github.io/netflix-layout-replication/angular)*
