@@ -1,0 +1,57 @@
+<div
+    class="featured-show-box"
+    id="featured-show-box"
+    [attr.data-video-playing]="isVideoPlaying ? '1' : '0'"
+    [attr.data-video-ended]="isVideoEnded ? '1' : '0'"
+    [style.backgroundImage]="'url(' + featuredTvShow.coverUrl + ')'">
+    <div class="featured-show-box__video-protector"></div>
+    <!-- <video class="jw-video" muted autoplay id="featured-video" data-auto-play-finished="0" src="assets/videos/stranger-things.mp4" poster="assets/images/tv-shows/covers/stranger-things.jpg"></video> -->
+    <!-- <div id="featured-video" [attr.data-video-id]="tvShow.videoId"></div> -->
+    <youtube-player
+        [playerVars]="playerConfig"
+        [videoId]="featuredTvShow.videoId"
+        [loadApi]="true"
+        disablePlaceholder
+        (stateChange)="onVideoStateChange($event)" />
+
+    <div class="container">
+        <div class="featured-show">
+            <img [src]="featuredTvShow.logoUrl" [alt]="featuredTvShow.name" />
+            <div class="featured-show__excerpt">
+                {{ featuredTvShow.synopsis }}
+            </div>
+            <div class="featured-show__buttons">
+                <app-button withIcon visual="primary" variant="classic">
+                    <i class="fa-solid fa-play"></i> {{ 'Play' | translate }}
+                </app-button>
+                <app-button withIcon visual="secondary" variant="classic">
+                    <i class="fa-solid fa-circle-info"></i>
+                    {{ 'More Info' | translate }}
+                </app-button>
+            </div>
+        </div>
+        <div class="featured-show-box__actions-and-info">
+            <app-button
+                rounded
+                visual="outline"
+                (clickHandler)="toggleVideoMute()">
+                @if (isVideoMuted) {
+                    <i class="fa-solid fa-volume-xmark"></i>
+                } @else {
+                    <i class="fa-solid fa-volume-high"></i>
+                }
+            </app-button>
+            <div
+                class="featured-show-box__actions-and-info__maturity-rating-box">
+                <app-maturity-rating-box
+                    [bgColor]="featuredTvShow.details.maturityRating.color"
+                    >{{
+                        featuredTvShow.details.maturityRating.label
+                    }}</app-maturity-rating-box
+                >
+            </div>
+        </div>
+    </div>
+    <div class="featured-show-box__side-shadow shadow"></div>
+    <div class="featured-show-box__bottom-shadow shadow"></div>
+</div>

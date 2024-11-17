@@ -1,0 +1,287 @@
+<div
+    class="preview-modal-wrapper"
+    [attr.data-opened]="isModalOpen ? '1' : '0'"
+    (click)="closePreviewModal($event, true)"
+    aria-hidden="true"
+    #previewModalWrapper>
+    <div
+        class="preview-modal"
+        id="preview-modal"
+        [attr.data-video-playing]="isVideoPlaying ? '1' : '0'">
+        <div class="preview-modal__video-wrapper">
+            <div class="preview-modal__video-wrapper__close-box">
+                <app-button
+                    rounded
+                    class="close-button"
+                    visual="outline"
+                    (click)="closePreviewModal($event)">
+                    <i class="fa-solid fa-times"></i>
+                </app-button>
+            </div>
+            <div
+                class="preview-modal__video-wrapper__placeholder"
+                [style.background-image]="'url(' + tvShow?.thumbUrl + ')'">
+                <img
+                    [src]="tvShow?.thumbUrl"
+                    class="preview-modal__video-wrapper__placeholder__img cover"
+                    alt="Cover" />
+                <div
+                    class="preview-modal__video-wrapper__placeholder__video-protector"></div>
+                <youtube-player
+                    [playerVars]="playerConfig"
+                    [videoId]="tvShow?.videoId"
+                    [loadApi]="true"
+                    disablePlaceholder
+                    (stateChange)="onVideoStateChange($event)" />
+                <!-- <div id="preview-video" [attr.data-video-id]="VFLkMDEO-Xc"></div> -->
+                <!-- <video class="jw-video jw-reset" id="preview-video" src="assets/videos/how-to-get-away-with-murder.mp4" poster="assets/images/tv-shows/criminal-code-placeholder.webp"></video> -->
+                <div
+                    class="preview-modal__video-wrapper__placeholder__bottom-shadow shadow"></div>
+            </div>
+            <div class="preview-modal__video-wrapper__actions">
+                <img
+                    [src]="tvShow?.logoUrl"
+                    alt=""
+                    class="preview-modal__video-wrapper__actions__tv-show-logo logo" />
+                <div class="preview-modal__video-wrapper__actions__buttons">
+                    <div
+                        class="preview-modal__video-wrapper__actions__buttons__play">
+                        <app-button visual="primary" variant="classic" withIcon>
+                            <i class="fa-solid fa-play"></i> {{ 'Play' | translate }}
+                        </app-button>
+                    </div>
+                    <div
+                        class="preview-modal__video-wrapper__actions__buttons__favorite">
+                        <div class="button-wrapper">
+                            <!-- <div class="button-wrapper__label-popover">
+                                    Add to My List
+                                </div> -->
+                            <app-button
+                                rounded
+                                visual="outline"
+                                aria-label="Add To My List">
+                                <i class="fa-regular fa-plus"></i>
+                            </app-button>
+                        </div>
+                    </div>
+                    <div
+                        class="preview-modal__video-wrapper__actions__buttons__like">
+                        <app-button rounded visual="outline">
+                            <i class="fa-regular fa-thumbs-up"></i>
+                        </app-button>
+                    </div>
+                    <div
+                        class="preview-modal__video-wrapper__actions__buttons__volume-control volume-control"
+                        data-muted="1">
+                        <app-button
+                            rounded
+                            visual="outline"
+                            (clickHandler)="toggleVideoMute()">
+                            @if (isVideoMuted) {
+                                <i class="fa-solid fa-volume-xmark"></i>
+                            } @else {
+                                <i class="fa-solid fa-volume-high"></i>
+                            }
+                        </app-button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="preview-modal__show-details--little-screen">
+            <div class="container">
+                <h2 class="preview-modal__show-details--little-screen__title">
+                    {{ tvShow?.name }}
+                </h2>
+                <div class="preview-modal__show-details--little-screen__info">
+                    <span
+                        class="preview-modal__show-details--little-screen__info__release-date"
+                        >{{ tvShow?.details?.realeaseYear }}</span
+                    >
+                    <span
+                        class="preview-modal__show-details--little-screen__info__maturity"
+                        >16</span
+                    >
+                    <span
+                        class="preview-modal__show-details--little-screen__info__duration"
+                        >{{ tvShow?.details?.totalSeasons }}
+                        {{ 'Seasons' | translate }}</span
+                    >
+                </div>
+                <app-button visual="tertiary" variant="basic">
+                    {{ 'Play' | translate }}
+                </app-button>
+            </div>
+        </div>
+
+        <div class="preview-modal__show-details">
+            <div class="preview-modal__show-details__details">
+                <div class="preview-modal__show-details__details__info">
+                    <span *ngIf="tvShow?.details?.likeRating"
+                        class="preview-modal__show-details__details__info__like-rating"
+                        >{{ tvShow?.details?.likeRating
+                        }}{{ '% Match' | translate }}</span
+                    >
+                    <span
+                        class="preview-modal__show-details__details__info__year"
+                        >{{ tvShow?.details?.realeaseYear }}</span
+                    >
+                    <span
+                        class="preview-modal__show-details__details__info__duration"
+                        >{{ tvShow?.details?.totalSeasons }}
+                        {{ 'Seasons' | translate }}</span
+                    >
+                    <div
+                        class="preview-modal__show-details__details__info__video-quality video-quality">
+                        {{ tvShow?.details?.qualityLabel }}
+                    </div>
+                </div>
+                <div
+                    class="preview-modal__show-details__details__maturity-description">
+                    <app-maturity-rating-box
+                        class="preview-modal__show-details__details__maturity-description__maturity"
+                        [bgColor]="
+                            tvShow?.details?.maturityRating?.color || 'black'
+                        "
+                        textColor="white"
+                        >{{
+                            tvShow?.details?.maturityRating?.label
+                        }}</app-maturity-rating-box
+                    >
+                    <!-- {{ 'violence, sexual content, drugs' | translate }} -->
+                      {{ tvShow?.details?.categories?.slice(0, 3)?.join(', ') }}
+
+                </div>
+                <div
+                    class="preview-modal__show-details__details__ranking-description">
+                    <div
+                        class="preview-modal__show-details__details__ranking-description__ranking top-ranking">
+                        {{ 'TOP' | translate }}<br />10
+                    </div>
+                    {{ '#5 in TV Shows Today' | translate }}
+                </div>
+                <div class="preview-modal__show-details__details__description">
+                    {{ tvShow?.synopsis }}
+                </div>
+            </div>
+            <div class="preview-modal__show-details__credits">
+                <div class="preview-modal__show-details__credits__row">
+                    <span>{{ 'Cast:' | translate }} </span>
+                    <a
+                        href="javascript:voud(0)"
+                        *ngFor="let cast of tvShow?.details?.cast"
+                        >{{ cast }}, 
+                    </a>
+                    <a href="javascript:voud(0)">{{ 'more' | translate }}</a>
+                </div>
+                <div class="preview-modal__show-details__credits__row">
+                    <span>{{ 'Genre:' | translate }} </span>
+                    <a
+                        href="javascript:voud(0)"
+                        *ngFor="
+                            let genre of tvShow?.details?.genres;
+                            let key = index
+                        "
+                        >{{ genre }}, </a
+                    >
+                    <a href="javascript:voud(0)">{{ 'more' | translate }}</a>
+                </div>
+                <div class="preview-modal__show-details__credits__row">
+                    <span>{{ 'This show is:' | translate }} </span>
+                    <a
+                        href="javascript:voud(0)"
+                        *ngFor="
+                            let category of tvShow?.details?.categories;
+                            let key = index
+                        "
+                        >{{ category }}
+                        @if (
+                            key < (tvShow?.details?.categories?.length || 0) - 1
+                        ) {
+                            ,
+                        }
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div
+            class="preview-modal__episodes"
+            *ngIf="tvShow?.episodes && tvShow?.episodes?.length">
+            <div class="preview-modal__episodes__control">
+                <h2>{{ 'Episodes:' | translate }}</h2>
+                <div
+                    class="preview-modal__episodes__control__select select-popup"
+                    (mouseleave)="toggleEpisodesPopup(true)">
+                    <button
+                        aria-haspopup="true"
+                        [attr.data-open]="isEpisodesPopupOpen ? '1' : '0'"
+                        (click)="toggleEpisodesPopup()">
+                        {{ 'Season' | translate }} 1
+                    </button>
+                    <ul *ngIf="isEpisodesPopupOpen">
+                        <li
+                            *ngFor="
+                                let v of [].constructor(
+                                    tvShow?.details?.totalSeasons
+                                );
+                                let seasonNumber = index
+                            ">
+                            {{ 'Season' | translate }} {{ seasonNumber + 1 }}
+                            <span>(15 {{ 'Episodes:' | translate }})</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="preview-modal__episodes__list">
+                <div
+                    class="preview-modal__episodes__list__maturity-and-season-description">
+                    <h3>{{ 'Season' | translate }} 1:&nbsp;</h3>
+                    <app-maturity-rating-box
+                        class="preview-modal__episodes__list__maturity-and-season-description__maturity maturity-rating"
+                        [bgColor]="
+                            tvShow?.details?.maturityRating?.color || 'black'
+                        "
+                        textColor="white"
+                        >{{
+                            tvShow?.details?.maturityRating?.label
+                        }}</app-maturity-rating-box
+                    >
+                    <!-- {{ 'violence, sexual content, drugs' | translate }} -->
+                    {{ tvShow?.details?.categories?.slice(0, 3)?.join(', ') }}
+                </div>
+
+                <div
+                    class="preview-modal__episodes__list__episode"
+                    [class.preview-modal__episodes__list__episode--current]="
+                        episode.number === 1
+                    "
+                    *ngFor="let episode of tvShow?.episodes">
+                    <div class="preview-modal__episodes__list__episode__number">
+                        {{ episode.number }}
+                    </div>
+                    <div
+                        class="preview-modal__episodes__list__episode__thumb-wrapper">
+                        <img [src]="episode.thumbUrl" alt="Episode Thumb" />
+                    </div>
+                    <div class="preview-modal__episodes__list__episode__data">
+                        <div
+                            class="preview-modal__episodes__list__episode__data__title">
+                            <div
+                                class="preview-modal__episodes__list__episode__data__title__name">
+                                {{ episode.title }}
+                            </div>
+                            <div
+                                class="preview-modal__episodes__list__episode__data__title__duration">
+                                {{ episode.duration }}
+                            </div>
+                        </div>
+                        <div
+                            class="preview-modal__episodes__list__episode__data__description">
+                            {{ episode.synopsis }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

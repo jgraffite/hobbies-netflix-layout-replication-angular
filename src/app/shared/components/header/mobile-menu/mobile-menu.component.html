@@ -1,0 +1,44 @@
+<!-- eslint-disable @angular-eslint/template/click-events-have-key-events -->
+<div
+    class="mobile-menu"
+    [id]="menuElemId"
+    (click)="onClickMenuWrapper($event)"
+    [attr.data-show]="menuOpen ? 'true' : 'false'">
+    <div class="mobile-menu__navigation-box">
+        <div class="mobile-menu__navigation-box__avatar-menu">
+            <div
+                href="javascript: void(0)"
+                class="mobile-menu__navigation-box__avatar-menu__avatar-box">
+                <img
+                    src="assets/images/profile-avatar.png"
+                    [alt]="profiles[0].profileName"
+                    [title]="profiles[0].profileName"
+                    class="mobile-menu__navigation-box__avatar-menu__avatar-box__img" />
+                <div
+                    class="mobile-menu__navigation-box__avatar-menu__avatar-box__avatar">
+                    <span>{{ profiles[0].profileName }}</span>
+                    <a
+                        href=""
+                        class="mobile-menu__navigation-box__avatar-menu__avatar-box__avatar__switch-profile-link"
+                        >{{ 'Switch Profile' | translate }}</a
+                    >
+                </div>
+            </div>
+            <ul>
+                <li *ngFor="let navItem of menuList">
+                    <a href="javacript: void(0);">{{ navItem }}</a>
+                </li>
+            </ul>
+        </div>
+
+        <ul class="mobile-menu__navigation-box__categories-menu">
+            <li
+                *ngFor="let category of categoryList"
+                [class.mobile-menu__navigation-box__categories-menu__category--current]="
+                    category.active
+                ">
+                <a href="">{{ category.name }}</a>
+            </li>
+        </ul>
+    </div>
+</div>

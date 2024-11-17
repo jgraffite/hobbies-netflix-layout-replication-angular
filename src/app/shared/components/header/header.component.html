@@ -1,0 +1,8 @@
+<header class="header" id="header">
+    <div class="container">
+        <app-navigation-menu (toggleMobileMenuEvent)="toggleMobileMenu()" />
+        <app-top-right-toolbar [profiles]="profiles" />
+    </div>
+
+    <app-mobile-menu [profiles]="profiles" />
+</header>

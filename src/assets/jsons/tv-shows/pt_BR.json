@@ -1,0 +1,2875 @@
+[
+    {
+        "name": "Breaking Bad",
+        "logoUrl": "assets/images/tv-shows/logos/breaking-bad.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/breaking-bad.webp",
+        "synopsis": "Skyler cria uma história elaborada para explicar as finanças da família White, e Walt descobre que Hank começou uma nova investigação.",
+        "videoId": "VFLkMDEO-Xc",
+        "details": {
+            "totalSeasons": 5,
+            "qualityLabel": "HD",
+            "likeRating": 85,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Violento",
+                "Impactante",
+                "Sombrio"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries dos EUA",
+                "Suspense para TV"
+            ],
+            "cast": [
+                "Bryan Cranston",
+                "Aaron Paul",
+                "Anna Gunn"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Estilete",
+                "synopsis": "Depois de um momento tenso na terceira temporada em que Walt e Jesse batalharam por suas vidas, a dupla aguarda para ver os próximos passos de Gus.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQm91GgmEgJcT5JpSmMUXsJlEehFYrm42cEWvi2d-wyLjianzkICnuZ4PvNruouhTiF5QD_J_WKiSVg01pKYQ8VHzwTHk-iLSKrCF0lQdGHYBKBTCVgn7itp.webp?r=d4d",
+                "duration": "47min"
+            },
+            {
+                "number": 2,
+                "title": "38 cano curto",
+                "synopsis": "Enquanto Walt prepara sua defesa contra Gus, Jesse lida com a pressão ao renovar sua amizade com Badger e Skinny Pete.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa1RkXzsdBJQ_rThVfgWVp54jfTIUcvzfiw3EJK2LlZpddRoLdQEqP5eK-fJXxyYbz3YyYthF9VtmPswLfF-VgbniT8b4SHH7Ma78ckAuKZTzOiBtWnD_GDr.webp?r=6d1",
+                "duration": "46min"
+            },
+            {
+                "number": 3,
+                "title": "Casa em exposição",
+                "synopsis": "Walt se preocupa com a interferência de Gus e a fragilidade mental de Jesse. Skyler aumenta a pressão para conseguir o que deseja.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfjODOFZcfqa0NeKQyGIF1nmP7zAO35MpiaGmo1WAtyM8hPvvGFPxYQHmi9DMqNpE7unMIkYYhcf1wew46Y0uJ71NSRsC80M_qSccqgWadwSAKnTox-1XiIC.webp?r=ba4",
+                "duration": "46min"
+            },
+            {
+                "number": 4,
+                "title": "Frases curtas",
+                "synopsis": "Skyler cria uma história elaborada para explicar as finanças da família White, e Walt descobre que Hank começou uma nova investigação.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX2z17Cv3GRFsOYehJBAM_3mFz0AY-kcumJButvMmQeV1zf3gf-i4p2_gaxgO-eW_MWVRwAwr2Ypb96xzrd7SijIIPwZv8kCvtYxR57oWFzy0CTtXTLwCZfa.webp?r=bad",
+                "duration": "45min"
+            },
+            {
+                "number": 5,
+                "title": "Espingarda",
+                "synopsis": "Jesse acompanha Mike em um arriscado passeio para fazer coletas, deixando Walt preocupado que seu parceiro poderá ser morto.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUWJ4FJQ6cHCxYgD5FNrtsjk-6JMeVas84LSh242mE7uFG6shhteIfkW-oXmkm5HqzI8DzL6beM0O1sqgYqjYgx5Ze8dKWqlodNNFxmI8bpRVzVzxwO1vh90.webp?r=1d4",
+                "duration": "47min"
+            },
+            {
+                "number": 6,
+                "title": "Encurralado",
+                "synopsis": "Skyler adota uma abordagem indiferente ao suspeitar que Walt não diz a verdade. Enquanto isso, Jesse prova seu valor para Mike e Gus.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaB0yWHrg9NHMhyAF0H2w1wuvyog8biN0LI5lor99xdtBStBoKspdLmctlS1uWE-l1pN5IGIl_1jr_sMFmn9Ph0c4-P79tDU6nRPGfGhjaZakZ_04EKYezd0.webp?r=1b8",
+                "duration": "47min"
+            },
+            {
+                "number": 7,
+                "title": "Cachorro problemático",
+                "synopsis": "Obrigado a devolver o carro que comprou para o filho, Walt contra-ataca deixando Skyler em maus lençóis com o novo esquema de lavagem de dinheiro.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVdMjDDKCIBQQehVg_EIQCDRQtNuH3Zoq00Ag8gXR5cqoDrCreMnAIJX58FXeUPS-bc357iSvgJWdw9RbfDY1TAJO1737pbeXBULeqFbpThz62QQ8TBL_xAi.webp?r=156",
+                "duration": "47min"
+            },
+            {
+                "number": 8,
+                "title": "Hermanos",
+                "synopsis": "Quando Hank descobre provas de que Gus é o barão da metanfetamina de Albuquerque, Walt acha que ele e Jesse serão mortos enquanto protegem o chefe.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbEKkEnQHZgL09_VnHllq9A164RBxbkDyfXpymEWSnLnxKfnJTaW-m4jwrd1JlX9t4XlNd1scNvgP0qilwkA7pph1WEca68uBMTv_e5pmUZjMYVvurDhJOEy.webp?r=bdc",
+                "duration": "47min"
+            },
+            {
+                "number": 9,
+                "title": "Escuta",
+                "synopsis": "Walt tenta subverter a investigação de Hank no mercado de metanfetamina de Albuquerque, e um perigoso aviso força Gus a considerar um negócio com o cartel mexicano.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRIN4qloq8hGfgynnYXHTW6tielzqchB1gdnr5jKwoh8HFF4XuROoX-GYLSNytWi3FU26HfXHX-3F2XHiP1RVcJmdEBOGpLfROzUPhCxhzpnyUj7HQJBRzt7.webp?r=023",
+                "duration": "47min"
+            },
+            {
+                "number": 10,
+                "title": "Saúde",
+                "synopsis": "Enquanto Walt ainda se recupera da briga, Gus leva Jesse ao México para concretizar o negócio com o cartel mexicano.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTCnx70h297X6RanoqVsHItIdhLnA5Ey2U-juQHz7a7PhF0LUx_0X6t9j5VL7iE-LQ2CZLZbffw0xXjM_FvajfEpJaBWjP5foSTMok0lqli04zcJa0_hUuT8.webp?r=f28",
+                "duration": "47min"
+            }
+        ]
+    },
+    {
+        "name": "A Lista Negra",
+        "logoUrl": "assets/images/tv-shows/logos/the-blacklist.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/the-blacklist.webp",
+        "coverUrl": "https://wallpapercave.com/wp/wp1915191.jpg",
+        "synopsis": "Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen.",
+        "videoId": "IKtL4IW6G0I",
+        "details": {
+            "totalSeasons": 10,
+            "qualityLabel": "HD",
+            "likeRating": 96,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Psicológico",
+                "Empolgantes"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries policiais",
+                "Séries dos EUA"
+            ],
+            "cast": [
+                "James Spader",
+                "Megan Boone",
+                "Diego Klattenhoff"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Piloto",
+                "synopsis": "Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista, mas exige que sua parceira seja a novata Elizabeth Keen.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABStcyxPPHsJGD5iY3qd-NAjI_KJLJQo1NfgfqSFr8qPas6UCBe-hutNFcaoAwKQ5WXSFr96D0qzprA8_wgNKqw5jGKMfs2DIlgivtcEDLccA3XDJQ3d8TrUH.webp?r=759",
+                "duration": "45min"
+            },
+            {
+                "number": 2,
+                "title": "O Autônomo (nº 145)",
+                "synopsis": "Liz e Red procuram um criminoso que usa grandes catástrofes para esconder seus assassinatos. O Departamento de Justiça tenta descobrir os verdadeiros motivos de Red.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUUx1FsbrBP0ErpjU7aUBHOXDsbrx4z9kU5aHNZKPcVYwK4lDC7_npnSsd_N6vcpH4DPortFFsuCGWoeQPlAvJVjktnJCEiiOz7kaaVMp-sGlfYU6Rwhq9PP.webp?r=4cb",
+                "duration": "40min"
+            },
+            {
+                "number": 3,
+                "title": "Wujing (Nº 84)",
+                "synopsis": "Liz e Red trabalham à paisana para capturar um assassino. Tom pergunta a Liz sobre o homem que o atacou.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYi2dCDs0ee1hoUy6OSEqZoC9PqvfKgN9Nx4LA3KSJ8EosxtwKQW88MOHpJMDcyPVAikd9b0AGIHBT7iJF9TOUUQW09uCY90KL14KGQy6ydzgb6kqKBLE3ck.webp?r=189",
+                "duration": "42min"
+            },
+            {
+                "number": 4,
+                "title": "O cozinheiro (No. 161)",
+                "synopsis": "Quando a testemunha-chave de Liz desaparece, Red suspeita de um assassino que literalmente cozinha suas vítimas para elas desaparecerem sem deixar vestígios.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVINCIwJL6bDJvtxsHOyeTHznrEYMDEMgHcDd3wstvJt4piUmS5SNv7jbsAMfMIJrQ-KmFDmSYVmSznCQaKmyJFWZ6dEeYgZ6K_z71QDL1jGiaqps2NQMlzn.webp?r=19e",
+                "duration": "41min"
+            },
+            {
+                "number": 5,
+                "title": "O Mensageiro (Nº 85)",
+                "synopsis": "Um intermediário sinistro com um talento peculiar coloca o FBI no rastro de um analista da NSA desaparecido.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfJhzXjNF2NemVh2LigOIZH0XFYvCySiPcqCe2Q2CvCY9WIjOZ5IlcFu5rwsZlgO7E7QvO7vhnrEhQMD30_6JgDZadICC6PGKtiRkGTULqFqn1euQmZ53BUn.webp?r=b42",
+                "duration": "43min"
+            },
+            {
+                "number": 6,
+                "title": "Gina Zanetakos (Nº 152)",
+                "synopsis": "Liz entrega Tom ao FBI na tentativa de limpar seu nome, mas logo descobre que ele está envolvido com uma terrorista.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeD4lo04Ag4bJDnVgn87kNAngLj5heEmMPcZOZr9zdUieIGOfUXjMjj-i8ZSBX6EjgIulfI4HySpNApGOnwgqVUZ1AUkQyDtzD-5YuXhhS163p_7NH8xg4VG.webp?r=010",
+                "duration": "42min"
+            },
+            {
+                "number": 7,
+                "title": "Frederick Barnes (nº. 47)",
+                "synopsis": "Após um ataque químico no metrô, Liz e a equipe procuram um cientista maluco que costumava trabalhar para o governo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWdtjhq7lmbOQLCIegTfeFqoFIi7sALf-uHeIylngHMFBvZenThJTqHaFlRD8wW8Le1Ily9FaThIGIGn5zeBkVCio5D10mRGdSHVuIkB1lH7GMqmmjgiJZ_r.webp?r=533",
+                "duration": "43min"
+            },
+            {
+                "number": 8,
+                "title": "General Ludd (Nº 109)",
+                "synopsis": "Red, Liz e o FBI tentam desvendar um complô anticapitalista cujo objetivo é destruir o sistema financeiro dos Estados Unidos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXm5-BJdQBF2L7Hkkos6yrHzGDZWVXcK4t9I-PpA_VxdUn0Tptq2LjLUNcViYo4dy9j2AcvuWB-FVQjmP2QfAUR2rEgSYB3ouJXKvEduJzCLRg04xNZly1Vu.webp?r=0d5",
+                "duration": "42min"
+            },
+            {
+                "number": 9,
+                "title": "Anslo Garrick (nº 16) - parte 1",
+                "synopsis": "Ex-parceiro de Red, Anslo Garrick invade o FBI para assassiná-lo. Liz se move furtivamente pelas instalações para tentar retomar o controle.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZw2MJPsfZdbZlFz5-XuRNTJhWGZuRSljqwVSzQL55_OXb8-QzpQtgNyUMxXKXOgd4c-Tj4MtOZI3uk_POgv2LLt75gdFmFJ747IeFdTc_16KZNJ1vKPVm1p.webp?r=925",
+                "duration": "42min"
+            },
+            {
+                "number": 10,
+                "title": "Anslo Garrick (nº 16) - parte 2",
+                "synopsis": "Liz e uma pessoa misteriosa tentam salvar Red e Ressler de Anslo Garrick e seus mercenários.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe7n4B16UeSzyI7v-utFH5-rmhleW7Ay1zwPdF7H5m8jrRPPechTO9BSI7w6VEQ732cvia2M7ffKgfNb9GiJU8L2pbYFpPKh_ES6epxKur4U2n64037ba0uq.webp?r=bc2",
+                "duration": "42min"
+            }
+        ]
+    },
+    {
+        "name": "The Alienist",
+        "logoUrl": "assets/images/tv-shows/logos/the-alienist.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/the-alienist.jpg",
+        "coverUrl": "",
+        "synopsis": "When a boy's mutilated body is found on a bridge, alienist Dr. Kreizler notices similarities to an unsolved murder involving a former patient of his.",
+        "videoId": "VFLkMDEO-Xc",
+        "details": {
+            "totalSeasons": 5,
+            "qualityLabel": "HD",
+            "likeRating": 85,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Psychological",
+                "Dark",
+                "Suspenseful"
+            ],
+            "genres": [
+                "TV Dramas",
+                "TV Shows Based on Books",
+                "TV Mysteries"
+            ],
+            "cast": [
+                "Daniel Brühl",
+                "Luke Evans",
+                "Dakota Fanning"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "The Boy on the Bridge",
+                "synopsis": "When a boy's mutilated body is found on a bridge, alienist Dr. Kreizler notices similarities to an unsolved murder involving a former patient of his.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABezmhJTf3YiVorp_j9Cu9YQdh-0cMKiHyW7uLJTy1a0WFiEjAp0lSSIPbno95eD6GCoq5DQhW9WSSdoB_IqnT23QVB8IUAgOhNqyCtnVy2KBHVXIElREi0qF.jpg?r=98d",
+                "duration": "49m"
+            },
+            {
+                "number": 2,
+                "title": "A Fruitful Partnership",
+                "synopsis": "Giorgio's brother shares with Sara a revealing comment the police made to his family. Kreizler calls a team meeting. John investigates at the brothel.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdiulAuItfRaZVN6RxHC-C50FqYV_FDyN0cmMAfG58rkwN95JvmrolIKuBVp-LJV5bbx2PEvXPFki5j6b9CLwvu_hbLKIRvZ6d8aGHYzmr1qxAken2mYHmv5.jpg?r=33d",
+                "duration": "48m"
+            },
+            {
+                "number": 3,
+                "title": "Silver Smile",
+                "synopsis": "Sally helps Kreizler better understand the victims' relationship to the killer. When another body is found, Sara notices its location fits a pattern.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXRpf6RZAyScmwqs1_GcSQdWChjURH2up91Q-UkJebhNNWIiU2qR9kEk_hIijd6gSyEexI3w2LTwU0x1aglMB_UQsd0oYRF6jE6bVKIZ2mwA1Bn1YbkDqJmJ.jpg?r=298",
+                "duration": "45m"
+            },
+            {
+                "number": 4,
+                "title": "These Bloody Thoughts",
+                "synopsis": "Kreizler visits a former patient to get inside a sadist's mind. John develops a theory about the silver smile. Mrs. Santorelli gets a horrific letter.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcafzvOgXSQ6a_ZdSOCCajLXkH0_6Fot_OtixZDA_F1tum4AmMnYy1GBa_nVUbU2Rx3K8YvSeVNBAmdzUMXn961Qb-Pc_9gmo8NXJ37hGNGYjPc8_KkVDqGh.jpg?r=72e",
+                "duration": "48m"
+            },
+            {
+                "number": 5,
+                "title": "Hildebrandt’s Starling",
+                "synopsis": "A detail in the letter leads Kreizler to the date of the next murder. Roosevelt learns of Willem Van Bergen and takes matters into his own hands.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQJpTLeCd5rDkSSKWwNKOtRrCnEUnf1L3PdLiqRtDG6yEGhWDkk9nIKYDHq_luEM0neLt4kLLN_C_eY0gQXPEVSJ3ir1CVyzdZGVEwrgU44XJNn3wUldLwl_.jpg?r=105",
+                "duration": "48m"
+            },
+            {
+                "number": 6,
+                "title": "Ascension",
+                "synopsis": "Hoping to lure the killer, the team uses Stevie as bait. Sara catches Kreizler in a strange lie and confronts him. Connor learns Willem is on the run.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZU-vB8WB7w-2q-kECpigDAtVptdo3-jkFpxwZyCGDs8ju9KuJ0qtXxcPgWN3HM3vNHuE2OvZ0paqGk9ldOUBtNiTUTSRn_nslRFBljF16ySOasr61fLGB5y.jpg?r=743",
+                "duration": "46m"
+            },
+            {
+                "number": 7,
+                "title": "Many Sainted Men",
+                "synopsis": "Mutilations on the latest body suggest the killer may be linked to the Old West. Kreizler is forced to rethink how he treats those in his household.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcdp1g9rr8B17TRIMlO5ohThw_4fXirUtaYK2vWRNzs6JK4YBKv_MgrNOUVtFyzGehSQzwUogK4Avkf7H4oBW5dsuytYDrZCH68oAr4-jRWNZ2ASNgdX52Nq.jpg?r=956",
+                "duration": "49m"
+            },
+            {
+                "number": 8,
+                "title": "Psychopathia Sexualis",
+                "synopsis": "At St. Elizabeths, Kreizler and John learn of a soldier fitting their profile. Hearing their news, Sara visits the suspect's hometown in upstate N.Y.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWOAJsdq7jPJ7zy1NSFUtC0QTUO_y9f0DL7737BIU62yUl9tGp4RRqm4LBjCeMrMZmTOCvoV1Zybu1dky9gOtH70ZzkRTvHW9rRJYN6DD4HmNSblnDaOGOSA.jpg?r=3ad",
+                "duration": "43m"
+            },
+            {
+                "number": 9,
+                "title": "Requiem",
+                "synopsis": "As Cyrus plans to get revenge against Connor, Sara takes the team to the Census Bureau, where they get a lead on their suspect's whereabouts.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYSzXVdurD1RsjT0C4yd23icDfmL59i5bOxwNa7pZtv0-Mi0QS4nb6PqzsJd92pOannsO60ZqxTMb9RhAEisIzt8aqSSs2hHX02O7GhpfQDlSMnuNNMIXVDS.jpg?r=327",
+                "duration": "49m"
+            },
+            {
+                "number": 10,
+                "title": "Castle in the Sky",
+                "synopsis": "When Joseph goes missing, John fears the worst and pours his heart out to Sara. Kreizler and Sara share past traumas. Kreizler confronts the killer.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABag7rbbTJ_4Rtg0LieDIB5VnjKBJGGjWwZ2bpqgeUk6lNRum4mzExWscSVFl6Tm9NA9qvgijHdfWyaSefsCA_Z9HHVByDupmRIzeSyHvw3GgzaHUmN-7Rrvf.jpg?r=921",
+                "duration": "54m"
+            }
+        ]
+    },
+    {
+        "name": "Manifest",
+        "logoUrl": "assets/images/tv-shows/logos/manifest.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/manifest.jpg",
+        "coverUrl": "",
+        "synopsis": "Um avião aterrissa misteriosamente cinco anos depois da decolagem, levando os passageiros a viverem a estranheza de retornar a um mundo que seguiu a vida sem eles.",
+        "videoId": "zzy6wWjFONY",
+        "details": {
+            "totalSeasons": 6,
+            "qualityLabel": "HD",
+            "likeRating": 85,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Chocante",
+                "Suspense no ar"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries de ficção científica",
+                "Séries de mistério"
+            ],
+            "cast": [
+                "Melissa Roxburgh",
+                "Josh Dallas",
+                "J.R. Ramirez"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Piloto",
+                "synopsis": "O voo 828 chega a Nova York com passageiros que não sabem que estão desaparecidos há anos e precisam lidar com um misterioso fenômeno que mudará suas vidas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWi6s4yji9nNnJmQA_TfzfFtlzUmDjuhiCLVw71uCTf_DMWJqI-iUOGZE9mH02y_s_-4TizdkeC1Z2hLGSu9pksgLHjpe1TUy0S_I_mJt0gMQsCqU9TkL8jO.webp?r=cf9",
+                "duration": "42min"
+            },
+            {
+                "number": 2,
+                "title": "Reintegração",
+                "synopsis": "Os passageiros do voo 828 são interrogados pela NSA e sofrem para tentar recomeçar a vida. Após falar com a imprensa, uma passageira é vítima de um crime.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYd7YD0saTcMjgGR0w3oEx83VRgbWf_mNgFTWdnKVUnO3cSVnxCbyU2EHs5a-E-SqQHyMHqRADgwCe0kaEb3rpy7TD7GkjK2vwdcDZ66Vlq-9d2x2aX06gVu.webp?r=de8",
+                "duration": "42min"
+            },
+            {
+                "number": 3,
+                "title": "Turbulência",
+                "synopsis": "Michaela visita os pais de Evie, que estão arrasados com a perda. Os gêmeos Cal e Olive tentam se reaproximar depois de ficarem cinco anos e meio separados.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfBqFvjhvmyLtgiAg0jN9l0qy7JDhtJuB5wXZgbMf6BeA6Hh8jPbTgJZLRnD_DOorvhd8jMBsminLJ41qjDNxV87S_iSVQBJmyAGZWY1l-Cx9VDxwreM1g2S.webp?r=06f",
+                "duration": "43min"
+            },
+            {
+                "number": 4,
+                "title": "Bagagem não reclamada",
+                "synopsis": "Michaela não entende sua última visão e acaba causando um problema para o ex-noivo Jared. Ben e Saanvi procuram uma comissária de bordo do voo 828.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdgwIcWNTERw2UYynukQ7xTORLCUPGVLEKbHiTKYgNVq6xq13IppzbyF1wRicw8WzmyTsCzbNDMmVtBUCl0AwlrVMUCz5j1zekqcNPSqFxsquILG6ktJrggE.webp?r=f84",
+                "duration": "43min"
+            },
+            {
+                "number": 5,
+                "title": "Voo de conexão",
+                "synopsis": "Flashbacks revelam como familiares e amigos lidaram com o desaparecimento do voo 828. Para escapar da voz em sua mente, Ben parte para uma aventura com Cal.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR7nBmDSPgXjoVTAM3x_a8OsOBuVDqAFUwHbyDr6d2hefDz-1aTcMHOOjuXdxL2W113hre8b0l1itMYlWLl_X-aRQ2850bO-2b2jEt3sBo_uQB4j2nSP0uR-.webp?r=41d",
+                "duration": "42min"
+            },
+            {
+                "number": 6,
+                "title": "Fora do radar",
+                "synopsis": "Cal acorda queimando em febre e começa a falar em outra língua. Em busca de uma cura, Ben procura um dos passageiros do avião.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbHfTpkrr6_jP_5qOejGsciU0b_CvhbBQvKGpowforQnXI6_BIPMkQ4OScPueTHCm5cF0OSs5WzP8EJwAL1QbKi8uZRsjQ9EiqUF77eMFKG1UoQmJLbiZqEI.webp?r=d02",
+                "duration": "43min"
+            },
+            {
+                "number": 7,
+                "title": "S.N.A.F.U.",
+                "synopsis": "Ben investiga o paradeiro de 11 passageiros desaparecidos do voo 828. Michaela faz uma descoberta chocante após seu último chamado.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdmZgGUrO_tstp4YgzK1e1WYn82R0w3g8trFGfrKir0oRQ22XRjhE0jNPjabpG4Tuibostuf6-YpMSGuWMsDFoqUJ3EsVSrDJTZlW2-wG-IEilJcwqB9bUjP.webp?r=790",
+                "duration": "42min"
+            },
+            {
+                "number": 8,
+                "title": "Beco sem saída",
+                "synopsis": "Ben forma uma aliança improvável com Vance enquanto tenta encontrar os passageiros desaparecidos. Michaela tem um chamado estranho e Cal volta para a escola.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXiWrrraT8zBJHGcYZlk7EH8AGkO2HGcsY98n0U8lzpe2KVDxef6xrISs3EUQtPCdvwF7Oa82DwhzsJH9l-SJW02kE6tcCiNGDJCAUXKY-0gOmtsbSmGneCt.webp?r=baf",
+                "duration": "43min"
+            },
+            {
+                "number": 9,
+                "title": "Cálculo morto",
+                "synopsis": "Ben e Michaela correm para salvar os passageiros desaparecidos, mas a missão de resgate toma um rumo inesperado.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSdzy9j9E9GkeEfc_6NWaIRvzqAg-G3aCkiuccE2750FTe1jc2rlrzQXavdqnbwjFe-M3G7zI-b2pQjt-8P9hdG0s_pWppr6k4-8f3TW6NctjCrZjJSGuel5.webp?r=258",
+                "duration": "42min"
+            },
+            {
+                "number": 10,
+                "title": "Vento cruzado",
+                "synopsis": "Após a morte de um aliado, Ben encontra nova ajuda para identificar alguém que pode ser responsável pelos passageiros desaparecidos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ_F4ZEJ78cUZS2OU9RU8SCmS177h0m3fE4ZPyHBd4v9yfjJ0IxawsXSy3S88yVUvbyrsa3DXsjwrrmkdvkzSLxKdDFC-SRfk0c92jEdpxfDfNp181-em8Ui.webp?r=8e2",
+                "duration": "43min"
+            }
+        ]
+    },
+    {
+        "name": "Better Call Saul",
+        "logoUrl": "assets/images/tv-shows/logos/better-call-saul.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/better-call-saul.jpg",
+        "coverUrl": "https://mrwallpaper.com/images/file/better-call-saul-mike-u1u0cv6ahkkhqx7f.jpg",
+        "isFeatured": true,
+        "synopsis": "Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.",
+        "details": {
+            "totalSeasons": 4,
+            "qualityLabel": "HD",
+            "likeRating": 85,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Excêntrico",
+                "Impactante"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries dos EUA"
+            ],
+            "cast": [
+                "Bob Odenkirk",
+                "Jonathan Banks",
+                "Rhea Seehorn"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Uno",
+                "synopsis": "Jimmy McGill tenta se livrar de um passado suspeito, mas surge uma oportunidade que sopra nova vida a seus velhos truques.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ5FQhR91JeFVvHsEKxe1QI2j2a5r04hCsem53RbzSspXMU5R04DdGqMjtzZtWoMwkt8-R6e7ObPXc-xt__k02vBVbeDlHjSiGpOWZJQSB3PbsKxUS6_fY7p.jpg?r=df3",
+                "duration": "53min"
+            },
+            {
+                "number": 2,
+                "title": "Filho",
+                "synopsis": "Num confronto tenso com criminosos, a única arma de Jimmy é sua lábia.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQqYS0mlhNRMsURY2qHhN6-ZG8KmNE9BLZvFmZtEEAOTVeqYGm7wSIvLrjkSlFnc-nOfPp-NJhxLA7Q5JHr9uDGhLSNjmUstaH4yDcRijdq8FmI97blgyep6.jpg?r=86a",
+                "duration": "46min"
+            },
+            {
+                "number": 3,
+                "title": "Nacho",
+                "synopsis": "Com seu novo cliente detido, Jimmy tenta despistar a polícia e se safar ao mesmo tempo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVGNoqkRLZqOVEaOR0SQi1W-mh0v5ZA_lTl0qgbb8zVQP3LCWQvIX3DOMrJLfgnb6tAv7cRYUT93cShf1IM1P7hBbahq5fnpnDdGaZzhhHPAuU6lpETyPHNy.jpg?r=e8d",
+                "duration": "47min"
+            },
+            {
+                "number": 4,
+                "title": "Herói",
+                "synopsis": "Desesperado com a falta de clientes, Jimmy encontra um jeito de melhorar os negócios e até ter um gostinho de vingança.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXORhpHCYT58z6HmLAQ36eaEJ1UehC9RyNNNJUcY8wy1TEGIfvw-ByxAtqN1u5rhTV4GHHyYRIZmok6pCz4t8lPrm-9KUzxRAzK51W6NcGqLCc3PABxekYN8.jpg?r=702",
+                "duration": "47min"
+            },
+            {
+                "number": 5,
+                "title": "Pastor",
+                "synopsis": "Jimmy testa suas habilidades numa nova área de especialização e faz o possível para cuidar de Chuck.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaYxZcgOK5BVb9OUxHB8Kpm56jwiczEMZ7oX6o1dlK6wyCD3Y73ErFZI-gRuvmfyU5_QGSUxbi9ofJTwV4vhjEoRo3HaQsJ4XR1XJVXLTeOYcoGjidmSzTIR.jpg?r=635",
+                "duration": "44min"
+            },
+            {
+                "number": 6,
+                "title": "Passado",
+                "synopsis": "Mike precisa de um favor, e Jimmy não hesita em ajudar. Mas restam esqueletos no armário de Mike.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc0xzye5dOS8Q0J4ZEHnW8TE9H04s-NB9ftPQnghKFPwKSb7UfXbReSO6mo6PP7AvMF2DB2OpDlMCrsmFUaLIcvPq901iP-p0jYbHrDbl88d7jh7LO8-6Uxp.jpg?r=ca9",
+                "duration": "42min"
+            },
+            {
+                "number": 7,
+                "title": "Bingo",
+                "synopsis": "Jimmy arruma clientes, mas também ganha problemas de ordem pessoal e profissional. Nada que um pouco de ajuda anônima não resolva.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUdjZL2uxWu8xZOVc_Xi8qSqAXzi3-ZsQf7fCUdzTqROxpMMe9DMDxFVOICR65daKcEFGNIdMEDKsQYfIwwVCETAuqDzreanszlOkv3zMAmrbzJ7F8JC0-9J.jpg?r=ef3",
+                "duration": "47min"
+            },
+            {
+                "number": 8,
+                "title": "Rico",
+                "synopsis": "Uma empresa com más intenções revigora o lado investigador de Jimmy e dá uma injeção de ânimo em Chuck.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWDugy_Q9GrPZboz9qTAu2URbXDV72yXj-4l1yAq79iwsre4uST4FN4qAm3WVeJdYtijnup0UxUBLbe41tkIPhqDeD2rCAZgwrDQm6MkvQMpefcJBK7aGAcW.jpg?r=c30",
+                "duration": "47min"
+            },
+            {
+                "number": 9,
+                "title": "Pimento",
+                "synopsis": "Quando Jimmy finalmente consegue um cliente graúdo, ele é forçado a engolir um sapo e procurar ajuda. Mike ingressa no mercado de trabalho.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX3NrZ3IhVKB1nMZ7Sbd1OOp6dfIunvo7gjKURAWxZwKFMzGqZp5xjV6GIhjaCvuJgED9guZwSob4jTCZmBFY818srH9p0ln5MAOTkijrrnK2ZQ9FXYcggL0.jpg?r=de6",
+                "duration": "47min"
+            },
+            {
+                "number": 10,
+                "title": "Marco",
+                "synopsis": "Jimmy volta para sua cidade natal e cruza com o parceiro dos seus tempos de golpista. Num piscar de olhos, os dois retomam os hábitos da juventude.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfL_Ycf0d4g9w_1pCh4B3haJQZOaniYiYPvIEGK2BHdHDYVH2MXQ4b21f8bgKskOHkemasdL_fVjJE6bA65XHCyY7cIhnU0JMAWUnt_7mWFOrFjSdHADC7R8.jpg?r=231",
+                "duration": "49min"
+            }
+        ]
+    },
+    {
+        "name": "Blindspot",
+        "logoUrl": "assets/images/tv-shows/logos/blindspot.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/blindspot.webp",
+        "coverUrl": "",
+        "synopsis": "FBI Agent Kurt Weller is assigned to the case of an amnesiac named Jane Doe whose body is covered with cryptic tattoos -- one of which is Kurt's name.",
+        "videoId": "RqZkit-aCTo",
+        "details": {
+            "totalSeasons": 5,
+            "qualityLabel": "HD",
+            "likeRating": 95,
+            "maturityRating": {
+                "label": "14",
+                "color": "#E7792B"
+            },
+            "categories": [
+                "Suspenseful",
+                "Exciting"
+            ],
+            "genres": [
+                "TV Dramas",
+                "TV Mysteries",
+                "Crime TV Shows"
+            ],
+            "cast": [
+                "Sullivan Stapleton",
+                "Jaimie Alexander",
+                "Rob Brown"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Pilot",
+                "synopsis": "FBI Agent Kurt Weller is assigned to the case of an amnesiac named Jane Doe whose body is covered with cryptic tattoos -- one of which is Kurt's name.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZTVr8-LqboJkOrRPd5_yPwMYAVt2fiOAL-kLCdt0vZS0ObaAfhbk9241Y70736nhJZChakbmSMnNkKmLuiITiyj2Dz3XpFQHD7CWWNsfV7yR6kQxUZLVW6Q.webp?r=f3a",
+                "duration": "42m"
+            },
+            {
+                "number": 2,
+                "title": "A Stray Howl",
+                "synopsis": "One of Jane's tattoos leads Kurt and the team to a drone pilot with a vengeful plan. A scar on Jane's body reminds Kurt of a childhood tragedy.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX_ksrFEyvZWUlf2Jp64qcbIsj1HB_6jowjOTJePR5X56yuNdRNivzi1pq5fNsMfWz7_2kcN8aEauErCWor0o8w2DbSjxYMt_PIf9t5cvfjUGxKXVyCYUweh.webp?r=d65",
+                "duration": "40m"
+            },
+            {
+                "number": 3,
+                "title": "Eight Slim Grins",
+                "synopsis": "A man from Jane's past is killed while visiting her. A jewel thief shares the same Navy SEAL tattoo as Jane. A DNA test yields a surprising result.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSHKP6FJzJ6c0h25bVACbprZBKvdcMtlAThd8bNagI6LE20zzNSnrFLFLT43bnst1ORE2IsjFjiq7QzE7z3TtiPpogLTa8bqYUpL_r5zS2firUbRlMDXoitz.webp?r=8ac",
+                "duration": "40m"
+            },
+            {
+                "number": 4,
+                "title": "Bone May Rot",
+                "synopsis": "A tattoo leads the team to a pair of CDC scientists plotting to unleash a deadly virus. A tooth test contradicts Jane's DNA results.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYwKe86YUR0AFvxQpYJU_Gl7K-e3_GRgo4SbZ5KVugw5cnqPemBGZzgbbIb05MhS0KydIZ9BlFIKjAsaKVOWaHiXJ91LtFEGXaaJIBItvIQo4x1nzI7dNDsd.webp?r=cab",
+                "duration": "41m"
+            },
+            {
+                "number": 5,
+                "title": "Split the Law",
+                "synopsis": "The team clashes with Carter and the CIA over the occupant of a black site. Jane meets Kurt's family, but Kurt refuses to reconcile with his father.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXaplHkgTzG06aa7QHMAECgJ5oWdLhXSAJ-pu4f4J367bGVkDXG9CXJLTr6WKQn2owluGtCxqFGnbUF3GYgAVEbH6EIXt7hOXcm5MJRggfO0e8KGFHs-zIxT.webp?r=edb",
+                "duration": "41m"
+            },
+            {
+                "number": 6,
+                "title": "Cede Your Soul",
+                "synopsis": "Jane dreams of a mysterious lover who may or may not be Kurt. The FBI goes after a hacker's app that can make government vehicles trackable.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVRy0NP4O2jYXNpVnOwYKquWHBeaaxcXzaZKrW81w2mMrFa7pjPg-exYmI_eDBGzC8d0m0nYEIXYjBqFZ7nxghd6D4t_7y2vA6_rEweQJxs8_Elsw0Fv1LX9.webp?r=fbc",
+                "duration": "41m"
+            },
+            {
+                "number": 7,
+                "title": "Sent on Tour",
+                "synopsis": "A tattoo leads the team to a town of secessionists and Saúl Guerrero, a fugitive whose arrest causes Mayfair to reveal a top-secret operation to Kurt.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQkIz0JyMHBiUP-XW_b9gvwSVUmZE6cYWd6T64UiyU2ngZUThxpdyRT6opeLhLdWK8fU5XJJkl1odNrFewD-JQ6D7MTOprd_giUoTozxwLeRXNI6Uizu0Wr0.webp?r=b9a",
+                "duration": "41m"
+            },
+            {
+                "number": 8,
+                "title": "Persecute Envoys",
+                "synopsis": "Mayfair and Kurt's relationship is strained when she reveals secrets about her past operations. The team tries to prevent the murder of cops.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTxxxAeJAmWjL0L1QEIEJKPu8QyGZUEeB5WpyWalcwpB3UD0lUwlP1uL6Ac6MuUGGLBw_GAgFEgnG0by8qzL6-vpWimhP3gHtCHiigS2fdhAaZoeW8hXt_IM.webp?r=a38",
+                "duration": "41m"
+            },
+            {
+                "number": 9,
+                "title": "Authentic Flirt",
+                "synopsis": "Posing as a pair of assassins, Jane and Kurt go to a remote island, where they hope to intercept a kill list of witness names that has been hacked.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTZTCJKM8lf40tfYjAtQuMsCkAWA4Ub3rWhU9Cw-5kof9VkjAqt0dNlcZplaMFjgbrq9Hm0CjI_lD_ZHv9M2vVhmtHj3NOtiyyM1QFtU6QBM3Sp166o85C-P.webp?r=994",
+                "duration": "42m"
+            },
+            {
+                "number": 10,
+                "title": "Evil Handmade Instrument",
+                "synopsis": "The team takes down a Russian sleeper cell. When Carter kidnaps and waterboards Jane, the torture forces her to recover a partial past memory.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUXGTpviR4YHkX4qCWUtgjvJyDSoF4zATR99XkYhXM192YEFJh8r549Cs6XVAvuWINigPBZ1UeAu25u1XCJkMpLmZ3SfGXUFE-VboR4gpDHVNLSGGhre-Fv4.webp?r=d05",
+                "duration": "40m"
+            }
+        ]
+    },
+    {
+        "name": "Narcos",
+        "logoUrl": "assets/images/tv-shows/logos/narcos.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/narcos.jpg",
+        "coverUrl": "",
+        "synopsis": "O químico chileno Barata apresenta seu produto a Pablo Escobar, e Steve Murphy entra na guerra contra as drogas em Bogotá.",
+        "videoId": "xl8zdCY-abw",
+        "details": {
+            "totalSeasons": 3,
+            "qualityLabel": "HD",
+            "likeRating": 97,
+            "maturityRating": {
+                "label": "A16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Impactante",
+                "Sombrio",
+                "Suspense no ar"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries de ação e aventura",
+                "Séries dos EUA"
+            ],
+            "cast": [
+                "Wagner Moura",
+                "Pedro Pascal",
+                "Boyd Holbrook"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "A chegada",
+                "synopsis": "O químico chileno Barata apresenta seu produto a Pablo Escobar, e Steve Murphy entra na guerra contra as drogas em Bogotá.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa2yhJmPbeZUB9MRSWxbmExFOpLtKOmLrn4rXg1IL_eBZEvj9daCVGxS06b6nFSwyujlrnJJJbyVkFmtAlrFoysAaYozutH_WKHOoR5_eTQUd7UtK25HHbKz.jpg?r=9e5",
+                "duration": "57min"
+            },
+            {
+                "number": 2,
+                "title": "A espada de Simón Bolívar",
+                "synopsis": "O grupo comunista M-19 entra em conflito com os traficantes. Murphy aprende sobre as forças policiais colombianas com Peña, seu novo parceiro.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUhXpdDx-sp5VC_x3uPEE2CAfqBGwnoNHzsY6vX4uUO6V1MEwLvEHi3w12LqEnXTyAjTA46J0UDU7TTU8z95BxxvThDTiqRzi-jihnVl8aSCdaZu0XW0syWn.jpg?r=c3c",
+                "duration": "46min"
+            },
+            {
+                "number": 3,
+                "title": "Os homens de sempre",
+                "synopsis": "Murphy se depara com o alto nível de corrupção no governo quando ele e Peña tentam impedir as ambições políticas de Escobar.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYc_5JH53IevZpdd6yQnYMsrX1onXjLgeN8JyhvAL4lJhx4NMsVmPkFYyk4uBR6vo33jhhJ8KFEjSTls1M46YyEq-sbEAKNX68gGkAUh7CiSBQleIqEkgI55.jpg?r=b7b",
+                "duration": "46min"
+            },
+            {
+                "number": 4,
+                "title": "O palácio em chamas",
+                "synopsis": "Apesar do novo acordo de extradição, os Estados Unidos estão mais preocupados em combater o comunismo que as drogas, criando novos obstáculos para Murphy e Peña.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbiCIuiiQV_sHXo9gPX6JMWsiUxikda_FVwMYmI1ckf91sLKHXbVQBwcMH31BBbUvDc_yWnHPRC9kDHiCc1q9XbwQmmTiVp86tSdJANbwlkBXIn0cPuOhKrP.jpg?r=5c0",
+                "duration": "44min"
+            },
+            {
+                "number": 5,
+                "title": "Haverá um futuro",
+                "synopsis": "Os métodos extremos de Pablo levam os barões do tráfico à beira de uma guerra com Carrillo e o governo. Peña tenta proteger sua testemunha.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTuTvX4OQA5D-L7J5ZkzFFKgmfJKmae4hlpeOL1WDwPFw98Ii6Rel-AV4lQLB9YaC0GjLNzrl1DxJ6YH4KW8cKC_4rdw__UHGRIhFT00vuOotsVf0TY752qX.jpg?r=84c",
+                "duration": "54min"
+            },
+            {
+                "number": 6,
+                "title": "Explosivos",
+                "synopsis": "Peña e Carrillo fecham em cima de Gacha. Murphy tenta proteger Gaviria, candidato a presidente e pró-extradição, de um assassino ligado a Pablo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRq72M3ZiutxT2kLmLPLtJfH2_01zjPv8oMztsf8Jp5q9b55_ElKJwnQaPUlVYm9zXYnSKXbG8ZIUEuPNOKm7zFZ4Pa2WyUOE5ap1YTzT93qMvPoSseAPDhj.jpg?r=4a1",
+                "duration": "49min"
+            },
+            {
+                "number": 7,
+                "title": "Chorarás lágrimas de sangue",
+                "synopsis": "Pablo passa a se esconder quando é rejeitado pela classe política, mas encontra uma maneira de virar o jogo. Murphy e Peña finalmente conseguem ajuda da CIA.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQNnwMB-ljITSUdZcj2-xjNPqsn8va4TpdD5e4dHxS9aSAmZenktiw6sRih_RcH_b5CWSxrOZDG2mgYrCxgW9NecM_s8M02MenE_wY-egwPZexXoG8zL2Jjd.jpg?r=126",
+                "duration": "51min"
+            },
+            {
+                "number": 8,
+                "title": "La gran mentira",
+                "synopsis": "Um erro trágico força o governo a mudar de tática na luta contra Pablo. Mas os problemas dentro da sua própria organização são bem mais sérios.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZqQB7X8yMovvRMqfFLZUBqteEtScUxSc6xi8I-R926htoRl8X0oAYDaAXQvqVwktoOKl1D4A1ZeynaKypp_Tb-PelQo0GP9CMU2iZ9czX5kcnG19ISQknga.jpg?r=902",
+                "duration": "51min"
+            },
+            {
+                "number": 9,
+                "title": "La Catedral",
+                "synopsis": "A caçada parece finalmente chegar ao fim quando Pablo faz um acordo com o governo. Mas Murphy e Peña – e o Cartel de Cali – têm outros planos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVxCIqNshNkYXQu6oaf1NtnTnrQpy1N_4Sgp2kjrmm2i2nunDLiaW2_uwzmnRQIUJeX35z6wFffIf0j3O7RcaP_NIJ5fPsOHKVICas0XRlSofrEvjM5fDe9A.jpg?r=44c",
+                "duration": "51min"
+            },
+            {
+                "number": 10,
+                "title": "Decolando",
+                "synopsis": "As atividades de Pablo dentro da prisão levam o governo a tomar atitudes drásticas. Enquanto isso, Murphy e Peña têm que lidar com outros problemas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABext730E1_kEzgz8yTJ3ICfTzOffyPlpKutpt7KJAc6ENri2N4d0slyNyIfopHwayT1CBRvKsYAT8rebr-AUM9aAJif6Ld7ORe-StH3g4RdpWoy7kXwGzkQb.jpg?r=c42",
+                "duration": "45min"
+            }
+        ]
+    },
+    {
+        "name": "Orange is The New Black",
+        "logoUrl": "assets/images/tv-shows/logos/orange-is-the-new-black.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/orange-is-the-new-black.jpg",
+        "coverUrl": "",
+        "synopsis": "Condenada a 15 meses de prisão por um crime cometido em sua juventude, Piper Chapman deixa Larry, seu atencioso noivo, por um novo lar: a penitenciária feminina.",
+        "videoId": "vY0qzXi5oJg",
+        "details": {
+            "totalSeasons": 7,
+            "qualityLabel": "HD",
+            "likeRating": 94,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Sarcástico",
+                "Inteligente",
+                "Irreverente"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries baseadas em livros",
+                "Comédias para a TV"
+            ],
+            "cast": [
+                "Taylor Schilling",
+                "Kate Mulgrew",
+                "Laura Prepon"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Eu não estava pronta",
+                "synopsis": "Condenada a 15 meses de prisão por um crime cometido em sua juventude, Piper Chapman deixa Larry, seu atencioso noivo, por um novo lar: a penitenciária feminina.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVmO_fyqhQev3cAhRe3tume9uaRsd12LUvYIpxR-uzSaO9_sBQsFd6WpHxsS-lwv9lAorj0M_v3IlfhPDqYOk9PEGSdklUg44hm6WJUG8GnM88OR0FxtwsA6.jpg?r=752",
+                "duration": "52min"
+            },
+            {
+                "number": 2,
+                "title": "Soco no seio",
+                "synopsis": "Depois de insultar a comida de Red, cozinheira da prisão, Piper passa fome e luta para achar uma desculpa aceitável para a equipe da cozinha.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZlx5kKhkqYVokJaJ7tS3Wc8UaH578W4tMW2SjFVBzqUaG-zYGq43J0ZJCBztfNih8Df_xkLyipSHUpqcznnI9Qo4MrmQcmskBTzYsRvvDL456P4QYCTFUGU.jpg?r=3a0",
+                "duration": "53min"
+            },
+            {
+                "number": 3,
+                "title": "Pedido lésbico negado",
+                "synopsis": "Quando uma prisioneira chamada Crazy Eyes se apaixona por Piper, ela percebe que a sutileza nem sempre é a melhor arma para escapar de admiradores (ou admiradoras).",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABafYBV9gqa4Yv8BA_pHa6lIhiPDFtZ2zpt5z24WT06RNO60_5d54yLSgtehJ0dnlaZ-32UYiYTamox1MDCSDZdlGw_g62Vt_h_ywfyZvxhmgxLmAiDIwFKX6.jpg?r=3fb",
+                "duration": "57min"
+            },
+            {
+                "number": 4,
+                "title": "Inimigos imaginários",
+                "synopsis": "Piper conhece sua companheira de cela, as prisioneiras preparam uma festa de despedida e uma chave de fenda perdida tem consequências terríveis.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYGCXCJuYE1t4f0A1slxDHl7H0C99s7b32djDuDjBIjqwxNota492JSEEA-ZFO2Rxwm-uoKMFHJaIVx5_Im-fUvX3syr_YL9XJwaxV08L36k46XYkJoGa3_1.jpg?r=13b",
+                "duration": "55min"
+            },
+            {
+                "number": 5,
+                "title": "A galinha",
+                "synopsis": "Quando uma galinha causa furor entre as presidiárias, Larry começa a se perguntar se Piper mergulhou fundo demais na vida da prisão.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcuDCmnQQ4gwBEg-FIRKVDQ2U3nQjNSVAWJKTP3TXpUcNZK880v8KKPk5am3OxVgiAY_jB23xBuGq-21rtdnTeM2vuqUsrKtSGmZNAtCqed1PVnF4Ndabwn3.jpg?r=221",
+                "duration": "55min"
+            },
+            {
+                "number": 6,
+                "title": "Loucas de dar nó",
+                "synopsis": "As prisioneiras fazem uma campanha para ter representantes no conselho da prisão, mas Piper escolhe ficar fora da competição.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABV3U-ESY4htPbjGzXrjDbLXwQFx3Q1ojSTTGnQI2cIKt5XFRthIZ8sWW7CjK0PihE_5GPgB06hrAwYgbDEG284fUDC6emNz5-XdND_PGurt7I_Y4poE7c7Iz.jpg?r=804",
+                "duration": "57min"
+            },
+            {
+                "number": 7,
+                "title": "Donut sangrento",
+                "synopsis": "Piper quer a reabertura da pista de corrida, mas para conseguir isso, ela tem que pagar o preço cobrado por seu oficial correcional.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbIXD6dUxE0vI2hmnIHrxzA-BjfgrpvojtCQLWr5tUOrvwUqjWipaXpjl4NalJDDLPz0rMAuZSWW912zToiQ8CSsiM_wyxqk-CbZ7xpohkvt81x6P061mx9l.jpg?r=6ed",
+                "duration": "58min"
+            },
+            {
+                "number": 8,
+                "title": "Mula de Moscou",
+                "synopsis": "Red é forçada a usar sua cozinha para contrabandear drogas. Larry publica um artigo sobre Piper no New York Times. Dois bebês vêm ao mundo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaWVcb4o9bdjkck-9HH0ccAn1BpBClBOQlEWNQkxABbBumXxOA7vmdlrtr73FfQcNc4vTvjlNcIKTON3dDyhGytBQaWOlzQmJH2qytppSvcnwYkD7_dUClIp.jpg?r=67d",
+                "duration": "59min"
+            },
+            {
+                "number": 9,
+                "title": "Dia de ação de nada",
+                "synopsis": "O dia de ação de graças chega com a promessa de uma visita de Larry, mas a dança de Piper a coloca na solitária com um sanduíche de mortadela.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVIAl8U_tBYyf9y_kd2M_9hT0XmkCiNZx84z57DtdDZOLc62tr3_QD5py1TzPionFn2PdJnIkqawAnb7z8c9YkaWtFb4YiFmsxFc5pRDqHHuZOQGoRL6sq-r.jpg?r=ca3",
+                "duration": "60min"
+            },
+            {
+                "number": 10,
+                "title": "Bora Bora Bora",
+                "synopsis": "A caipira da Pensilvânia descobre uma nova habilidade, as detentas tentam assustar adolescentes e o negócio de Bigode enfrenta um problema sério.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXU_P7rh_lMYeYeqG7gGwMaP7xR8EQdu5WhFSBXQFJUAXJPleppfKQkEo8SQHjQg5bfqE6XsQPCJIDH-Dk26gunX0JkSw8afmyIw3f6wJrVeaAhcV1Um6i2w.jpg?r=895",
+                "duration": "54min"
+            }
+        ]
+    },
+    {
+        "name": "Suits",
+        "logoUrl": "assets/images/tv-shows/logos/suits.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/suits.webp",
+        "coverUrl": "",
+        "synopsis": "Harvey é promovido e precisa recrutar um formando da faculdade de Harvard. Ele escolhe Mike Ross, mas há um problema: Mike não tem diploma.",
+        "videoId": "Ab2YIbP5xw8",
+        "details": {
+            "totalSeasons": 9,
+            "qualityLabel": "HD",
+            "likeRating": 90,
+            "maturityRating": {
+                "label": "14",
+                "color": "#E7792B"
+            },
+            "categories": [
+                "Inteligente"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries de tribunal",
+                "Comédias para a TV"
+            ],
+            "cast": [
+                "Gabriel Macht",
+                "Patrick J. Adams",
+                "Sarah Rafferty"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Piloto: partes 1 e 2",
+                "synopsis": "Harvey é promovido e precisa recrutar um formando da faculdade de Harvard. Ele escolhe Mike Ross, mas há um problema: Mike não tem diploma.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQNnkq8PzKDJQ_QiN5j0QeivdoSs-0zwtRuDMIjZHR3Pd64_N6TkwFcKN9RUdTImgSbwcQ3SkUIvPyMp0WRkE98yAYYt50Bvdefx0a_gGqIEsBKIcogFG2xy.webp?r=1b9",
+                "duration": "81min"
+            },
+            {
+                "number": 2,
+                "title": "Erros e omissões",
+                "synopsis": "Um caso supostamente simples se transforma em pesadelo quando Harvey é acusado de conduta inapropriada com uma mulher casada.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeG9F9QoNP5RGCFrJOOu9-7gwGXYJmCp4OrN_J10PXtLNGdSnb1mF9JSbC9CDgptMke-dBYG24pGswkbnIzEwGYACAqJU0wZAdmmvCeWcD0k7d4VT9psznHA.webp?r=72a",
+                "duration": "43min"
+            },
+            {
+                "number": 3,
+                "title": "Vantagens",
+                "synopsis": "Jessica acreditava que a promoção de Harvey o colocaria sob seu controle, mas ele faz decisões sem consultá-la logo na primeira crise.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYoWGcqF9SaDr748Y3_BqN82my1Z4KlhMfVWjo2a-J6UM9hpjCNZWqZvgE2ryFepFJd15GFC2Z0TUPdEH84S_6_Xwt9vT-NFjxmk66ESQFLvQpZeKpeGXcAh.webp?r=21d",
+                "duration": "42min"
+            },
+            {
+                "number": 4,
+                "title": "Segredinhos sujos",
+                "synopsis": "Harvey defende uma pessoa ligada ao passado de Jessica e a relação entre eles é colocada à prova.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYUECyxIk7_HuDFyacji7TWt3qLshSL6EdnHx4LhuIAsn_HWF5HzGUrN-yxQ5UGdxA2ctGNPmxWHCmpI2zAxt1M9W0Drb6QTJuYONhsGed4Nj5k8qbv5QbQV.webp?r=c0f",
+                "duration": "43min"
+            },
+            {
+                "number": 5,
+                "title": "Fiança",
+                "synopsis": "Mike entra numa enrascada quando um velho amigo reaparece e pede sua ajuda.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbccAfnSdqajTSRN2fb7hAIP2u3De3qNtThXxfW1g5eX9tcUWpNKwnYJTAPl744tbkrHUpR5O7gz__Y-JYb_OAkyaweRwM9ghnOhq27TPTn8Ubv0l4H8DbK8.webp?r=e4e",
+                "duration": "42min"
+            },
+            {
+                "number": 6,
+                "title": "Ossos do ofício",
+                "synopsis": "Harvey e Mike tentam salvar uma mulher injustamente acusada de um crime de colarinho branco.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTpc6HKQuvpi-Fmcznv45pDzdWm1JKsFkfEmery10p-3_cH8-R_39CO3mQilJ3xM92XiSeLaTHJguRrvYOr-w326UJZzT6-1xVGumcv-63HhUTT1b1tUPuAY.webp?r=c83",
+                "duration": "42min"
+            },
+            {
+                "number": 7,
+                "title": "Conheça o adversário",
+                "synopsis": "Mike tem a oportunidade de testar suas habilidades diante de Kyle, o protegido de Louis, em um julgamento simulado.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZZCT6XrfMshbe4uHA51Q7ozemFzmcr0uXLXkzTgAhRdVp2nIRE258yv6f--COOXw-s68WjZGjtbb6mKUZRrKlPaZg257oXCGJQGY7nMRvocc--NbdhCR4EM.webp?r=585",
+                "duration": "42min"
+            },
+            {
+                "number": 8,
+                "title": "Crise de identidade",
+                "synopsis": "Mike precisa deter um Robin Hood moderno cujos atos ilícitos estão colocando em risco a empresa de um cliente.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVjpI62eAeti3PIiJSD2RSmwh2r7HrL5uLHON_nWaLiLz1PTouPSGKCFumRjw7mYIEG_bTH29JCDhX_rWmcGnojAOtOFJ2EBKorU0G8PDURI9z-EVBJA67uA.webp?r=692",
+                "duration": "43min"
+            },
+            {
+                "number": 9,
+                "title": "Invicto",
+                "synopsis": "Harvey está sempre um passo atrás de um advogado invicto porém desonesto, e precisa decidir se está disposto a sacrificar a ética para ganhar a causa.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWwx-Eu4KqPe_27olx2alS4oOrrg9C1KlkXY4fb4IYfLLSIvRvqxbG1VI3ftwoEFvnN424k2UX6H6t8WGgUcoOpx5wvqMp6Q9JXE8_t-l5cSJ9JIAmK7cMt5.webp?r=ad2",
+                "duration": "42min"
+            },
+            {
+                "number": 10,
+                "title": "Vida de fachada",
+                "synopsis": "A empatia de Mike por um executivo dispensado prejudica a relação da firma com um cliente e Harvey acaba tendo que proteger Mike da raiva de Jessica.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZNyk7ZPeOAODSOFhq-ZErFW39HDAKs24KT_Vtcs1Kn9W8_X00gBZTWfvwIWYsR7Xm37LNz8g-fbIoNSb8em7TYlKIuOsWiGKaY11xIN2TH6v0Glgl4ElAwt.webp?r=5e6",
+                "duration": "42min"
+            }
+        ]
+    },
+    {
+        "name": "13 Reasons Why",
+        "logoUrl": "assets/images/tv-shows/logos/thirty-reasons-why.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/thirty-reasons-why.jpg",
+        "coverUrl": "",
+        "synopsis": "Enquanto todos na escola estão de luto pela morte de Hannah Baker, Clay recebe uma caixa com fitas gravadas pela jovem.",
+        "videoId": "0XuOkYlUWIs",
+        "details": {
+            "totalSeasons": 4,
+            "qualityLabel": "HD",
+            "likeRating": 57,
+            "maturityRating": {
+                "label": "18",
+                "color": "#131111"
+            },
+            "categories": [
+                "Sombrio",
+                "Suspense no ar",
+                "Emocionante"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries baseadas em livros",
+                "Séries teen"
+            ],
+            "cast": [
+                "Dylan Minnette",
+                "Katherine Langford",
+                "Alisha Boe"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Fita 1, Lado A",
+                "synopsis": "Enquanto todos na escola estão de luto pela morte de Hannah Baker, Clay recebe uma caixa com fitas gravadas pela jovem.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWibtPE58J62YqnO0Ow46_Jmvpzdoeih1e_lMOa6YQ-yRG_-u2SedERFe2pHuEZchNQHDsJCU3WWukV6Dxg0agogKFNlHykkCIWRDCxZ6jj4bwHJ7oTxz3Wq.jpg?r=3ab",
+                "duration": "54min"
+            },
+            {
+                "number": 2,
+                "title": "Fita 1, Lado B",
+                "synopsis": "Hannah se torna amiga de Jessica e Alex, que também são novos na escola. Justin não aparece para a aula e a mãe de Hannah faz uma descoberta perturbadora.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS7xEMmxP1I1ZktYZRGOt_WMbwYRuLnj5S23pjvQHvLP9HM3yTA9yRskQTNYC6zw3wVvXns6n8gl0nsYfv9AFkqCUfVd-16bzYlRCsiDMKJcfCNhsdz2C3Yf.jpg?r=58e",
+                "duration": "52min"
+            },
+            {
+                "number": 3,
+                "title": "Fita 2, Lado A",
+                "synopsis": "Ciúmes e fofocas atrapalham as relações de Hannah. Alex se sente arrependido do que fez e os garotos tentam obrigar Clay a tomar um porre.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdP4jPItdbths1UY4ZPwzWzjR71P5ZrJjcRgynkIpK_-J0EzTuQ6GmKYpQgfCGkfa1vV5hSHW58SM319Ck-F-iCmjZqZfX9tZEACidoftvyf091cR8yvAkHp.jpg?r=acf",
+                "duration": "57min"
+            },
+            {
+                "number": 4,
+                "title": "Fita 2, Lado B",
+                "synopsis": "Hannah acha que está sendo perseguida e prepara uma armadilha. Sua mãe confronta o diretor da escola. Clay dá o troco em alguém que agiu mal com Hannah.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd7ZMUlYrFL0IS2su2-iMBvA0wMTngGrssEeCWbHqkyvPLRnZO0aj2Kyf0tNk1gZt3iVha1M--dbmcwP8kE-CJ4FEzPPgrH_j4CBAhjmxNgpZCylA5cyxCqk.jpg?r=075",
+                "duration": "57min"
+            },
+            {
+                "number": 5,
+                "title": "Fita 3, Lado A",
+                "synopsis": "Rola um clima entre Hannah e Clay na festa da escola, mas uma fofoca de mau gosto estraga tudo. Clay leva Courtney para visitar o túmulo de Hannah.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbVkiaaMqPVGO9WRMssmcnwJWQ8q-MdYFiuQNyOrDPmanGE5_ftfTO6zZ6unwr5-UrWAWod5omTeYbbNv6iVJtqqX0CUNhrq0KBUhebnK9BdSXekArMewxSl.jpg?r=90d",
+                "duration": "59min"
+            },
+            {
+                "number": 6,
+                "title": "Fita 3, Lado B",
+                "synopsis": "O encontro que Hannah havia planejado para o Dia dos Namorados não corre como esperado. Após se envolver em uma briga na escola, Alex tem que enfrentar as consequências.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTyvr081jSUMN7rvvpEtqPVQ0OOm08JlyYOif-rfLOh-D2bKFLiZYgx7edRv18jE-JbPKXwBNoXD8ClPSDabPtNSytyc3rYM_gVQCu1C_RdfKuVoj_tNK-d8.jpg?r=2ca",
+                "duration": "52min"
+            },
+            {
+                "number": 7,
+                "title": "Fita 4, Lado A",
+                "synopsis": "O trabalho de classe de Hannah é sabotado. Os pesadelos de Clay com Hannah o assombram até mesmo durante o dia.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZcd3e0FymT4Mfv6_1w64VUhLn9G5U0R4fQsXrYvUECIydoTvk8D3CS99vJrImyyoMLrVTrv80e6YLmJNAUZr1wTGKVcXF4nwwbhVGLhUOYItaD6npPDBzqN.jpg?r=72b",
+                "duration": "54min"
+            },
+            {
+                "number": 8,
+                "title": "Fita 4, Lado B",
+                "synopsis": "Inspirada por um poema, Hannah abre seu coração. Tony conta a Clay sobre a noite em que Hannah morreu.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSjwKPR-T_Al74noQKQphyYPnxSPsz9_jphf1FJg6PYolsIIgLPTfMb4Wl3wrxoJd8_A0741Jl2xVh0_6yvrYzML7KOzWewInTEgJhe4wL88qlApVcQNnnCE.jpg?r=567",
+                "duration": "54min"
+            },
+            {
+                "number": 9,
+                "title": "Fita 5, Lado A",
+                "synopsis": "Hannah testemunha um acontecimento traumatizante durante uma festa de verão. Clay tenta conversar com Justin, e Marcus diz que o pior ainda está por vir.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeta6DjxAwvvCA9QyJt369vaiVK1K_scSWyPwotbGK-1vt7VBuK_B9gu5DRDP8Tql7cLbXyXagUxBoppUGqbyPJyikT5zG4PBGUm5UByo9HflK4VhgQSNmji.jpg?r=e3f",
+                "duration": "59min"
+            },
+            {
+                "number": 10,
+                "title": "Fita 5, Lado B",
+                "synopsis": "Confusa, Hannah pega carona ao sair da festa. O comportamento de Jessica fica cada vez mais instável e Clay descobre a verdade sobre a tragédia.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeApSx_SLJm0EenB1PrRUROnexPRSdSU2txLk1rsDuyhbhOQqJLesUp04FCcqglucuJToU6dkyNOWAHHk0EHzrqran1uALv14I-AJ-cr6vUc-FUaeD54Iqbe.jpg?r=a0f",
+                "duration": "50min"
+            }
+        ]
+    },
+    {
+        "name": "Jovem Sheldon",
+        "logoUrl": "assets/images/tv-shows/logos/young-sheldon.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/young-sheldon.webp",
+        "coverUrl": "",
+        "synopsis": "Sheldon Cooper, um menino brilhante e esquisito de 9 anos, deixa o pessoal do ensino médio de queixo caído neste spin-off the The Big Bang Theory.",
+        "videoId": "FStMMcj-RiA",
+        "details": {
+            "totalSeasons": 6,
+            "qualityLabel": "HD",
+            "likeRating": 98,
+            "maturityRating": {
+                "label": "12",
+                "color": "#F7C727"
+            },
+            "categories": [],
+            "genres": [
+                "Sitcoms",
+                "Comédias para a TV",
+                "Séries dos EUA"
+            ],
+            "cast": [
+                "Iain Armitage",
+                "Zoe Perry",
+                "Lance Barber"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Piloto",
+                "synopsis": "Com apenas nove anos, Sheldon entra no ensino médio e sua genialidade provoca reações intensas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYb6dEuG1ZCOQ0oX5nXRayMRiG7ILxXrTlDYLctZhnoDkSt9eRzhOLcWdLg8HDQcoxUxqsE6FAfz5IdJ3tnqnT2pjde31Nz-ideJ2azaMihn1FK82OCzsogZ.webp?r=66b",
+                "duration": "21min"
+            },
+            {
+                "number": 2,
+                "title": "Foguetes, comunistas e o sistema decimal de Dewey",
+                "synopsis": "A preocupação da mãe leva Sheldon a utilizar técnicas de um livro de autoajuda para fazer amizade.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABagf-P2HpGlGrviwFXzHBdXgHF48zz78tRjipbNrPsz9m3USPBTi1i7WXQBbMImCw9jT7lP6A3rF8uiFE0-bDhVjhX0LInaMk7lHAZj3f-9kz3kw7GZBaob5.webp?r=b6e",
+                "duration": "18min"
+            },
+            {
+                "number": 3,
+                "title": "Pôquer, fé e ovos",
+                "synopsis": "Quando George é levado às pressas para o pronto-socorro, a vovó fica de babá, e as crianças se aventuram a ir sozinhas para o hospital.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdE9jzx335w4rAXLaSWJx18nqZMLW7knWVBY2qik6nK_iHYy4LpJeQkxtu9Btg9JbVnogo1rfoBefYj0K8SEzoZI3R72lfpXv8h5kYke6B_xZKk26CiKDBXv.webp?r=769",
+                "duration": "20min"
+            },
+            {
+                "number": 4,
+                "title": "Um terapeuta, uma revista em quadrinhos e uma salsicha no café da manhã",
+                "synopsis": "Depois de se engasgar no café da manhã, Sheldon precisa enfrentar seu medo de alimentos sólidos e faz uma descoberta surpreendente: os quadrinhos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYeiAqmKZ0RhQ--tUmksoxqoQPAkr1RazyF2hi0OhiuFcFvW4ZNKOIanfVZQznn1qc8IKEOwkczBem41Z2vXtPVebimDQ6TvZiz3gvJWUS_-Us3xEeygA9XH.webp?r=858",
+                "duration": "18min"
+            },
+            {
+                "number": 5,
+                "title": "Uma calculadora solar, uma bola de jogo e o seio de uma líder de torcida",
+                "synopsis": "Após fazer análises estatísticas para ajudar o time de futebol, Sheldon descobre o que é ser popular e se vê em apuros.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWXivG-GCwsBkvcfKAitK8kEkaoFdkIT6t26o6Hxc6AXvT--aXg_Sc3Vr-1RdshSPGeLX8UPGnexHQXYuHfFfH8bqlX096nZj43md0Zish9F4CuLg25CBPtX.webp?r=97b",
+                "duration": "19min"
+            },
+            {
+                "number": 6,
+                "title": "Uma etiqueta, um modem e uma úlcera",
+                "synopsis": "Quando um representante da NASA visita a escola e menospreza a sugestão científica de Sheldon, o garoto parte em uma missão para provar que ele está errado.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQZxGVU8UDFROj1AEfdU4petRUy_nxcS5FAQDy7iWZh3QG8Q3jfICUccCyFrW8k0mbN4jgHAWWjnLpvUnLcJoasTFk5IXVZUZoMETPY_SBrb7xLOWdadW234.webp?r=a54",
+                "duration": "18min"
+            },
+            {
+                "number": 7,
+                "title": "Bisteca, vodu e quem não corre, voa",
+                "synopsis": "As crianças se reúnem para resolver um conflito familiar, já que a vovó se nega a revelar sua receita de costela defumada para George.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ3deOw4Y2mKD6lYX9o1n8v3BL9QKaT1Xia3olyX0h8DkPtNTgZyDBJRVGPXdei2nUMnu3FIN1tkc3lvS4bzAe0vwDiyeNVeURAxUXzn1UZmfN3QP7B6jgr6.webp?r=2ef",
+                "duration": "18min"
+            },
+            {
+                "number": 8,
+                "title": "Cabo Canaveral, o gato de Schrödinger e o cabelo da Cyndi Lauper",
+                "synopsis": "Para se aproximar de Sheldon, George leva os meninos para assistir ao lançamento do ônibus espacial. Mary, Missy e a vovó curtem um fim de semana no salão de beleza.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR66_CCbVSD8IADF-FTB8TrqCHszydL-EuXYshG6cvdfoaYYxQssPgMKIaBdOzC9DFtu4s36OlNNaN25nn_iSD1ARQr1oACChluebAcOQeI0O5J0E6YpQPnB.webp?r=34b",
+                "duration": "18min"
+            },
+            {
+                "number": 9,
+                "title": "Spock, Kirk e hérnia testicular",
+                "synopsis": "O futuro de Georgie no time de futebol está ameaçado devido às notas baixas. Para ajudá-lo, o pai faz um acordo com Sheldon.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWDjAIQ5dzbyt7KoSzK0ZAmexXqxfwI7jmeG_W3C6CCARZHLt8pgaLB9hF-eKaz-GwVMQC2aBOhyuIwrRtPmnBWBL270hgLWepMlLEHm5g5rSLyJdCit3LXC.webp?r=0e4",
+                "duration": "19min"
+            },
+            {
+                "number": 10,
+                "title": "Uma pena de águia, uma vagem e um framastan",
+                "synopsis": "Sheldon faz uma entrevista em uma escola para crianças superdotadas em Dallas, e sua família se esforça para lidar com a ausência dele.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaFbxQsQF4nA0hlMG-Ug4F0VXkm1g2z4sI8jAz4n1p8vB4HPGL1SUuHdyICBvMiCs94eK261MG2FlBENbitQg-KbrmIHQiKzeeV8zWeqJx1S0kPHxmP5O0_5.webp?r=61b",
+                "duration": "18min"
+            }
+        ]
+    },
+    {
+        "name": "Dark",
+        "logoUrl": "assets/images/tv-shows/logos/dark.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/dark.jpg",
+        "coverUrl": "",
+        "synopsis": "Munido de um plano para impedir o apocalipse, Jonas viaja a 2019. Ulrich dá uma escapada com Hannah durante sua festa de aniversário de casamento.",
+        "videoId": "9RNHKKYJvg8",
+        "details": {
+            "totalSeasons": 3,
+            "qualityLabel": "HD",
+            "likeRating": null,
+            "maturityRating": {
+                "label": "A16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Chocante",
+                "Arrepiante",
+                "Sinistro"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Alemães",
+                "Séries de ficção científica"
+            ],
+            "cast": [
+                "Louis Hofmann",
+                "Oliver Masucci",
+                "Jördis Triebel"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Começos e fins",
+                "synopsis": "Seis meses após os desaparecimentos, a polícia cria uma força-tarefa. Em 2052, Jonas descobre que Winden sucumbiu a uma tragédia apocalíptica.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQQPoNAzMP3gZ1PyLuMhtjiJMfUaQF_U5T17jXsh2PQ_YfQ0xZ5Yjp3_6FM82D3UpQd5tevq4aqRe13Q1Jq20OhjkvNXifiXaZBSbcKEqNbYmsvYCsLZVEmW.jpg?r=2af",
+                "duration": "53min"
+            },
+            {
+                "number": 2,
+                "title": "Matéria escura",
+                "synopsis": "Clausen e Charlotte interrogam Regina. O Estranho leva Hannah a 1987, quando Claudia tem um encontro tenso, e Egon visita um velho inimigo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSIdEXvMfXHEK3E3d8mMetWuEViPVyk-EIEu13ZsSG_4dAjknari84Iwa2TMm3G9KmxlXLdQmPje7JhaPyshfeqfSgnF5stXa56BqiR9ZhKrJ-fLB6hrwKlA.jpg?r=6d8",
+                "duration": "54min"
+            },
+            {
+                "number": 3,
+                "title": "Fantasmas",
+                "synopsis": "Em 1954, Helge reaparece, mas só aceita falar com Noah. Em 1987, Claudia leva a máquina do tempo a Tannhaus, e Egon volta a questionar Ulrich.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU3nA2C0btwg3BLd9VjPpfIojRJETxaTV-QUSjSn75vIYK0Xzne3bRLwSAlP2azmXdTCxU6xL9pbpglc6JT91m_slDCd-NUj_Ls_W37zOMUtCKeHzLqGaMBF.jpg?r=c7c",
+                "duration": "56min"
+            },
+            {
+                "number": 4,
+                "title": "Os viajantes",
+                "synopsis": "Jonas encontra uma figura ameaçadora. Enquanto os jovens buscam respostas na caverna, os adultos no bunker compartilham informações sobre os viajantes.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaUr-of5PZ_Kz52g0FfzzYhyE-LrCgtyvTDUDJPfLeLPsf7n3VLGldeUP8fwUyomkGI4iuM0TLqs5vdAiBUiHbcDMcWzknzUj_pk9kZniBFneCQ4CHBrq53e.jpg?r=ac9",
+                "duration": "60min"
+            },
+            {
+                "number": 5,
+                "title": "Achados e perdidos",
+                "synopsis": "Em 1987, Ulrich aproveita uma oportunidade. Os jovens voltam à caverna com a máquina do tempo, e Jonas descobre uma brecha que pode mudar o futuro.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcc7GhuuXt7sKAfKzr8WDlmpv-SqzYKjzupsAWDeU73Hoff4EfULRrI8wvILVOz5M11G2wwAS_KZ-h81kvkPVOrkrcCDNYS29GdVENjnuqddDFAEL_XeaF-I.jpg?r=ca3",
+                "duration": "56min"
+            },
+            {
+                "number": 6,
+                "title": "Ciclo sem fim",
+                "synopsis": "Munido de um plano para impedir o apocalipse, Jonas viaja a 2019. Ulrich dá uma escapada com Hannah durante sua festa de aniversário de casamento.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWmKEi188ulIw8rNhtlT_8dNeLOYYmkNL6pBDNvVxZUOEUnI4aJZnJOvNq0Ihv1W1VwTgN-_NOuUxcaH3d2ZYlboFPYvUGyCSOOA17Ohs9tATpKV0iD3mH40.jpg?r=239",
+                "duration": "54min"
+            },
+            {
+                "number": 7,
+                "title": "Diabo Branco",
+                "synopsis": "Martha descobre a identidade do Estranho. Claudia tenta evitar a morte de Egon em 1987. Hannah viaja a 1954 para ver Ulrich.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT65aLIWkHs038_E_ALT2ERTmLgQ80u3ZdRBsD5wGxQ6LQH2kLbYhTWYd0i7KVpj-Mq6sOSxx9crqpil40Q9YegFhOlh7fyYglWgq-DCJwNyFwDeu49J000-.jpg?r=ec7",
+                "duration": "58min"
+            },
+            {
+                "number": 8,
+                "title": "Fins e começos",
+                "synopsis": "No dia do apocalipse, Clausen vai à usina com um mandado de busca. Jonas e Claudia usam a máquina do tempo para ligar passado e futuro.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABav2Xt7ksEC8PCQjTyRmEkfDZ9H_qkFyScFopOnjAWjwFouwA9n_-kM-wNK2N_Gq6mt3g_773Z0SP7YvUN2ThegtJ_txXoasEd0Ju5Z-Tqdb-JZ3RvPV5CYi.jpg?r=03f",
+                "duration": "57min"
+            }
+        ]
+    },
+    {
+        "name": "Elite",
+        "logoUrl": "assets/images/tv-shows/logos/elite.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/elite-alt.jpg",
+        "coverUrl": "",
+        "synopsis": "Quando uma escola pública desmorona, a construtora tenta reparar sua imagem enviando três dos alunos para um conceituado colégio de elite.",
+        "videoId": "GMwYlsMQyLQ",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 7,
+            "qualityLabel": "HD",
+            "likeRating": 76,
+            "maturityRating": {
+                "label": "18",
+                "color": "#131111"
+            },
+            "categories": [
+                "Suspense no ar"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Espanhóis",
+                "Séries teen"
+            ],
+            "cast": [
+                "Itzan Escamilla",
+                "Omar Ayuso",
+                "Miguel Bernardeau"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Bem-vindos",
+                "synopsis": "Quando uma escola pública desmorona, a construtora tenta reparar sua imagem enviando três dos alunos para um conceituado colégio de elite.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfcftm2Q703CaRANReqMU0AwrXm0F5nb4JauQRdYMnFcsGki3dvSm9w8KMDDGCfGtHy9JkCuAr6erRWZbV8gViIwP3W122wykTjXvPHez5_fUkESIRAGrwvq.jpg?r=f9b",
+                "duration": "56min"
+            },
+            {
+                "number": 2,
+                "title": "Desejo",
+                "synopsis": "Além de aproximar Marina e Samuel, um trabalho escolar também inspira Guzmán a tentar conquistar Nadia. Christian fica chocado com uma revelação.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRJZkXT_FP7_C_74ADvt9PcDgw0DrcUIPI1KHXTHhRuDYlmquWuGPrMNqfXSlNtg2Uma7RbcyiBuPyTGwGQSnV1NwgXWApINkgClbnFK84uH1-fvfE6RakJQ.jpg?r=638",
+                "duration": "49min"
+            },
+            {
+                "number": 3,
+                "title": "Sábado à noite",
+                "synopsis": "Na festa de Samuel, Nano tenta conquistar Marina e um ponche batizado afeta o comportamento dos casais. Nadia fica magoada com o que descobre sobre Guzmán.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSWKvcJ-grUWEMK2cbWcxLelxoZWhJhgYJYIPz8T67hn8RN8Yfyu8m1delXLwKB8i1tBs1-71kQK_ZkDK0VV1AheA6iKO6FQVPZydXhDrkPI73cpycUKQp2C.jpg?r=201",
+                "duration": "53min"
+            },
+            {
+                "number": 4,
+                "title": "O amor é uma droga",
+                "synopsis": "Guzmán tenta fazer com que Nadia o perdoe. Polo e Christian se aproximam. Para pagar uma dívida, Nano precisa cumprir uma difícil missão.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXFmG2tdJXGMpQytJ5bnmC9dBTxRNAaIMmydK7I8EUBW2HMVMn8VqIJ8caQ2ltA5JyVhTGLlMJ8gFSDCOTJZLYwWXLBA0bnFt15QkwwB608TT7A6dB3ZcS81.jpg?r=a80",
+                "duration": "48min"
+            },
+            {
+                "number": 5,
+                "title": "Todo mundo mente",
+                "synopsis": "Marina oferece a Nano uma chance de pagar a dívida. Lu revela um segredo propositalmente. Omar descobre que Ander contou aos amigos sobre eles.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfXGF0MVXZNRB2OnHUTF90jWu4GtLu0fapGpVxNhJm04EFgHdSaOjgV6zukWeMlQTvC4A120ESKQYlpTeSbJghl3DU7Kld3bVhmUBwI9lM2-6kDh2M0clv3z.jpg?r=911",
+                "duration": "49min"
+            },
+            {
+                "number": 6,
+                "title": "Tudo vai ficar bem",
+                "synopsis": "A maconha de Marina é descoberta. Uma gravidez levanta suspeitas. Christian é tentado a trocar um favor pela fama.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfV-wuba7NN9nvPAOHCzq5BUNQ_GAJ9LkpYGf5yft7w_3r3vk9cCrhdLx7Fnq3Q6wuUR16Hqiaezl9nK7okOrXI4HBaorXuqLMwuYYxYF8dwySV_j0D4rtrW.jpg?r=2af",
+                "duration": "49min"
+            },
+            {
+                "number": 7,
+                "title": "Tudo explode",
+                "synopsis": "Carla suspeita do envolvimento de Marina no roubo. O pai de Omar faz planos para ele. Ao descobrir o segredo da irmã, Guzmán busca vingança.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU4m1K1e-zEaxydnF5ru_l_uClkwRXNTE7UBcPH-xKQP2QsaPsbdRDQLxv_spdxCODnNWPkDYhyY9K2inv9bBL9Bxkxw8ascs9swzmyEVabteK0bj1jtAxYI.jpg?r=8e9",
+                "duration": "47min"
+            },
+            {
+                "number": 8,
+                "title": "Arzila",
+                "synopsis": "Os últimos momentos antes do crime são revelados. Christian toma uma decisão difícil. A polícia prende um suspeito. Magoado, Guzmán se torna imprudente.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfB2-Xb-oiWxba143jfSIW3YVy5bVBG86GFb26QTunS5VZIgRYHvS1bLQolDbsX6TvH5z-4WynwX7AYB-OBITkRWM5uTsExLgNWEm8zB0zQw3xRa2KYh2KGI.jpg?r=c69",
+                "duration": "51min"
+            }
+        ]
+    },
+    {
+        "name": "Sintonia",
+        "logoUrl": "assets/images/tv-shows/logos/sintonia.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/sintonia.jpg",
+        "coverUrl": "",
+        "synopsis": "Doni tem esperança de ser um astro do funk. Nando tenta fazer carreira no tráfico. Rita se preocupa com uma amiga.",
+        "videoId": "xsODpM3Rwdg",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 4,
+            "qualityLabel": "HD",
+            "likeRating": 66,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Íntimo",
+                "Emocionante"
+            ],
+            "genres": [
+                "Música",
+                "Séries dramáticas",
+                "Brasileiros"
+            ],
+            "cast": [
+                "Christian Malheiros",
+                "Jottapê",
+                "Bruna Mascarenhas"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Pegaram a Cacau",
+                "synopsis": "Doni tem esperança de ser um astro do funk. Nando tenta fazer carreira no tráfico. Rita se preocupa com uma amiga.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSTOtMUCFHEvBYFuN1_LzLqcLtOgkVqfKOpIocDRKhPzZcgRnOT_3_ilv-ygMn8LsMYTd5RWhscSpLoi1X4v-1z_kvN_23_n4mylPFJtlbbu04pL-fYMGvLS.jpg?r=342",
+                "duration": "37min"
+            },
+            {
+                "number": 2,
+                "title": "Fiz uma pro crime",
+                "synopsis": "Machucada, Rita se sente culpada por Cacau. Nando tem problemas com a polícia. Doni acusa Dondoka de roubar sua música.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb3sIUooNG0MlPELJ0GFCiLeFKuYgks6kRpxiKZxXBAjHxWfi_erWANcBuF6g3uUnbDTkE194YXegoh6XS96teqqw7Qs4R5AzHQDrLU95vtfr3QR1iYh-rTR.jpg?r=a63",
+                "duration": "47min"
+            },
+            {
+                "number": 3,
+                "title": "Segunda Chance",
+                "synopsis": "Doni começa a curtir o sucesso, mas os amigos insistem para ele manter os pés no chão. Nando defende Juninho contra ameaças. Rita enxerga um outro lado da religião.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXWrhoXb4TQQspZPhi445QwmlU9HKsY2x8Vre7tiD_crigFHOH2tDpk7B23gsRg9fZ29YqSvqXWPN6vcuxBHo92KJb-P_-S8LVft3UcyqOs7Gi0d_b6xuhah.jpg?r=2df",
+                "duration": "42min"
+            },
+            {
+                "number": 4,
+                "title": "O certo pelo certo",
+                "synopsis": "Doni fica sobrecarregado com a agenda de shows. Rita planeja um evento para arrecadar dinheiro. No tráfico, Nando teme morrer ao cair em uma armadilha.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXwPFqemBZOIKtrGunEXOfOxwA7_5xf7SN8-NBb6ZwtpG4vANXYxREAVOjSAHSEVxeAscZA7qXCPhnhmpKzEaA_2vkzAmZN85AdZrAdNwSctssJ0CisfP27-.jpg?r=654",
+                "duration": "36min"
+            },
+            {
+                "number": 5,
+                "title": "Faz teu nome",
+                "synopsis": "Badá decide o que fazer com Nando. Rita tem uma experiência religiosa profunda e pensa no futuro. Doni se apresenta para uma multidão frenética.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRhND2J_YkqedN7W0Xz_GMrbd_ZV_VCiqSL-3gSuoYE1rMTgRtrs9MbJTwUr9OXL0fdbXNHajD0hy4LmflLUOYf_QnbRN3HnugiL5uY9zDmzira8YA7HV4bO.jpg?r=a0b",
+                "duration": "44min"
+            },
+            {
+                "number": 6,
+                "title": "Mesma sintonia",
+                "synopsis": "Mesmo em luto, Doni ousa em sua primeira participação na TV. Rita se prepara para ser batizada. Nando é reconhecido no tráfico.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTic5pXH9xaT3LOJiAqn74WC50JV_CTOj0FJmqBVHOy-c3Aq1Y2JWhX-PKmz7Dp2cNCS0OLgfq-WaUO_-aW90kUZFDXpWrQRjBBlYXicI-dtdeT-oXSom2XJ.jpg?r=6a1",
+                "duration": "41min"
+            }
+        ]
+    },
+    {
+        "name": "Você",
+        "logoUrl": "assets/images/tv-shows/logos/you.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/you.jpg",
+        "coverUrl": "",
+        "synopsis": "Joe está tentando viver uma nova vida em Londres, e tudo vai bem até que ele é forçado a remendar alguns erros do passado e fazer amizades com um círculo de ricaços.",
+        "videoId": "WoV4O0Jfm8U",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 4,
+            "qualityLabel": "HD",
+            "likeRating": 89,
+            "maturityRating": {
+                "label": "18",
+                "color": "#131111"
+            },
+            "categories": [
+                "Psicológico",
+                "Sombrio"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries baseadas em livros",
+                "Séries dos EUA"
+            ],
+            "cast": [
+                "Penn Badgley",
+                "Victoria Pedretti",
+                "Elizabeth Lail"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Joe tira férias",
+                "synopsis": "Joe está tentando viver uma nova vida em Londres, e tudo vai bem até que ele é forçado a remendar alguns erros do passado e fazer amizades com um círculo de ricaços.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbKNqVzfb2RGT2zCrMfAYbiJv6-lnVGjjahM7nXceV_dKUIL9a1XAe4zJbjuYsAn6DwsVmI6ykNdwcCEVaSQ5SEzDkLRAAJVvpKDyWYinVESYLRngnZZGE1q.jpg?r=49f",
+                "duration": "51min"
+            },
+            {
+                "number": 2,
+                "title": "Exposição de arte",
+                "synopsis": "Joe usa suas habilidades e a dica de uma aluna para pegar seu stalker. Uma exposição de arte revela uma galeria de suspeitos e mostra mais do que os olhos podem ver.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVjhG9VUppY2jh2KsPctYLVshtdFO8I0kYYLZkIj3iPDdIZCRFp2T_keXxh5VGR9eNJY9GcDaabF-dRH-LE3mLluUbHo_pQhNB9aUWH5oLz5_fLtXqxeLH29.jpg?r=2aa",
+                "duration": "46min"
+            },
+            {
+                "number": 3,
+                "title": "Devorem os ricos",
+                "synopsis": "A mídia vai à loucura e o stalker de Joe se aproxima perigosamente da verdade. Os esforços de Joe para proteger Kate acabam tomando um rumo sombrio.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSqMz600GMc9P4xqY8RwdhnZe6Nwqwo1BZ7eWfhGLW5ceZX6YUwDmsPYzE86DJjwRZlXBPahU6p0sX1HoU6PScTK7l2Lw9rkQ2x9F3ULD4Mw4xN8u4ti4-6v.jpg?r=43e",
+                "duration": "43min"
+            },
+            {
+                "number": 4,
+                "title": "Hampsy",
+                "synopsis": "Uma pequena viagem no fim de semana dá a Joe a chance de caçar o stalker. Mesmo sem sinal de celular e Wi-Fi, Joe faz uma importante conexão.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTFbj9ybi9lDgdYK2dssfb_kSXNByuwWFPnZkwCQdBmeB_fLaDR7PrAWeyMDPcUymCiKmlEYU8yOdSWIwx3nUbvdQH8fJTvU9aqwqCsZd5o7Z_97Ng60LBMV.jpg?r=991",
+                "duration": "54min"
+            },
+            {
+                "number": 5,
+                "title": "O cão e a raposa",
+                "synopsis": "Joe volta aos seus antigos padrões e se envolve em um joguinho desagradável. Os planos de outros convidados acabam pegando fogo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSyWDEcEQzOl-JberO3ddmV5lQUlsfd-o9N27lZabGkl0BsZrY4uOBo84mVtuDnA0fjzt0gEqUQEhTd8NsL6iWO91Fo19OF0YvgEfzeHM_bupHOKaKZstXh_.jpg?r=0c5",
+                "duration": "48min"
+            },
+            {
+                "number": 6,
+                "title": "Melhores amigos",
+                "synopsis": "Após os assassinatos, Joe tentar encontrar um bode expiatório e Rhys investe em grandes ambições. Kate e Phoebe celebram sua independência.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXrVJbukWs--GkzBVfTwDqp96nDYibz_9WL6cDs9enY5kK2woHMYC7TFyX4ed6O138Bu4QoRo_EqV0uI420qD_F5SH9EJ4cbjAxKNNQfHdz4lTMJrHpRxS84.jpg?r=e08",
+                "duration": "54min"
+            },
+            {
+                "number": 7,
+                "title": "Bom homem, mundo cruel",
+                "synopsis": "O jogo vira quando uma pessoa influente chega à cidade e faz uma oferta tentadora a Joe. Nadia tem suas suspeitas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY4-EwYcyejoUU58_boA-CzmEujzw2qgRx8AV_5Je7STRHhZ7XU_YAoBVEXqGk8fSu5-j5_anLb9_hJn7KDraQ7zlz0-Z9y5qfXlkagXGRa5RkvrLDqqdjhG.jpg?r=ca1",
+                "duration": "46min"
+            },
+            {
+                "number": 8,
+                "title": "Aonde você vai, onde esteve?",
+                "synopsis": "Joe revive as memórias, mas não consegue se lembrar de um detalhe importante. Phoebe conta seus planos para Kate. Nadia tenta encontrar uma solução.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUdPaNopvu2txDEMLMdjmW2tMY88K5k63GiozTgOZnEq17c23oNyjY3G8OX5AzNR6fVOSoS2QYjhQSIWA6kKEKg5tR-EjnEGYvnGL58-pRXKioy9zCLqRO4L.jpg?r=127",
+                "duration": "50min"
+            },
+            {
+                "number": 9,
+                "title": "Ela não está lá",
+                "synopsis": "Joe luta para se redimir em meio a grandes conflitos internos. Após ajudar Phoebe, Kate confronta o pai e precisa encarar uma dura realidade.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWNIrQaAropOVVKl3Z7MYDU8Q6IHMTKIXQ4lp7R1YnhO0wt0sBYfGN2COgKiY-EFVFF_xEISMw9PSe3xTtJlZ6LIR_9rwdhFnYFiXtSSi2CuKqYRlYV0GBXn.jpg?r=2e7",
+                "duration": "46min"
+            },
+            {
+                "number": 10,
+                "title": "A morte de Jonathan Moore",
+                "synopsis": "Em meio a um turbilhão de sentimentos, Joe decide seu ato final na esperança de não continuar trilhando o mesmo caminho.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABccLV1VzVD0atyuOblUhCgj2V28Gvf7otcn0wcuKJ7kLTFWQGD0-c-2YHjg3qrwUlSXvL1p2oCGTWYltxBC6y3DEqLQrNjbphfvJZmm6EvjKd2mFvCku_fcy.jpg?r=8ec",
+                "duration": "53min"
+            }
+        ]
+    },
+    {
+        "name": "Mind Hunter",
+        "logoUrl": "assets/images/tv-shows/logos/mind-hunter.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/mind-hunter.jpg",
+        "coverUrl": "",
+        "synopsis": "O frustrado negociador de sequestros Holden Ford encontra um aliado improvável no agente veterano Bill Tench e começa a estudar uma nova classe de assassinatos.",
+        "videoId": "J4LWdJHJxbs",
+        "details": {
+            "releaseYear": "2019",
+            "totalSeasons": 2,
+            "qualityLabel": "HD",
+            "likeRating": 57,
+            "maturityRating": {
+                "label": "A18",
+                "color": "#131111"
+            },
+            "categories": [
+                "Arrepiante",
+                "Psicológico"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries baseadas em livros",
+                "Séries de mistério"
+            ],
+            "cast": [
+                "Jonathan Groff",
+                "Holt McCallany",
+                "Anna Torv"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Episódio 1",
+                "synopsis": "O frustrado negociador de sequestros Holden Ford encontra um aliado improvável no agente veterano Bill Tench e começa a estudar uma nova classe de assassinatos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXY6wXIHjS6XOX0IC0YGd5OttXO2iCPKkVzoqOGSKduG2oRB4RHPSKhe2oKOkKhZQs6PFkgnssmlxNk_MvfGSBf8CMBS9C6Ufl80cuSwAin0iuRTRfYtDoq1.jpg?r=490",
+                "duration": "60min"
+            },
+            {
+                "number": 2,
+                "title": "Episódio 2",
+                "synopsis": "Holden entrevista o sinistro e articulado assassino Ed Kemper, mas seu levantamento é alvo de críticas no FBI.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdOjQGrmxvEO4GvdgaoiDZlw5LgooUtNG5iXloA5PL8CWXcaluAd1AwTuzEn97i36PUVx6dx3TzyNAnxydGO3dpEfev3isvMWCSfMJajn_BJqE-vVKdwZRMF.jpg?r=5b5",
+                "duration": "56min"
+            },
+            {
+                "number": 3,
+                "title": "Episódio 3",
+                "synopsis": "A dra. Wendy Carr se junta a Holden e Tench, e as ideias do trio garantem uma prisão.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRd0sqbni5zntOWPNl8cQiFQroBZStun9O1kki_isQdIGMdFzxbzjwEPYK-Nh7ilvDVJr3zMQ0F2V0pC-QjItfsW4pmaU9GWwfT7wR_ILoAM2xdQhj_O_YpM.jpg?r=940",
+                "duration": "45min"
+            },
+            {
+                "number": 4,
+                "title": "Episódio 4",
+                "synopsis": "Bill e Holden consultam a dra. Wendy Carr para começar a classificação do perfil dos criminosos. Uma notícia surpreendente vem aí.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU1ufTfbMlZLMstM95SAzQWYBzrfpNfL5gNfzPJn83xVlHtUBDcNkGMtVYUJbkW_-oyiMEw5kVjMee0IW0B7By6DUbLa-pKq8Bo0ow4MYjryUzx9t37gZ9Ta.jpg?r=777",
+                "duration": "54min"
+            },
+            {
+                "number": 5,
+                "title": "Episódio 5",
+                "synopsis": "Holden e Bill retomam um caso espinhoso, com pistas divergentes e uma longa lista de suspeitos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYGJxLnzAFEGPee_FPtdtIh5cVElEYdtIrDrRftCwYgeEsdQZIJcSsJOIRL4M0tX52XS6GQvU0Qn4MS4GhYhHsmRfQL4WFaca68OrsN6anS2NgAuWFQXBDNc.jpg?r=b6b",
+                "duration": "42min"
+            },
+            {
+                "number": 6,
+                "title": "Episódio 6",
+                "synopsis": "Wendy considera uma proposta. Holden e Bill dão duro para comunicar à Justiça o significado das descobertas de um caso desconcertante.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWc3wP6M96gb4Kppfv0THFW9N9U0Ovj_elOAU8d-M--RENS-cfCwtPN2jp7C_vgqig5pJv2-ES9mmMi4vYSWtdmLf1Kh-TPslneF6vGzYXFydVfKfhRnIWlH.jpg?r=ea6",
+                "duration": "34min"
+            },
+            {
+                "number": 7,
+                "title": "Episódio 7",
+                "synopsis": "Wendy dá uma guinada arriscada na carreira para se dedicar exclusivamente à equipe do FBI. Está difícil para Holden e Bill ignorar a carga emocional do trabalho.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcZhLs5fyBsnhQvN7cKI4ixquLzsTgoh2hjQVyM-2b4h6YkoRMbzyfsEzrIj8gaGOvsiXrwEwZpUEl7C_r-Q6gA9OS4G5MXIz48URjUs0G3ZBVDIi1KKCpfS.jpg?r=511",
+                "duration": "53min"
+            },
+            {
+                "number": 8,
+                "title": "Episódio 8",
+                "synopsis": "Bill e Wendy entrevistam candidatos para preencher a nova vaga na equipe. Holden se intriga com o estranho hábito de um diretor de escola.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUuTxbe--EVoia40cQ6yYdwi1RQkLONHDdaVjIHIXsv0nu_qVmd2TVjzSyTt4NSfA_PT0hpCN0DXtIIh-0WM1MbUI-XunFIiMHe_f3vA6CYQq04VKBAbsiWa.jpg?r=a8a",
+                "duration": "54min"
+            },
+            {
+                "number": 9,
+                "title": "Episódio 9",
+                "synopsis": "Os métodos de Holden durante uma entrevista com um assassino em massa dividem a equipe e entram na mira de uma investigação interna do FBI.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfb_PTs-uIC2tKd71nnmEukV93-t-oJe-iyCHMP37G4hRTtGbCR3nYvgcH2NxoEx03hd_4cXe-HBCBYGH35xUHiwffE3U2sbt8Cni9sl0PSIDlOSQVA6RiH_.jpg?r=ea4",
+                "duration": "48min"
+            },
+            {
+                "number": 10,
+                "title": "Episódio 10",
+                "synopsis": "O estilo controverso de Holden rende uma confissão, mas põe em perigo a carreira, os relacionamentos e a saúde. A equipe se abala com uma investigação interna.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWqlxY-oO16ZuEWO5-yY0pPraSfa90ZqHE2Yyy0J4NEazU_pvCukpw9kYfnv2LTaRWeP77vU0JO79hrbIYPZLNazSEgFjMxumEjOOccPrXkHVzRbnYJDzL3C.jpg?r=83c",
+                "duration": "53min"
+            }
+        ]
+    },
+    {
+        "name": "Stranger Things",
+        "logoUrl": "assets/images/tv-shows/logos/stranger-things.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/stranger-things.jpg",
+        "coverUrl": "assets/images/tv-shows/covers/stranger-things.jpg",
+        "isFeatured": true,
+        "synopsis": "Hopper consegue entrar no laboratório enquanto Nancy e Jonathan confrontam as forças que levaram Will. Os meninos perguntam ao Sr. Clarke como se vai para outra dimensão.",
+        "videoId": "sBEvEcpnG7k",
+        "details": {
+            "releaseYear": "2022",
+            "totalSeasons": 4,
+            "qualityLabel": "HD",
+            "likeRating": null,
+            "maturityRating": {
+                "label": "A16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Sinistro",
+                "Nostálgico",
+                "Assustador"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries de ficção científica",
+                "Séries teen"
+            ],
+            "cast": [
+                "Winona Ryder",
+                "David Harbour",
+                "Millie Bobby Brown"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Capítulo um: O desaparecimento de Will Byers",
+                "synopsis": "No caminho de volta para casa, Will é aterrorizado por alguma coisa. Não longe dali, um laboratório secreto guarda um segredo sinistro.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUeawyJp01S5zKbXn4myjXC-Zjnswbldv61MCjK4anxtIC55X3sSad9VzVbiHFf-PewzcnJZ8DFbH-90r9iXObyzQsUDuVKW2aNJatiWIyiLoHNTcBvA8bQd.jpg?r=d74",
+                "duration": "49min"
+            },
+            {
+                "number": 2,
+                "title": "Capítulo dois: A estranha da Maple Street",
+                "synopsis": "Lucas, Mike e Dustin tentam conversar com a menina que encontram. Hopper tem perguntas para uma Joyce extremamente ansiosa.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRLKKpt9utEJ3bu-E-TonM1hQllvHQNILHJSiLweBAnzNMNrLNbEmpr4qJknXFZTeCuWWZffCHF6hJ-kTzJOkuhpXAy7kS3_zgLEkZqcbQLgeue1ihK5FMLI.jpg?r=cc9",
+                "duration": "56min"
+            },
+            {
+                "number": 3,
+                "title": "Capítulo três: Caramba",
+                "synopsis": "Cada vez mais preocupada, Nancy procura Barb e acaba descobrindo o que Jonathan anda fazendo. Joyce está convencida de que Will está tentando se comunicar com ela.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaTxc1HToU6ZkVKAaFUtUCWIU65fPnXtG2KpFswzdApZliicw9YGxHZ3kHaqhmxSz5VC1e4Xfs0z3GtD2-iMqmZhzgjQcqG-HdKpEbVd2Yn9m2tgHaspBuK_.jpg?r=8da",
+                "duration": "52min"
+            },
+            {
+                "number": 4,
+                "title": "Capítulo quatro: O corpo",
+                "synopsis": "Joyce se recusa a acreditar de Will morreu, e tenta se comunicar com ele. Os meninos transformam o visual de Onze. Nancy e Jonathan acabam se unindo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfMEB7L1y4rwvAIbzmJb1f4YZsRcUm-YURZkt3NzlAy7V8rQ41f6fivkRd8xH9NGcd-3pVOW2OsLRR874bsEMl6DSG6Bo9lh1SkaaD3Y2HiiN8XJFY2FiXWV.jpg?r=6ad",
+                "duration": "51min"
+            },
+            {
+                "number": 5,
+                "title": "Capítulo cinco: A pulga e o acrobata",
+                "synopsis": "Hopper consegue entrar no laboratório enquanto Nancy e Jonathan confrontam as forças que levaram Will. Os meninos perguntam ao Sr. Clarke como se vai para outra dimensão.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ4T59nVRHKS1lBQUe5oXuUMVcqOglLZlGxCI57zIzrhId0EzwY4bIFHBSARfv2TzlzBhniSh33c01wdNVMvLnWb6N-lgr4KC8GU356ZHKvVc-van_0g2Pqh.jpg?r=6d4",
+                "duration": "53min"
+            },
+            {
+                "number": 6,
+                "title": "Capítulo seis: O monstro",
+                "synopsis": "Desesperado, Jonathan procura por Nancy na escuridão, mas Steve faz a mesma coisa. Hopper e Joyce descobrem a verdade sobre os experimentos conduzidos no laboratório.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX4FAZAhZD3EOWlQaXlNFFcF3YfOE5Kiwk_LMIvQW3yNGpLB7sE8EeaXyurr-e9Sr1bhlOL75_FevIJM36OwAD4JnD7AUmPihaqsnJXq9vCxN9OBTcpEGJ2Z.jpg?r=3df",
+                "duration": "47min"
+            },
+            {
+                "number": 7,
+                "title": "Capítulo sete: A banheira",
+                "synopsis": "Onze tenta chegar a Will, mas Lucas dá o alerta de perigo. Nancy e Jonathan mostram à polícia as imagens capturadas pela câmera.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXHqLIyON0lOv29X503rTBy3dNqUbGZkFszbeSr6_PzVwkxIbq5x9oqb_j24n3kuabSP9Z-H2GEYT2mR1ad1J3oYipFjsOF_S3J9NfOVkn9PUYMDMwS-8KNd.jpg?r=779",
+                "duration": "42min"
+            },
+            {
+                "number": 8,
+                "title": "Capítulo oito: De ponta-cabeça",
+                "synopsis": "O Dr. Brenner interroga Hopper e Joyce enquanto os meninos e Onze esperam no ginásio. Nancy e Jonathan se preparam para uma nova batalha.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdohkeQ3STKKDbuvwQ14hgTXfCqkyWycQsaaWVfHSeDsB8drZ05mOzjQDAXQOAWSFSQeqsCs6mxfuEh8BHkP8483zUGcAaCiNCtr_8a9rbgCccTqEtWPAC52.jpg?r=4b6",
+                "duration": "55min"
+            }
+        ]
+    },
+    {
+        "name": "Berlim",
+        "logoUrl": "assets/images/tv-shows/logos/berlin.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/berlin.jpg",
+        "coverUrl": "",
+        "verticalThumbUrl": "assets/images/tv-shows/vertical-thumbs/berlin.jpg",
+        "ranking": 1,
+        "synopsis": "Em seus dias de glória, Berlim reúne um bando talentoso em Paris para uma missão impossível: roubar 44 milhões de euros em joias vindas de 34 cidades em apenas uma noite.",
+        "videoId": "v1cU2p4fp7M",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 8,
+            "qualityLabel": "HD",
+            "likeRating": 99,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Empolgantes",
+                "Romântico"
+            ],
+            "genres": [
+                "Dramas românticos para TV",
+                "Séries dramáticas",
+                "Espanhóis"
+            ],
+            "cast": [
+                "Pedro Alonso",
+                "Michelle Jenner",
+                "Tristán Ulloa"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "A energia do amor",
+                "synopsis": "Em seus dias de glória, Berlim reúne um bando talentoso em Paris para uma missão impossível: roubar 44 milhões de euros em joias vindas de 34 cidades em apenas uma noite.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUey0N__oVCdbnStJYmXKe6h7DeaamGeBgmTiABtsrAqx2BwYHNkVxSyHB-fVgS6KWG8wwgeJBNPiO1G6St_GLCPQs8gOFh5QVV-4LhPQKYVJPZ0hPou8d_E.jpg?r=c17",
+                "duration": "57min"
+            },
+            {
+                "number": 2,
+                "title": "Âncora e Lobo",
+                "synopsis": "Roi e Cameron precisam impedir Toureaux de atrapalhar o plano. O amor está no ar nas ruas e nas Catacumbas de Paris.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdP0GqeGQ-mLrWtYvNLx5asBA5MQ7ar05QQ1R9K2E2oZnAzlyo58ts-Zhbv4Bh5A45hea_AXt55jGUNKvhj5cFPBmy3-Y0JNeQ48oafgxbMYiENIxpNIR39q.jpg?r=383",
+                "duration": "50min"
+            },
+            {
+                "number": 3,
+                "title": "Trinca de embriões",
+                "synopsis": "O plano vai bem, mas logo começam os problemas. Berlim tenta se dar bem no assalto e com Camille. Damián recebe péssimas notícias.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABci4OUCzq3-NhWuas9ROVEX78KfpeYZt7edoniv1zaaEAbmH4HFFzXxPLBF4PSsrJ3ZwyRA57b3Xm8Uc1uOlkz7YMi3dJ5M58Pe-Qp-e9t6EDskkiO09fRic.jpg?r=8ec",
+                "duration": "44min"
+            },
+            {
+                "number": 4,
+                "title": "Um aquário nas costas",
+                "synopsis": "Começa o assalto, e o grupo questiona a liderança de Berlim, aumentando a tensão. Keila e Bruce precisam limpar os próprios rastros.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT2IDIHpTim_hvzYcERProTpdWtoB2292PbpWXlT3IWQJ357pYYxLHQB52jBF7gLQAQ2V50zvJ0wdbTQ8pJIni-IMrXsdFz-a70vcuI2QwlnhgPsTYiSlJ3Q.jpg?r=2e7",
+                "duration": "42min"
+            },
+            {
+                "number": 5,
+                "title": "After Love",
+                "synopsis": "O trauma de Cameron volta à tona em uma corrida ilegal. O plano passa para a próxima fase, e o grupo foge da polícia.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfeKCWeXQKAv_YW6tsJbbGRdhKSudjwKVBXpZbmnW1dDjBf1XcpnOdfP_X8Ss48xCM7dWfj0xvR9sBkMQdoQRlkA55uShYg_tF_q2Tn6986Z6l5TCAgMvr7v.jpg?r=f65",
+                "duration": "46min"
+            },
+            {
+                "number": 6,
+                "title": "A noite do limoncello",
+                "synopsis": "As suspeitas de Camille só aumentam. Um problema com Damián, Cameron e Roi coloca os álibis do grupo todo em risco. Uma ponta solta chama atenção em Paris.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXu-stErYjM8QPneWl3jdtX0V78t1_zaydbQIj4ptcZpbwcDNDcYcHZFLnwFDqdezfEHLabdBUPNVoT0OlyU5BkH-olPrtnZS1xFOJYHFzuUy4rDIt8VNqtg.jpg?r=1fe",
+                "duration": "42min"
+            },
+            {
+                "number": 7,
+                "title": "A última virgem do Ocidente",
+                "synopsis": "Bruce ajuda Keila com uma situação de vida ou morte. Sierra e Murillo ajudam a polícia francesa a investigar o assalto. Berlim sofre uma última derrota.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbFrIWTuCWkMbkaMOLvxGyJ3EJ-GR6l7MCjoYpquJzbgLHsAXOlWGvOHWaf4zKlKGvkoKdXW7q0Sq8HkQqpqPa42GbBw2dlOBHUWZKvEmfa34VPwMcoZjEsO.jpg?r=725",
+                "duration": "49min"
+            },
+            {
+                "number": 8,
+                "title": "Um elefante em risco de extinção",
+                "synopsis": "Encurralado, o grupo bola um último plano de fuga. Só o tempo vai dizer se Berlim está preparado para o golpe que está por vir.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABat52IgxoOM23m4ZmfpeT9tfwCbRFE8hJJ8a6nzhikBhy_r8UX3-Pl4ozlrh-8dh7pC93F6EvFkCgBMnCx1c5cUjeO-ai6EP_q6r1fpjk3cYkWt91D0sRtoj.jpg?r=676",
+                "duration": "60min"
+            }
+        ]
+    },
+    {
+        "name": "O Chefinho",
+        "logoUrl": "assets/images/tv-shows/logos/boss-baby.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/boss-baby.webp",
+        "coverUrl": "",
+        "verticalThumbUrl": "assets/images/tv-shows/vertical-thumbs/boss-baby.webp",
+        "ranking": 9,
+        "synopsis": "Nesta série de animação baseada no grande sucesso do cinema, o Chefinho decide apresentar seu irmão mais velho à frenética vida no escritório.",
+        "videoId": "k397HRbTtWI",
+        "details": {
+            "releaseYear": "2017",
+            "totalSeasons": 0,
+            "qualityLabel": "HD",
+            "likeRating": null,
+            "maturityRating": {
+                "label": "L",
+                "color": "#009C4C"
+            },
+            "categories": [
+                "Imaginativo",
+                "Empolgantes"
+            ],
+            "genres": [
+                "Programas infantis",
+                "Séries baseadas em livros",
+                "Comédias para a TV"
+            ],
+            "cast": [
+                "JP Karliak",
+                "Pierce Gagnon",
+                "Kevin Michael Richardson"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Amarelo 100",
+                "synopsis": "Recém-nomeado presidente da Baby Corp, o Chefinho tem um plano ambicioso: conquistar 100% de amor aos bebês. Só que agora todo o mundo tem que fazer hora extra!",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABV5QZWI95Xq8Uw8Gmtt0oijG04absKJyyOJwbPve4igOM8hU2_M9ptoMcKErCHrIGEnO1uquutLnL8MLZ-tLn2vS2aQCp4nDB32MMDovYk2Wf1-7yVj2aCw6.jpg?r=28a",
+                "duration": "24min"
+            },
+            {
+                "number": 2,
+                "title": "Pyg & Tam",
+                "synopsis": "O Chefinho declara guerra contra uma nova ameaça: um programa de TV que traz um cabrito de suéter, um tamanduá de chapéu e a cuidadora deles.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRrNsp50su8QvfoCbhqryFvK9qXI0PlNqS1RYfBdTLJC5Nh60BQz4KM32cTEEB7zFQciDLW8j1nrM_JghPSY7Hz3ZHI-P47iK78UI5nClQOlGWW8mD3dxyHE.jpg?r=d4d",
+                "duration": "24min"
+            },
+            {
+                "number": 3,
+                "title": "Sala de conferências B",
+                "synopsis": "Para levantar o moral da empresa, o Chefinho dá uma festa de cupcakes. Depois, ele manda um gerente ajudar Tim em alguns negócios de família.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbBquwjlsEgD5xQhTfaivA9CXsozmxCUxhTsTiyID1EfZ5rc3JlzXYVA8-_f0MO2lhIwp9wIG2UXVVIHTxDqFOFaZZ8CjLbKC0otE49hox-F2rr1Qv1YPm99.jpg?r=d65",
+                "duration": "24min"
+            },
+            {
+                "number": 4,
+                "title": "Plano de jogo",
+                "synopsis": "O mais novo plano do Chefinho é vencer um concurso para mudar o nome do time de futebol da cidade para \"Os Bebês\".",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABedM2mHw9vkbKTzHqRKMzIVhlaJfbLdRLMpbnXxG_GsnmEgjc-mtRVTA4docOaaeTWe43iENdE4zN9Y7yI-tFAbxJnD5lTHpu0IqdckvpYSQIbD2RAszq0q3.jpg?r=e77",
+                "duration": "24min"
+            },
+            {
+                "number": 5,
+                "title": "Corujão",
+                "synopsis": "Depois de conseguir assistir a um filme de gente grande, Tim decide que já está maduro o suficiente para ser adulto. O Chefinho dorme na casa de uma amiga.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSEYmSIAEsBGJaai8zdhN4cM-ulZxwf0W7YB6ixGpCNsCS4rq__XRy-doukWCwgvPAd1RwaPENA8-RyVv615Gjfkg1xlOCe7BkfhJ08-M5reNVGDpJDabOb7.jpg?r=3da",
+                "duration": "24min"
+            },
+            {
+                "number": 6,
+                "title": "BCE",
+                "synopsis": "O grande pesadelo do Chefinho se torna realidade quando um consultor aparece na Baby Corp com ideias malucas. Para piorar, o recém-chegado está de olho na presidência.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRFdsBAgzQutimppNvhcYT0clMN8itFANHroKboBiCWgEz1sPej3TISCLK4O3dIyp5gO3A6kXIN6a46Hz7X9VabtLVpBNpi177JNQCKFJSWyBMbziTLe7npV.jpg?r=cb2",
+                "duration": "24min"
+            },
+            {
+                "number": 7,
+                "title": "Chicago",
+                "synopsis": "Em uma viagem à Cidade dos Ventos para visitar Gigi e o Vovô, o Chefinho fica cara a cara com um bebê ambicioso que quer se passar por adulto.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQykmKhRy5FObvurWKpZfRA1idiW9uZQneusLr4ckR_Y9lAB8135TTUKvdvqw_Ci71TOmzVL5GXzzpamVBWEzvynNppllS3ilb-8JAb979qPdXj0kK1qfkRe.jpg?r=f12",
+                "duration": "24min"
+            },
+            {
+                "number": 8,
+                "title": "Chefe Bebê",
+                "synopsis": "O Chefinho está fora para fazer alguns exames médicos e cabe à Staci lidar com três problemões: a dupla Pyg e Tam, o consultor e o Sr. Pulga, o Pug.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRyR6wdz5NyFqROW9QM_EZgu_pXK71xD0_Ey6bwqVS_WrR6YHh4u4IOuMVpnMLWQKJpVqL8vRIhJ0aCvvsJUOXszDJRRashMO_6JMOTqMuKtncdco1URbFRh.jpg?r=efc",
+                "duration": "24min"
+            },
+            {
+                "number": 9,
+                "title": "Bum, bebê",
+                "synopsis": "O Chefinho descobre um velho plano do Bebê Mega, o Projeto Bum, que pode acabar com os direitos dos bebês.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbeY64f6EOPFhy2nLjqXWOXGYx5mha4PhbXYDlF3LnaU_UcaM-7QQMhFtlGCiPuPUTEssjLBCQGpTMJZ7AArY8Y3Mtu3ZAzIiuO3KZ5vDH7OUrGErKS1XVyU.jpg?r=a4c",
+                "duration": "24min"
+            },
+            {
+                "number": 10,
+                "title": "A confusão do Mike Futebol",
+                "synopsis": "Sem querer, o Chefinho vende o brinquedo preferido de Tim. Agora, a saída é mobilizar o pessoal da empresa para consegui-lo de volta.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRSZuTakfWmm1pxBQBvzuLEOp9nXJ7SaEP0ZQxd_nDXuWojegTKJK6xWqobiZiqQSW9oVTmEedYgC4sLy3UlPjroKudM6IkmGz73N4Z9PoxsZGM4G9Bnfi5m.jpg?r=8e4",
+                "duration": "24min"
+            }
+        ]
+    },
+    {
+        "name": "Capitães do Mundo",
+        "logoUrl": "assets/images/tv-shows/logos/captains-of-the-world.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/captains-of-the-world.jpg",
+        "coverUrl": "",
+        "verticalThumbUrl": "assets/images/tv-shows/vertical-thumbs/captains-of-the-world.jpg",
+        "ranking": 2,
+        "synopsis": "Dos vestiários ao campo, esta série documental acompanha de perto os 32 times em busca da maior conquista do futebol na Copa do Mundo FIFA 2022.",
+        "videoId": "QvbQtARquR8",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 6,
+            "qualityLabel": "HD",
+            "likeRating": 80,
+            "maturityRating": {
+                "label": "A12",
+                "color": "#F7C727"
+            },
+            "categories": [],
+            "genres": [],
+            "cast": []
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Grandes expectativas",
+                "synopsis": "Messi fala de Maradona, Thiago Silva conta como foi a luta contra a tuberculose e Tyler Adams tenta aumentar o prestígio do futebol dos Estados Unidos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXCYzCfeCGVKuahtCfxa_M33SnPBfrfcDAilW5vMyLKcajw68YLTBEkMQFONQYoSYY2PDaOUplQ5XgSn2h0ivXL1f_YVvKZ8tbq5oM1v1i7BjLRNVOCJtOiO.jpg?r=321",
+                "duration": "45min"
+            },
+            {
+                "number": 2,
+                "title": "Onde está o Messi?",
+                "synopsis": "Simon Kjær fala sobre a vocação ao estrelato de Kylian Mbappé e a política por trás do futebol no Qatar. Kalidou Koulibaly reflete sobre a solidariedade africana na Copa.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTKkGcjT9c9LhWtl474-Ps_BZ0PbVkTf27_L-PnIrAu1OxaJ-DndgJpE7CKbCpgFqtatIHTVNWD3OEbwjEoBPwNVvXzINF2arEw2-Zyx4aftcUM1Dr5YfmLG.jpg?r=53a",
+                "duration": "44min"
+            },
+            {
+                "number": 3,
+                "title": "Contra todas as expectativas",
+                "synopsis": "Com as oitavas de final chegando, a Austrália quer derrubar um deus, Maya Yoshida tenta reescrever o legado do Japão na fase eliminatória e o Marrocos faz história.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABci-6dYSgtEdBnPVVhwg4KdE_n4nPuVReiZ4BLTktdC0H-zpKXkfwO0m6HTfkVwKka4CLmDl_m2NmIfWbXVqrwmQH0QOCUdojtpjjvS9VXIwE6pfirccG-_G.jpg?r=194",
+                "duration": "49min"
+            },
+            {
+                "number": 4,
+                "title": "A queda dos gigantes",
+                "synopsis": "Ronaldo vira reserva. O Brasil é eliminado pela Croácia, e Thiago Silva se prepara para as críticas. O marroquino Romain Saïss fala sobre a energia no Catar.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZxhq_kxXuABu_1L63BrHxN9Qqjqg6--ravdmtq8ahes4rW0L09gY2UskYdXYXCOJ5r4gVs8RSf6kcYhD8w1DKz0FqRonfXrO4bnk9RPmLWClOs-fH8d3Zcc.jpg?r=0dd",
+                "duration": "46min"
+            },
+            {
+                "number": 5,
+                "title": "Jogos mentais",
+                "synopsis": "Colegas de time se enfrentam na partida entre a França e a Inglaterra. A Argentina reabre antigas feridas da Holanda. Luka Modrić se despede das Copas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfpbDNa-414Z8z4txh2YJ0sNh3FFjUBV_wQJbwi9C7AtzgPZYQ8b39TozgRy_HerdRnjjdOtU3JhvBpbbSzt0n8MrpLeGNCoWio6_-zLbvP1rGCn47YbZdx9.jpg?r=ea2",
+                "duration": "56min"
+            },
+            {
+                "number": 6,
+                "title": "Que vença o melhor",
+                "synopsis": "Com metade da população mundial assistindo e seu legado em jogo, Messi enfrenta Mbappé e a França em uma final que é uma batalha épica entre titãs do futebol.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXcv8fpYXKCbzdX8o6FV88_MOBQA7khuFUcqG-C4ntbxgHss3gBJMU7FtzQE-J2nuAyYkKtuYiqSdua4YBIZRyUYXv_P23R2v7wjeCjcd7nwuXZGzAoPma4Z.jpg?r=a7d",
+                "duration": "42min"
+            }
+        ]
+    },
+    {
+        "name": "A Fuga das Galinhas",
+        "logoUrl": "assets/images/tv-shows/logos/chicken-run.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/chicken-run.jpg",
+        "coverUrl": "",
+        "verticalThumbUrl": "assets/images/tv-shows/vertical-thumbs/chicken-run.jpg",
+        "ranking": 4,
+        "synopsis": "Uma galinha esperta e um galo convencido lideram uma fuga da fazenda na esperança de salvarem seus pescoços.",
+        "videoId": "_-Kz67kea8Q",
+        "details": {
+            "releaseYear": "2000",
+            "totalSeasons": 1,
+            "qualityLabel": "HD",
+            "likeRating": null,
+            "maturityRating": {
+                "label": "L",
+                "color": "#009C4C"
+            },
+            "categories": [
+                "Trapalhadas",
+                "Empolgantes"
+            ],
+            "genres": [
+                "Filmes para a família",
+                "Filmes para toda a família",
+                "Filmes de comédia"
+            ],
+            "cast": [
+                "Mel Gibson",
+                "Phil Daniels",
+                "Lynn Ferguson"
+            ]
+        },
+        "episodes": []
+    },
+    {
+        "name": "DNA do Crime",
+        "logoUrl": "assets/images/tv-shows/logos/criminal-code.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/criminal-code.jpg",
+        "coverUrl": "",
+        "synopsis": "Benício e Suellen trabalham em seu primeiro caso juntos. Rossi autoriza métodos não convencionais para resolver crimes na delegacia.",
+        "videoId": "8IIJC-T4myo",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 8,
+            "qualityLabel": "HD",
+            "likeRating": null,
+            "maturityRating": {
+                "label": "A16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Explosivo"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Brasileiros",
+                "Séries de ação e aventura"
+            ],
+            "cast": [
+                "Maeve Jinkings",
+                "Rômulo Braga",
+                "Thomás Aquino"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Barata Voa",
+                "synopsis": "Benício e Suellen trabalham em seu primeiro caso juntos. Rossi autoriza métodos não convencionais para resolver crimes na delegacia.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdQBjTCQpo9d2HXmJDhzbKS73ek6dv-KlZ50jO-eJ8gEDp6hErY6HHhQEBswpehpBAmafAVmcwBvwDs9l6Ofuf0I4cwO6GeHONA.jpg?r=337",
+                "duration": "55min"
+            },
+            {
+                "number": 2,
+                "title": "Vestígios da Noite",
+                "synopsis": "Uma nova agente se junta à equipe e Benício explica a dinâmica do crime organizado. Sem Alma se reencontra com seus ex-colegas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABanjEp3aQ0t6A0i6BGzSzRJdRrYh2Vz_YdGXQPgsFiTEdib8GubvKLi3ke19gvZ9-l9_JrfGBfsuJjmPAeKTwlCc9IwK4yuE_MU.jpg?r=420",
+                "duration": "63min"
+            },
+            {
+                "number": 3,
+                "title": "Bicho Homem",
+                "synopsis": "Após descobrirem duas novas amostras de DNA, Suellen e Benício seguem Roleta. Mas eles não são os únicos atrás do suspeito.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdhwmcGp1sBhyY-z0pupDicSHUm5h1fkwYQ0ipJL_Wqa2FEGEI6Ygs37haPMHgnjHiMQJyiBdB3tRwKDpq5GgRJzJZBwjX8Yst0.jpg?r=820",
+                "duration": "55min"
+            },
+            {
+                "number": 4,
+                "title": "Comboio",
+                "synopsis": "Enquanto Suellen se recupera, Benício lidera a investigação e fica sabendo sobre um grande roubo. Isso força Sem Alma a mudar os planos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdFhKRH_2rRbRoveYRSZ30N4hLpLSDpWujm0YINuWaL5xcJX7GTZflRDXTR6mztCIChNurGdOHunvdAkU7_iXxA8Nb7JQngM3ZE.jpg?r=a9a",
+                "duration": "61min"
+            },
+            {
+                "number": 5,
+                "title": "Tudo Pela Família",
+                "synopsis": "Benício e Suellen colhem amostras adicionais de DNA de outros suspeitos. Yuri e Rossi discutem sobre a Quadrilha Fantasma e Moreira é transferido.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSMHUF9rwJHxYrp6ggkPeu0Tl3GHNz_aSO-Kr4twdPq2dSkxspgDVmAeXw5LIsxjwilp84C5z3WFMMbb60sBJwZ9pA7ut0K4Aic.jpg?r=46e",
+                "duration": "62min"
+            },
+            {
+                "number": 6,
+                "title": "Em Casa",
+                "synopsis": "Yuri é realocado para Brasília. Suellen e Benício descobrem o verdadeiro nome e o passado de Sem Alma. Uma reação da Quadrilha Fantasma gera resultados fatais.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ29t9kfCi3fU6MSwDJEJd4nKGUhDdggKudz9R-xtJ8WEToEMn25QFGSZcFoE23i9RI5eh2ywDljHubKDSPljvuZxxGo4wGQr7c.jpg?r=4f4",
+                "duration": "61min"
+            },
+            {
+                "number": 7,
+                "title": "Hacienda",
+                "synopsis": "Isaac e Sem Alma discutem. Benício e Suellen lidam com assuntos familiares urgentes. Um traidor causa problemas para Rossi e seu departamento.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRc0Mwx1KB4GDcj6GpMI1YFvh61majt1Kq9ayYnAJMVh6zC0ryZMq0TEB7uXeu89atjmBxdWSHmKZc1c60Ehcs2PABQfG6WfC8E.jpg?r=33d",
+                "duration": "56min"
+            },
+            {
+                "number": 8,
+                "title": "O Fim e o Início",
+                "synopsis": "Guilherme cede à pressão. Maria Clara se vinga. Benício e Sem Alma têm um confronto dramático.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ353ng_WXD3f-As_iQWbO2btiw5pZEWV3rvvSWQLIsf4MPMpuixebqP_6Qb6fn_mZpe6TCt1PT6RRlGgbmu2_mlIzWnLTc4SXU.jpg?r=1b6",
+                "duration": "49min"
+            }
+        ]
+    },
+    {
+        "name": "A Grande Ilusão",
+        "logoUrl": "assets/images/tv-shows/logos/fool-me-once.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/fool-me-once.jpg",
+        "coverUrl": "",
+        "verticalThumbUrl": "assets/images/tv-shows/vertical-thumbs/fool-me-once.jpg",
+        "ranking": 3,
+        "synopsis": "A ex-soldada Maya vê imagens do marido assassinado em uma câmera-espiã e descobre uma conspiração fatal há muito tempo em curso.",
+        "videoId": "nhC8AG8cwcc",
+        "details": {
+            "releaseYear": "2024",
+            "totalSeasons": null,
+            "qualityLabel": "HD",
+            "likeRating": 97,
+            "maturityRating": {
+                "label": "A16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Psicológico",
+                "Suspense no ar"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Britânicos",
+                "Séries baseadas em livros"
+            ],
+            "cast": [
+                "Michelle Keegan",
+                "Adeel Akhtar",
+                "Richard Armitage"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Episódio 1",
+                "synopsis": "Maya vai ao funeral do marido numa imponente residência. Dias depois, ela tem a impressão de ver o falecido nas imagens de uma câmera oculta.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTn4eT30mqvR2ZWrZD27CNRSf0lCL1_lXbQHqA2oGVlVVBLoSr6DIkipF9eRlZ2x2LeFc2fxzEv6nawscSDw3_x4u6ZFX3crU_XtjJRj0iDtritlGWpdLL9S.jpg?r=d63",
+                "duration": "55min"
+            },
+            {
+                "number": 2,
+                "title": "Episódio 2",
+                "synopsis": "Novidades sobre a arma do crime mudam completamente o curso da investigação. Ao buscar respostas, Maya descobre algo surpreendente sobre a irmã.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcl4g4iK0NOR4fBt6nWD72SJG22If-r2-Ast8hpES8gJRrXXTSTiuDQbqQIgJMRt41NU8AgT4OdhkJjpXjkM28c-hArk6mwyOwFpCBBG9LTi0H4SBQoYUulz.jpg?r=4a2",
+                "duration": "45min"
+            },
+            {
+                "number": 3,
+                "title": "Episódio 3",
+                "synopsis": "Maya vai atrás do carro que estava sempre de butuca atrás dela. Aproveitando a distração dos adultos, os filhos de Claire investigam o mistério da antiga foto da mãe.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXBKPQqyITLYJ44uICJqr27aFjxcswPqYTf8TG_pCI0RvqxlcqL4IrR-Il1kipIvuSqOFuLasu2z3M1w9B9nJVRTJJ1P0bPYWTMbpU6Bh6Uuk_BzAAPFcziV.jpg?r=b27",
+                "duration": "40min"
+            },
+            {
+                "number": 4,
+                "title": "Episódio 4",
+                "synopsis": "Os detetives questionam o proprietário da moto que estava na cena do crime. A condição de Kierce atrapalha bem no meio de um momento crítico.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABex7zoE206vdilv0iX9YdhIYa6AQ4MJDE3gGsCf4bDpGfgEYXzwKImitTSZaRZY6XLkvHJilLBs4MvztXFmW-IyhL7aErJ_UU8hTkMDO4Nd2CHvzIh4dlKzX.jpg?r=d42",
+                "duration": "50min"
+            },
+            {
+                "number": 5,
+                "title": "Episódio 5",
+                "synopsis": "Maya vai levar Lily para visitar a avó e acaba se deparando com um rosto inesperado. Kierce não aceita o resultado dos exames.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc_O7N7-DGHvQ7Btt2LVSU29zrtHqw_1WOCxXzW4N4BSq5LhGoyUjb-8R2eB0qWy_PKFKtAU8JJwEBTwk4DAcESfl60G12G20Ka5gm-RWT0bi-N8sTjC8y6r.jpg?r=99b",
+                "duration": "54min"
+            },
+            {
+                "number": 6,
+                "title": "Episódio 6",
+                "synopsis": "Maya acaba virando uma suspeita depois de ser encontrada na cena de um crime, mas decide fazer outras acusações. McGreggor descobre algo novo sobre Kierce.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfsjbrrG22yNskjesvnKjxP7dmDroQaeA937zA8rMfMvA7daYY_yMyM0ilCw6MGSocpX1Li7wPz9qqWxnr2Nw6_0V4tB3Z2MEieFuzvOOZ_vbp_xwl1ZFGGr.jpg?r=caf",
+                "duration": "51min"
+            },
+            {
+                "number": 7,
+                "title": "Episódio 7",
+                "synopsis": "A polícia tem um suspeito e Maya decide tomar uma medida drástica. Shane pede algumas respostas para Maya, mas acaba descobrindo uma verdade inesperada.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaKIv8otXJn4_DIRj8pDBAY7vu8ad3rqEgjff2tlfY_vY_BJlGnE-EaWoRv2hKySJkpSRGhKu8wt2AJ7NEWqoGBhkNp__MMmFA_Mg6P3bdIJRTdozQpj9DCM.jpg?r=f69",
+                "duration": "50min"
+            },
+            {
+                "number": 8,
+                "title": "Episódio 8",
+                "synopsis": "As últimas peças do quebra-cabeça começam a se encaixar, e Maya confronta a família do marido mais uma vez. Kierce pede ajuda a Corey.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaS79wjfkdG3iHkNF4zn7u0rclgrdtVqvbOrPXVmjZQ2HyiUVFBWeqkuVugR2ydwVtvZiADGh0YQ6Dz-6mnRTzyK2JtNcsigYX0vnhJPmX4ykwj7s9K4JQdf.jpg?r=71c",
+                "duration": "35min"
+            }
+        ]
+    },
+    {
+        "name": "Hankcock",
+        "logoUrl": "assets/images/tv-shows/logos/hancock.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/hancock.webp",
+        "coverUrl": "",
+        "synopsis": "Will Smith é Hancock, um super-herói falido forçado a contratar um especialista em relações públicas para ajudá-lo a refazer sua imagem.",
+        "videoId": "KS5E8r82l2g",
+        "details": {
+            "releaseYear": "2008",
+            "totalSeasons": 1,
+            "qualityLabel": "HD",
+            "likeRating": 70,
+            "maturityRating": {
+                "label": "12",
+                "color": "#F7C727"
+            },
+            "categories": [
+                "Adrenalina pura",
+                "Empolgantes"
+            ],
+            "genres": [
+                "Filmes de comédia",
+                "Filmes de ação e aventura"
+            ],
+            "cast": [
+                "Will Smith",
+                "Charlize Theron",
+                "Jason Bateman"
+            ]
+        },
+        "episodes": []
+    },
+    {
+        "name": "Como Defender um Assasino",
+        "logoUrl": "assets/images/tv-shows/logos/how-to-get-away-with-murder.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/how-to-get-away-with-murder.webp",
+        "coverUrl": "https://mrwallpaper.com/images/file/how-to-get-away-with-murder-season-1-wlse7gxcm4q0cr1p.jpg",
+        "isFeatured": true,
+        "synopsis": "A advogada criminal e professora Annalise Keating se envolve em um caso de assassinato junto com cinco de seus alunos.",
+        "videoId": "dkb-aBaxkVk",
+        "details": {
+            "releaseYear": "2020",
+            "totalSeasons": 6,
+            "qualityLabel": "HD",
+            "likeRating": 58,
+            "maturityRating": {
+                "label": "A16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Suspense no ar"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries de tribunal",
+                "Séries de mistério"
+            ],
+            "cast": [
+                "Viola Davis",
+                "Billy Brown",
+                "Alfred Enoch"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Piloto",
+                "synopsis": "Uma professora de direito criminal oferece estágio para os melhores alunos, mas cinco deles descobrem o preço a pagar por tentar impressioná-la.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVRt4wY-G6bQM7mtHRSqJL4Gfc1xhncJSSiL84whx39jgGQEwc31Ul8L2bEr79Cue6cTPN5YzXapSy8ELwEj4ZJ-G3eBaP24w8omICFgfVaqtsC2XSSz6ftJ.webp?r=9f2",
+                "duration": "44min"
+            },
+            {
+                "number": 2,
+                "title": "É tudo culpa dela",
+                "synopsis": "Annalise desafia seus alunos a provar a inocência de um excêntrico milionário suspeito do assassinato da esposa.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZddTEhIM78Skn996tp1rZ-6ZwTHAiroXMwCUpzxnujBwf11cxWyExs_GweHswo_7gq-RlV1JRHHrWivAPzgktZ0xEyGUFXOOH4X8n0fsY2FnVm_3cygQqQ2.webp?r=5a5",
+                "duration": "43min"
+            },
+            {
+                "number": 3,
+                "title": "Sorria ou vá para a cadeia",
+                "synopsis": "Uma mãe de família tradicional é presa, mas parece não ser tão inocente quanto esperado. Annalise representa um atleta ligado ao caso de Lila.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXeO_s_5LAWnpGJGBbcBT-8PLD0i-IEGUdnJPo9ytCziQCTcuERQwsEoKDvM0QaD7fQ-VcrYa3AelxRlFAcfzHcSYoALDK9IksoIbQGp3oO3aopGvH69DQXQ.webp?r=360",
+                "duration": "43min"
+            },
+            {
+                "number": 4,
+                "title": "Vamos dar uma espiada",
+                "synopsis": "Uma verdade chocante vem à tona em um caso de crime de colarinho branco. Wes descobre uma pista perturbadora.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeJagXFkPffRpD-9aA4L8xUL7NwSwySAdVM-dky_fsNFZwEnt-ZxR3wR_XaxIumEo07XoHWlI6loHRg9j_0r3Z67EwrZ3c4FW5EfGOnqr0j_gjT1I_r2iqKl.webp?r=166",
+                "duration": "43min"
+            },
+            {
+                "number": 5,
+                "title": "Nós não somos amigos",
+                "synopsis": "Annalise representa um menor que matou o pai policial. O caso de Lila gera uma briga entre Annalise e Sam. Wes e Rebecca questionam as atitudes de Annalise.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcQMfnGcNZ0a_Ly86JqEBzMU41T1kGBRVzbmfMTpk8PbKXajVMUZV0HhqJFnZ8A8yZKVr6UbsTkemJCxIndQWI5jvzkmO0lfRL5ADw43yHsb3tpYV_728kek.webp?r=cee",
+                "duration": "43min"
+            },
+            {
+                "number": 6,
+                "title": "Maldito esconde-esconde",
+                "synopsis": "Questões pessoais vêm à tona quando a equipe assume o caso de um homem sentenciado à morte pelo pai de Asher. Frank tenta encontrar Rebecca.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYgutFiW6exNNcAAOO4WCIyQuD2SgVPf5LE-AZefUMD-eW3UbzcKrofAqrykMMAUTNzmywM_Fc1veMzDLWw3AVK_hf_Ko4AnA8KlkeoVJ6rl_kFgh52dLaHX.webp?r=196",
+                "duration": "43min"
+            },
+            {
+                "number": 7,
+                "title": "Ele mereceu morrer",
+                "synopsis": "Com segredo de justiça decretado em seu processo, Rebecca resolve agir sozinha. Michaela é surpreendida com um acordo pré-nupcial.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTax2a7tiiYbq1ORbA8EbddPeE0TwC7pdP6ngBsTzQmqOeGa0-LVeLOlu29PvDhzl41KSPTS4gV4plFSfeG4-aEpm6H6AOtt8rnfF3qZ5xJJSz-sZukHQeNt.webp?r=702",
+                "duration": "43min"
+            },
+            {
+                "number": 8,
+                "title": "Ele tem uma esposa",
+                "synopsis": "A equipe representa uma mulher acusada de matar a babá. Mais fatos são revelados sobre o caso de Sam e Lila, e uma descoberta chocante coloca as relações à prova.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfhSNhklhVHA5U3G9iSjZdyrkX3DBYivKs9LnXQISNEKCiCScLzBdkRof2jnSXFA55-bOCV3DT65foZzvTQ3LKI4uNXKfMTQ7ck4Pa7ePwv7Utbkdrz_xISn.webp?r=a90",
+                "duration": "43min"
+            },
+            {
+                "number": 9,
+                "title": "Me mate, me mate, me mate",
+                "synopsis": "Os flashes do futuro começam a fazer sentido, e as circunstâncias da morte de Sam são finalmente reveladas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUEuMm68wtsVbDF0ClDsH_CGtF34xeChw_GlySUpwT_62JHqrA166f0a7JwnPWurOe1DZJDtyjEbRhQlPAfv15pZ_UiJMI48Ay21THKAFGhHd5uO612epIZ8.webp?r=a95",
+                "duration": "43min"
+            },
+            {
+                "number": 10,
+                "title": "Olá Raskolnikov",
+                "synopsis": "A equipe ajuda Annalise a procurar Sam, mas não está claro o quanto ela sabe do caso. Uma visita surpresa dificulta a vida dos alunos.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZpRAjXYA5fBnAbh4x7t9Op2aH1QbN0S0JKgmdrvl6XuEwQ_u21obgMEBPevliizVRad907tZRKZis4sM_EpMj8YPVt96hf5Pou-fAeNMMH1B5-64TdkORNX.webp?r=552",
+                "duration": "43min"
+            }
+        ]
+    },
+    {
+        "name": "Lucifer",
+        "logoUrl": "assets/images/tv-shows/logos/lucifer.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/lucifer.jpg",
+        "coverUrl": "",
+        "synopsis": "Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.",
+        "videoId": "NcnK3C5W7SI",
+        "details": {
+            "releaseYear": "2021",
+            "totalSeasons": 6,
+            "qualityLabel": "HD",
+            "likeRating": 97,
+            "maturityRating": {
+                "label": "A14",
+                "color": "#E7792B"
+            },
+            "categories": [
+                "Irreverente",
+                "Empolgantes"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries policiais",
+                "Séries dos EUA"
+            ],
+            "cast": [
+                "Tom Ellis",
+                "Lauren German",
+                "Kevin Alejandro"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Piloto",
+                "synopsis": "Depois que um velho conhecido tem uma morte violenta, o charmoso Lucifer jura vingança contra os culpados e consegue uma aliada inesperada.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU1GBA3JIeiY9A-Ar26Jjrbo2GmEQCqomTNS3eEJDtvYXp5hhJ6zuPapFpKTRT772yxpWuv3RBcyonun-bOEkFlZ3Q34MS0PhqazcBsoINOE8YPh28VAJ-Lx.webp?r=54a",
+                "duration": "44min"
+            },
+            {
+                "number": 2,
+                "title": "Fica, Lucifer. Bom Diabo.",
+                "synopsis": "Apesar da vontade de voltar para o inferno, Lucifer decide investigar de que forma os paparazzi contribuíram para a morte de um jovem.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABehNX5Bwy2jmzW4a_BJvIGY-2ECTH7EA6eoO699T9_PZMXQ-o6pWDn5QVCy61-M8WNaVIfz4QOKQCAVDHxwymYkErt84Y3PZTb4l34Dj-uhsdoYOMy4niS0e.webp?r=5db",
+                "duration": "43min"
+            },
+            {
+                "number": 3,
+                "title": "O quase Príncipe das Trevas",
+                "synopsis": "Um quarterback profissional prestes a virar a bola da vez se mete na maior encrenca e pede para Lucifer ajudá-lo a provar sua inocência.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABayEPlV0235_dml3OLegWHMI3_ieJn9hC7eUK65vbTAjkkCbpz5-Wx1CCwPIh3k-JOyoaEzR2tssHKcvKF8SG60Up3SSsbfWntmVJP21MsstLkFxIGLQnpGw.webp?r=5b4",
+                "duration": "43min"
+            },
+            {
+                "number": 4,
+                "title": "Novidades masculinas",
+                "synopsis": "Lucifer tenta seduzir Chloe, mas o que dá certo com as outras não funciona com ela. Amenadiel confessa a Maze que está preocupado com Lucifer.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfN9wKsXnpQvd9L2_qCGuX2WqlhqkVB7GPtF0EQstjMyfUtaSZoilNNKOXqwXgW8NklL8AYpm97N5APEaBTSOpQb8ADQAoABCuCBv5YnYNSYogAFBIaHNzuA.webp?r=522",
+                "duration": "42min"
+            },
+            {
+                "number": 5,
+                "title": "Sapatos",
+                "synopsis": "Lucifer descobre que nem tudo no mundo da moda é belo. Após conseguir novas informações, Amenadiel bola um plano para levar Lucifer para casa.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY04RUmybex8fPwelglDg8DSp9y5rpUugifSjtOZxVf8U0QK8k6uZwZliG-8eAsRPycru_jLbDZMyXc_43KQ8PAbTg1DM16TuB_uvH3DWuPQgVx325pc83yD.webp?r=dca",
+                "duration": "43min"
+            },
+            {
+                "number": 6,
+                "title": "Filho favorito",
+                "synopsis": "Quando algo pessoal e valioso para Lucifer é roubado, ele se envolve na investigação. Enquanto isso, a Dra. Martin toma uma importante decisão.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABboCVs0hflNukBxksazUrLP3IaaC11hIrvX_gIqbzPIRHbFTaPipaEFt7dl-sCVOOzpsDm83BTXErJolByVlwCoda5NtnV7fdL5N3X_IE6NvvmnKyOFWIapQ.webp?r=857",
+                "duration": "43min"
+            },
+            {
+                "number": 7,
+                "title": "Parceiro",
+                "synopsis": "Lucifer continua procurando o container roubado e recebe ajuda de quem menos esperava. Chloe pede para Dan ajudá-la no caso Palmetto.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb2W7Ev57zy4x-itkL3XJol7lfi5vE9vu_JpPR1qqmC_2BsqqjMVlnDTKd8oEaQfDbcafIZSkq0Qv88qjmZtHYXENNC8jrz1BnxTpc6IS5U1yzLXB1ELTFwr.webp?r=a6a",
+                "duration": "43min"
+            },
+            {
+                "number": 8,
+                "title": "Até tu, Doutora?",
+                "synopsis": "Lucifer comemora seu \"renascimento\" e ajuda Chloe e a Dra. Martin a investigarem o assassinato de um terapeuta pouco convencional.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVmojf10c-uLL1V-hxVChAXrTyTCyM_r-ocCQi5CDrNaIqIDR4jK03YXhZtSFbqpcHBuzp7FN6QiPYfAFcfWVaglo1lIF-pppqFn1zHT1lnAEiEmDmnsjBwk.webp?r=ad0",
+                "duration": "43min"
+            },
+            {
+                "number": 9,
+                "title": "Um padre entra no bar",
+                "synopsis": "Um padre pede ajuda a Lucifer para acabar com uma possível operação de tráfico em um centro juvenil. Amenadiel e Malcolm têm uma conversa sincera.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRpkPLmciuQ4kA70uUofQJSqMkaFFpIVuGOOQDxhw8FnW2DZid5yzB9_6cGEkZv5Hly-JWNcnZI1q7Blsrsn2I7uKa59hauca93FeHXcCRythHCXlTkp3_v4.webp?r=cb5",
+                "duration": "42min"
+            },
+            {
+                "number": 10,
+                "title": "Pops",
+                "synopsis": "Um chef famoso é envenenado, e Chloe e Lucifer investigam um suspeito. Lucifer descobre que a família de Chloe é ainda mais louca do que a sua.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRRGnASt4gA4kCpDk0ryI2cxz1Dq-VGS4QvbFNjO1wJ_eeMReI74_7HRWiJVJrgNkTDZCVC7xl7AGcDFOs_rec1vwA5lQvD7dTc7HxuDRzJ-joZtaJzjUSeO.webp?r=b37",
+                "duration": "43min"
+            }
+        ]
+    },
+    {
+        "name": "Lupin",
+        "logoUrl": "assets/images/tv-shows/logos/lupin.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/lupin.jpg",
+        "coverUrl": "",
+        "synopsis": "Inspirado pelas aventuras de Arsène Lupin, o ladrão gentil Assane Diop quer se vingar de uma família rica por uma injustiça cometida contra o pai dele.",
+        "videoId": "FoiQ-Xr8NDI",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 3,
+            "qualityLabel": "HD",
+            "likeRating": 98,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Inteligente",
+                "Empolgantes"
+            ],
+            "genres": [
+                "Franceses",
+                "Séries dramáticas",
+                "Séries baseadas em livros"
+            ],
+            "cast": [
+                "Omar Sy",
+                "Ludivine Sagnier",
+                "Clotilde Hesme"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Capítulo 1",
+                "synopsis": "Anos depois de uma trágica injustiça, Assane tenta acertar as contas – e quitar uma dívida – roubando um colar de diamante, mas o roubo não sai como esperado.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaj7HJQxutr5nIanNlCM6_vS96CehdtQ5vSdfIiUrXMOolHCdomhn4pl1V-DLbAqqB1TyuEzaYZ4mbmP3le19zWcE6Ted3IdzJgeBiru0W30k9-dzfh2C7-w.jpg?r=3d1",
+                "duration": "48min"
+            },
+            {
+                "number": 2,
+                "title": "Capítulo 2",
+                "synopsis": "Assane bola um plano para entrar em contato com Comet, um preso que o leva a uma pista sobre a morte de Babakar. Anne Pellegrini se abre sobre o passado.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSH2twHL-9DWl0kiuEh3xLvJ868uFP6Pvy0yOudlEA60oN9fGXnBS4x7ULU90ednlpy6IV4OZowM9JqqQxJZgj7g2k4DIBZAjVb7gZg35NptFF9z8c5jX7Zc.jpg?r=a25",
+                "duration": "53min"
+            },
+            {
+                "number": 3,
+                "title": "Capítulo 3",
+                "synopsis": "Assane confronta o comissário Dumont e dá um jeito de despistar a polícia. A ligação de Hubert Pellegrini com o destino de Babakar vem à tona.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTFcWaVSF0egmvWsBIfkiR82irHJ2aVbJFswJeVJqYPUte2KqUr0Rx64nbPs_12eyY-AcVc-mFafBWEww8OTgrSnQ9lWHm6016HQuoGS8p0kFJLG9X8HQbXS.jpg?r=4e7",
+                "duration": "43min"
+            },
+            {
+                "number": 4,
+                "title": "Capítulo 4",
+                "synopsis": "Assane pede ajuda a uma jornalista para conseguir provas contra Hubert. O policial Guédira liga os pontos no caso do assalto ao Louvre.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdg3kpatcRPTDwa6Sy-zCOMmBMieWM0iaX-LThmua57RmBA0LD9f3Pv5LDCTCgaEdq0stfti5BME3neC7RIDkgMZ7SdgFBtv5BsLpyGqpuZo7YTnYZKVDm7e.jpg?r=025",
+                "duration": "48min"
+            },
+            {
+                "number": 5,
+                "title": "Capítulo 5",
+                "synopsis": "A caminho de Étretat com Claire e Raoul, Assane encontra uma figura inoportuna. Encurralado, Assane manda uma mensagem ao capitão Laugier.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbDUN7OxN8XAuBznS4MWgT8B5acPHc9MjWxKA3vmELBhjlVfE31viysFBxjVexRAwN0KHS90sMbvqRLtguYp78WYzuhUfqo2YGrbcdoS3SAT5TfnvbHpuKwo.jpg?r=233",
+                "duration": "44min"
+            }
+        ]
+    },
+    {
+        "name": "Sex Education",
+        "logoUrl": "assets/images/tv-shows/logos/sex-education.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/sex-education.jpg",
+        "coverUrl": "",
+        "synopsis": "Apesar das instruções da mãe sexóloga Jean e do encorajamento de seu colega Eric, Otis se preocupa em falhar na hora H. E ele não é o único.",
+        "videoId": "ccp8T3Me4f4",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 4,
+            "qualityLabel": "HD",
+            "likeRating": 91,
+            "maturityRating": {
+                "label": "16",
+                "color": "#D7262D"
+            },
+            "categories": [
+                "Picante",
+                "Irreverente",
+                "Turbilhão de emoções"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Britânicos",
+                "Séries teen"
+            ],
+            "cast": [
+                "Asa Butterfield",
+                "Gillian Anderson",
+                "Ncuti Gatwa"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Episódio 1",
+                "synopsis": "Apesar das instruções da mãe sexóloga Jean e do encorajamento de seu colega Eric, Otis se preocupa em falhar na hora H. E ele não é o único.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaP5PSe3NZTnakgRqDDDh6nFXrQUrvW-vNM1H8zOjer8vd47zUO0NTh9q8DRjDzaFybe-O5fZAr_bCm8yrPQPRBC9oYiYXztYfVEw1X0kkB-WuUx_Fsfqhp5.jpg?r=6e7",
+                "duration": "52min"
+            },
+            {
+                "number": 2,
+                "title": "Episódio 2",
+                "synopsis": "Pressionado por Maeve, Otis tenta dar conselhos gratuitos na festa de uma colega. Mas descobre que dar dicas sexuais é mais difícil do que pensava.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW1hSXepEh7v7KXDwa4Mp1N8YHCtOuwuiF0TcGHor-o7qd-rIXG6Xy0G1i67MZBoM5oB6gZmbjsmUoByNQivHwvGj1AZeAeVWEXLuCMWlJ1AfbD4VE4ihFzP.jpg?r=bf8",
+                "duration": "50min"
+            },
+            {
+                "number": 3,
+                "title": "Episódio 3",
+                "synopsis": "A clínica de Otis decola, assim como sua atração por Maeve, que de forma inesperada pede ajuda a ele. Eric prefere se virar sozinho.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbPK-lpAMNu8jcDu2_WRDOOH10Ypfmv1wf0HN3csEjdLAVJoyfRfmMaCpW2l6VB4hzYc_Z2a1cwsOSJ_GXu9l8Wp_mWifwiMHe58HSlYGhLH6sLmQbRdZMQ6.jpg?r=f93",
+                "duration": "51min"
+            },
+            {
+                "number": 4,
+                "title": "Episódio 4",
+                "synopsis": "Eric percebe que Otis se apaixonou por Maeve. Mas o jovem terapeuta sexual se vê dividido quando o bonitão Jackson procura ajuda com sua paixão secreta.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRRSuVW2EMD8njhHorfbPLX5uhpoMGP2f2_hr2qKCqe2MdW8j4W3NAuiYqB5qIJGwUg0-YuLema4a2moCG9CE9LTb1ehCxcmZp1nzJQPM1u170HibkRqM2t0.jpg?r=2f1",
+                "duration": "47min"
+            },
+            {
+                "number": 5,
+                "title": "Episódio 5",
+                "synopsis": "Uma foto indiscreta coloca uma menina má sob os holofotes. Maeve quer descobrir o culpado e força Otis a tomar uma decisão difícil.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfinjLvBQocO7ce_WHuAnbYIZE3fi8upmp7dm566GNN0WA4Z3LJ2ujoHUqpLhJKqV532DN4aWNLwxENmKpIMOnFLkEOsp3b4MA0a7Ok9kBek1M7KQVIPRbEo.jpg?r=574",
+                "duration": "47min"
+            },
+            {
+                "number": 6,
+                "title": "Episódio 6",
+                "synopsis": "O trauma de Eric o isola, e a redação de Maeve ganha um prêmio. Otis tenta se dar bem com Lily, mas suas próprias complicações entram no caminho.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABevPpK4ng-PfWixpnT01dElLinKyyfTAciEuqGwArkHcOKBYNUsLc0dBvzMl0Q4Crp-GTFPgh_1OSZ0pmG9mI94pvm3Ij3UYnlegGxubQE8Dd_NTPNZESi5q.jpg?r=ea1",
+                "duration": "50min"
+            },
+            {
+                "number": 7,
+                "title": "Episódio 7",
+                "synopsis": "O grande baile traz à tona o melhor dos estudantes de Moordale, e o drama vem a reboque. Otis acha um par, Maeve consegue seu vestido e Eric volta com estilo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVX7BNpTDeRK37hNwk-DzjlIos_vDL66Lyq8CSVoU00pFarRMq-sZR0mXrdPCW3jUa7V3Wx88BXWJj_2X9D2FcfOvaC7JM7zKY6ysxSKL3NJ_9V-tr3QUSOV.jpg?r=ba0",
+                "duration": "52min"
+            },
+            {
+                "number": 8,
+                "title": "Episódio 8",
+                "synopsis": "Otis se sente incomodado com o novo livro de Jean, e Maeve leva a culpa pelo irmão. Eric fica de castigo com um velho rival, e o corpo de Lily trai suas intenções.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTEJMzSM0xANlj88D2iM4kid4MVZ1yZMt2vM5k5xME93gbYctE8v86zJrki6LqGD20DBXJlg1g2PIWB2kdssfry-Rq2mKvP_Vrr_xde3UQ9Q36wrOjrczHQV.jpg?r=be5",
+                "duration": "53min"
+            }
+        ]
+    },
+    {
+        "name": "The Chosen",
+        "logoUrl": "assets/images/tv-shows/logos/the-chosen.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/the-chosen.webp",
+        "coverUrl": "",
+        "verticalThumbUrl": "assets/images/tv-shows/vertical-thumbs/the-chosen.webp",
+        "ranking": 5,
+        "synopsis": "Com seus ensinamentos e milagres, Jesus de Nazaré atrai seguidores e discípulos de todas as origens. E as autoridades romanas estão em estado de alerta.",
+        "videoId": "2Y9Wc_waDNs",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 3,
+            "qualityLabel": "HD",
+            "likeRating": null,
+            "maturityRating": {
+                "label": "",
+                "color": "#F7C727"
+            },
+            "categories": [
+                "Sentimental",
+                "Íntimo",
+                "Comovente"
+            ],
+            "genres": [
+                "Séries dramáticas",
+                "Séries dos EUA"
+            ],
+            "cast": [
+                "Shahar Isaac",
+                "Elizabeth Tabish",
+                "Jonathan Roumie"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Eu o chamei pelo nome",
+                "synopsis": "Na Cidade de Cafarnaum, no mar da Galileia, os romanos pedem que Nicodemos exorcize Lilith e ele se assusta com o que vê.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdQWEIhnXuQO7nFrW_q_8d2bbAuB54cRBtqO0Jqh9nW6rd9ICpMIWNGs3FHp4hb1nPNaWeqYKnjTbLQ00MMIAHnB1onq8-lKRJKiEB3-Nxy-eg1HESUXYv3E.webp?r=83b",
+                "duration": "54min"
+            },
+            {
+                "number": 2,
+                "title": "Shabat",
+                "synopsis": "Jesus esconjura os demônios de Lilith, que revela sua verdadeira identidade: Maria Madalena. Simão se prepara para trair seus amigos por dinheiro.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABREYfI_RJUCOxD5IAZKrEhhth6G4hIpIPYXFaJn_6b5FunMmTDf_DoP7cCTHIR7usCpyNZnSZuQCwQKTpD-IeIi4tntTFRWsmdQ13o-Dwiv51TESQOP6qi2s.webp?r=5e5",
+                "duration": "39min"
+            },
+            {
+                "number": 3,
+                "title": "Jesus ama as criancinhas",
+                "synopsis": "Os pequenos Josué, Abigail e amigos encontram Jesus no campo e escutam os ensinamentos dele.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdKYS3tV83f2aECqIl6Bt5Dhu9laWItJoUjOSDsl6j3JFs4XL22x6dc7Zfxbc4EqDEESzTl_Q34Lt1dAg9b6sf2KRS8UkCze-6Y_KVg1qMGjGTmbI5NvPmrG.webp?r=303",
+                "duration": "30min"
+            },
+            {
+                "number": 4,
+                "title": "A rocha sobre a qual foi construída",
+                "synopsis": "Com medo de ser traído, Quintus recruta Mateus para vigiar o pescador Simão, que duvida de sua fé até testemunhar um milagre.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUhOdiy0pyrNeHrPmB4D7nKQGo5v7E-KjMIubCdxcxsgxgopXNUogdjyeS3jQ2yCszyj1AR8I_RqlOLgiDzvV4d9B7x7XUGBP6U.webp?r=7a0",
+                "duration": "49min"
+            },
+            {
+                "number": 5,
+                "title": "O presente de casamento",
+                "synopsis": "Jesus e seus seguidores seguem para um casamento em Caná. Mas, quando o vinho acaba, só um milagre pode salvar a festa.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfy8l1FG2KMZVvMKXg6p8CdHpAI2E6usTPWDaGDcfdCTDyFQLPrLOCukdPuVwTr5E5lPDlbrYJYaTH5TTA_VlC5IocEWeOJ5DHoztkL5FnUklmzpz9-yNLzs.webp?r=03c",
+                "duration": "55min"
+            },
+            {
+                "number": 6,
+                "title": "Compaixão indescritível",
+                "synopsis": "Jesus pede a Simão que retorne a Cafarnaum para cuidar da família. O Messias cura um leproso e a notícia de seus milagres começa a circular.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWjSx4PNn9MGXFSlVpVkQQxv8jWcxvy_frSuVMvzCe7F-8Uz5e7Cjmeib_QtWR0gJp2FqebRbJpOtpj5D5VHq96-KVcSA96T2gO5vQqSf8qk32nUYYginj_C.webp?r=40e",
+                "duration": "52min"
+            },
+            {
+                "number": 7,
+                "title": "Convites",
+                "synopsis": "Quintus se sente ameaçado pelo novo pregador e pede a Nicodemos para encontrar Jesus e contar o que descobriu.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfseMp9AM6UM8GraXz6asfil0_WuUdx-JKY_ic0x9vZyZy9lpFEjINbIm4LUfXeLVCAeJlExoQnPYX9lT9Q4KjMmz0SSnuOnpcAPSvlgGEmCFiXJbIb1hwnV.webp?r=141",
+                "duration": "37min"
+            },
+            {
+                "number": 8,
+                "title": "Eu sou Ele",
+                "synopsis": "Mateus leva Jesus e os outros discípulos para jantar em sua casa. Nicodemos tem dúvidas sobre o caminho que deve seguir.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd9lb34SiEpBIf4PAB6cb-Y8QFPkHICZgNfmCxCL9bh_nbH2oRdZSX5n5x5anR7rv-NOL0i68efjQ7aDdx5xsgpqhPMdopWgH40F64XgTfuxmOjc8iPXca2-.webp?r=45d",
+                "duration": "59min"
+            }
+        ]
+    },
+    {
+        "name": "O Babá",
+        "logoUrl": "assets/images/tv-shows/logos/the-manny.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/the-manny.jpg",
+        "coverUrl": "",
+        "verticalThumbUrl": "assets/images/tv-shows/vertical-thumbs/the-manny.jpg",
+        "ranking": 6,
+        "synopsis": "Em um momento de pânico, uma executiva contrata um caubói para cuidar dos filhos. Mal sabe ela que ele vai desafiar suas visões de gênero e do amor.",
+        "videoId": "8SnHkOHsWfs",
+        "details": {
+            "releaseYear": "2023",
+            "totalSeasons": 10,
+            "qualityLabel": "HD",
+            "likeRating": 67,
+            "maturityRating": {
+                "label": "A12",
+                "color": "#F7C727"
+            },
+            "categories": [
+                "Encantador",
+                "Agradável",
+                "Comovente"
+            ],
+            "genres": [
+                "Sitcoms",
+                "Mexicanos",
+                "Comédias para a TV"
+            ],
+            "cast": [
+                "Sandra Echeverría",
+                "Iván Amozurrutia",
+                "Anthony Giuletti"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Acho que podemos, sim, mudar o mundo",
+                "synopsis": "Gabriel impressiona os filhos de Jimena. E eles também deixam sua marca na empresa da mãe.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWVvC9OkWwzNp6NUezVsZaYaNGuMryuVuv8UkN5XnaKSy5Vj_c0Xfu5SNxWgCna6Abs8lxyoVGhGEJaJ-qJjgxC4Gjg2i5CDVgLouxXq1AyI-BHtBzTorcED.jpg?r=ca7",
+                "duration": "41min"
+            },
+            {
+                "number": 2,
+                "title": "Fada do Dente",
+                "synopsis": "Começa a corrida pela presidência da empresa. Gabriel mostra que tem vários truques na manga. Jimena toma coragem para se impor.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABf1gyjB5wzoe-TEg1SJ5wx9pTW7ULICuMJF1IFkMnyBgVbH3-BhXFtQaNTyRboOJ4Acz9Iy2ugv5wV-qlr_Fr6x1zDyxRpCVArzN0HrBP8-mcqoPUxBP8ru5.jpg?r=ed5",
+                "duration": "33min"
+            },
+            {
+                "number": 3,
+                "title": "O valor de um like",
+                "synopsis": "Jimena dá match sem querer em um aplicativo de namoro e acaba tendo um encontro inesperado com a pessoa certa.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTNaJW1cYbVao9aS9os6REC_kVv4GVXrx2KRY9ZyW3BGp_PLghehn4iUHveyqkOZI3kbVaVdkHlnBqRKHT2IcPlfD3hgJwsNZTQmXIe30xrbtko0WEzkQA-a.jpg?r=a05",
+                "duration": "34min"
+            },
+            {
+                "number": 4,
+                "title": "Galo de briga",
+                "synopsis": "Jimena pensa no futuro, mas uma pessoa do passado reaparece, provocando alegrias e tensões na casa da família.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdx9Rz41oEqbol45vRtIBOuuuTKiZ8ZKY4zysdBq6uNDbDQoG6drT8KN9yemkrwPyCPStDcs5lSONyV2Lz72GWZMzTJXfb2A5Xt0nqtdn1MYe6_EMNXybzZa.jpg?r=5b5",
+                "duration": "36min"
+            },
+            {
+                "number": 5,
+                "title": "Lobos, ovelhas, porcos e magos",
+                "synopsis": "Jimena e seus cúmplices fazem de tudo para conseguir informações, até mesmo usar truques de mágica. Mas as chances de Gabriel diminuem.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRR7VFs-YDKOsatgT3uu1OTHWKU9REQN2OhN7sEkTCozWimDkyqNePKA46ixLllXC4MJth4fg2AkfPt3Sba5gCuVV4z_wZmVb6VC4rrJUFyXSF5-T0fCskCP.jpg?r=b9e",
+                "duration": "33min"
+            },
+            {
+                "number": 6,
+                "title": "Triunfos roubados",
+                "synopsis": "Um dia no clube se transforma em uma oportunidade para as crianças descobrirem seus verdadeiros desejos e ajuda Jimena a ver o que ela não quer mais.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUB7MMMAB--vaqGt3IScnxJgz26cSAry1WvRGtDEgobVLdJxyjaq4ikzC6-s2qhCwEGQcHuVnV4iY6xj11ZTQJt8B1u4JcMoHgDfSuyEtjeQLnpDYrAWW8VD.jpg?r=729",
+                "duration": "30min"
+            },
+            {
+                "number": 7,
+                "title": "Braço torcido",
+                "synopsis": "Ernesto e Sofía fazem um plano para unir duas pessoas, e Jimena pretende separar o casal. As intenções de Rogelio são reveladas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXcpcAWK_gSCv92buwzwwAUvdeJnJDjgXcVVCOaPmYwVQhfpbFzlHBX9rINfM69JSr9qjrIGKvsj7z_0ddRBU2O2SDswzvj8beOrTIFsWYze_jg8IlHhpk8u.jpg?r=b51",
+                "duration": "34min"
+            },
+            {
+                "number": 8,
+                "title": "O que tiver que ser, será",
+                "synopsis": "A história dos pagamentos fica cada vez mais sombria. As crianças fazem ainda mais travessuras para tentar impedir algo que consideram terrível.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVzx2TFgMeKQV3S87lrslhlfQ6T956M2viKG5SUjGJS4MFrjQp03mRj9Vj07mPsmy9n1nSVzugtdPYb0ghL0YCBt2mC1QYetJmXCD8mcnNYCb2e8nx6hiQkn.jpg?r=6e6",
+                "duration": "34min"
+            },
+            {
+                "number": 9,
+                "title": "Bem ferrado",
+                "synopsis": "Gabriel acompanha Leo na excursão para a feira do gado, mas teme que sua identidade e seu novo romance sejam revelados.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSXq5bUdUxV5KjvChM8NAEG8yqhrKFTYcGxmnEKEQQgg9saFOj0yI4oKuKVsvfwtuSvFS197ARua0wTZsQtv1ocTyPXmRDIb7KOgHU7ZHeg7eTycQ_MHfbWs.jpg?r=bc4",
+                "duration": "30min"
+            },
+            {
+                "number": 10,
+                "title": "Para mudar o mundo",
+                "synopsis": "Jimena vai a Tepatitlán em busca de informações, mas quando a situação parece melhorar, tudo vai por água abaixo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaP5zcGMyk20STWdsfEXXtaJ8WsltAo2fpDD4ruKlCR8eTz3H4NflfEPpdeh5UpJjoS0f9MUp_6M8UwSixFxdKRf9nRN7tRRv4UDJt7QrvXYxqlQAmcj1iig.jpg?r=94b",
+                "duration": "35min"
+            }
+        ]
+    },
+    {
+        "name": "True Beauty",
+        "logoUrl": "assets/images/tv-shows/logos/true-beauty.webp",
+        "thumbUrl": "assets/images/tv-shows/thumbs/true-beauty.webp",
+        "coverUrl": "",
+        "verticalThumbUrl": "assets/images/tv-shows/vertical-thumbs/true-beauty.webp",
+        "ranking": 7,
+        "synopsis": "Uma adolescente insegura aprende os truques da maquiagem e começa a fazer um enorme sucesso na escola. Mas não vai ser fácil manter as aparências.",
+        "videoId": "BhP1eYQ5Pxk",
+        "details": {
+            "releaseYear": "2020",
+            "totalSeasons": null,
+            "qualityLabel": "HD",
+            "likeRating": 93,
+            "maturityRating": {
+                "label": "A14",
+                "color": "#E7792B"
+            },
+            "categories": [
+                "Para suspirar",
+                "Romântico"
+            ],
+            "genres": [
+                "Coreanos",
+                "Séries teen",
+                "Comédias para a TV"
+            ],
+            "cast": [
+                "Mun Ka-young",
+                "Cha Eun-woo",
+                "Hwang In-youp"
+            ]
+        },
+        "episodes": [
+            {
+                "number": 1,
+                "title": "Episódio 1",
+                "synopsis": "O bullying implacável dos colegas faz Im Joo-gyeong tomar uma decisão preocupante. Além disso, problemas financeiros na família fazem com que ela mude de escola.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe0RFbtmb8NhBT2jB2AOf41RsztVNcblQzSeHuKpqshgXW8sl8S0OphBHqi3BpyuK7Znjsvp1oOOlcPV5NH1ohmmU4luK8kuNprBiX6AsVL6XZKyb-VWVgnH.webp?r=f88",
+                "duration": "76min"
+            },
+            {
+                "number": 2,
+                "title": "Episódio 2",
+                "synopsis": "Depois de encontrar Lee Su-ho na loja de quadrinhos, Joo-gyeong teme que seu segredo seja exposto. Logo depois, ela reconhece um rosto familiar na escola.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVJ3-DR9i-oQRO0HIyoA4fR_t-CYmnFaZrU6rqFXI8VcUqof8nFkxWW-P1LsGdBhO6FTjIJ2fQyIxDoI9oqxKbxbRfGneLPrDdVXkbsQ-rbt-unHA4kuP4n3.webp?r=256",
+                "duration": "75min"
+            },
+            {
+                "number": 3,
+                "title": "Episódio 3",
+                "synopsis": "Com medo de ter sua identidade revelada, Joo-gyeong tenta chegar num acordo com Su-ho. Han Seo-jun exige que Joo-gyeong devolva seu capacete.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXfBvzlj0WuMGw0vROJDy7s6AuCNHtMlPchUifKLS4o9SM-xLQiQB3fAIQqNzbWClhBDCWZoWCUD9xaJeNxsz_8PnJjn7ZmOUbu-BZUgTU16Uge36BzZPwAR.webp?r=b43",
+                "duration": "73min"
+            },
+            {
+                "number": 4,
+                "title": "Episódio 4",
+                "synopsis": "Em meio a rumores de um triângulo amoroso na escola, Joo-gyeong aceita um encontro às cegas. Seo-jun e Joo-gyeong descobrem que suas mães são amigas.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcx4_qfLHdAHuI-Md0cqPpJw3wJSKCCPqnq-FCVnqRZBj0e3RAhFtWtpU7DXId-uNxjvAiqZEyRuPKle4pTuX7GMcpZvRsz8M6-EIH6O8TLjUeOwuo4q74Iv.webp?r=b5e",
+                "duration": "72min"
+            },
+            {
+                "number": 5,
+                "title": "Episódio 5",
+                "synopsis": "Joo-gyeong usa seu talento para maquiagem na hora de ajudar uma garota que sofre bullying. Logo depois, ela fica magoada com o comportamento cruel e inesperado de Su-ho.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfE3DUboSeIjo3Dl9abZdHSIfFSZqC6mIWtIJS7vwUPBSGwR4g-nUSX7U8AIY85nhPZTxURCSgIN9yqLQdQiuRncj_LBO5GwG-oMXWeIljXTzn6FOrMkcc8x.webp?r=8c4",
+                "duration": "71min"
+            },
+            {
+                "number": 6,
+                "title": "Episódio 6",
+                "synopsis": "O pai de Su-ho chega na escola do filho e causa um alvoroço. Joo-gyeong tem um encontro tenso com as meninas que fizeram bullying.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZZ3L8S_0cFbjtrE-27MU9PQfLtyiDO-KHseqWl3Tqv52Uv980v-MEJ38SA_ZTK0UdtOFad3fefFfpwvSVLRwR9U0vYW5yAy5vCPCHFvpCbEi604CZCC40t5.webp?r=a1d",
+                "duration": "72min"
+            },
+            {
+                "number": 7,
+                "title": "Episódio 7",
+                "synopsis": "Uma estrela do beisebol se apaixona por Joo-gyeong e começa a flertar com ela. Joo-gyeong vê Su-ho consolando Kang Su-jin.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZrq24CYmQ46ujYTYPqUbKXKKg6ZgbQ9l5EGXTGy2BB6dRNAR1lfw-f8DuHwvNCAQvhVlQLhhirqCBl86tCqznzPD-45F7l123nPb_JA9vn4Xo7pGDXDtKAj.webp?r=563",
+                "duration": "71min"
+            },
+            {
+                "number": 8,
+                "title": "Episódio 8",
+                "synopsis": "A tentativa de Su-ho de esclarecer a situação com Joo-gyeong sobre a viagem da escola não sai como planejado. Seo-jun continua competindo pela atenção de Joo-gyeong.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZFqm-ghb8M-R4KrBT5IoMtBuegiFY2vlegB0u4hnfG42Dw_jt-kZYCzK6XIS0BOOH2NqRz9FHRfo5RzDndsOCeW53rRQoLFJkhyYq-BC3I9VNArbLlTE0H-.webp?r=8be",
+                "duration": "69min"
+            },
+            {
+                "number": 9,
+                "title": "Episódio 9",
+                "synopsis": "Joo-gyeong busca um trabalho de meio período. Para evitar drama na escola, ela e Su-ho começam a namorar em segredo.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABagxH8HGiiRhJSJ4krng1ARi3SqUV1DBk6TlWoqxXE9ucwneaKMRRz36ZGUa-std9fNToOUgNCMTXosXc-tIkxt5zB8SM-TE26ClwHRuWzhYH7FRSdhY2wWt.webp?r=7c6",
+                "duration": "76min"
+            },
+            {
+                "number": 10,
+                "title": "Episódio 10",
+                "synopsis": "Su-jin revela para Joo-gyeong o que sente por Su-ho. Joo-gyeong descobre uma coisa importante sobre Seo-jun.",
+                "thumbUrl": "https://occ-0-7948-3852.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABT0BF8oKLeUqgiMvudVtC0SXg8yw8gp5YPASrcxgGO33p5xTs1JBu03xddgi16__dQP83MeI-lEVfmXM_xn9NNUJbppiqpetTFBn0yMmucXFPGPjBnzxUVrE.webp?r=fee",
+                "duration": "76min"
+            }
+        ]
+    }
+]

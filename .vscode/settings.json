@@ -1,0 +1,24 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": "never"
+        },
+        "editor.formatOnSave": false
+    },
+    "[typescript]": {
+        // "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": "never"
+        },
+        "editor.formatOnSave": false
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.inlineSuggest.enabled": true,
+    "[html][typescript]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": "never"
+        }
+    }
+}

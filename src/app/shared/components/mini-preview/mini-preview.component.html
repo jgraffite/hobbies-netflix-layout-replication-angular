@@ -1,0 +1,94 @@
+<div
+    class="mini-preview-modal"
+    [class.showed]="isDisplayed"
+    id="mini-preview"
+    [attr.data-video-ended]="isVideoPlaying ? '0' : '1'"
+    #miniPreviewBox>
+    <div class="mini-preview-modal__video-image-box">
+        <div class="mini-preview-modal__video-image-box__video-protector"></div>
+        <!-- <video class="jw-video jw-reset" muted id="mini-preview-video" data-auto-play-finished="0"
+            src="assets/videos/how-to-get-away-with-murder.mp4"
+            poster="assets/images/tv-shows/bad-surgeon-bg.webp"></video> -->
+        <!-- <div id="mini-preview-video"></div> -->
+        <youtube-player
+            [playerVars]="playerConfig"
+            [videoId]="tvShow?.videoId"
+            [loadApi]="true"
+            disablePlaceholder
+            (stateChange)="onVideoStateChange($event)" />
+        <img class="cover" [src]="tvShow?.thumbUrl" alt="" />
+        <div
+            class="mini-preview-modal__video-image-box__volume-control-and-logo volume-control"
+            data-muted="1">
+            <img class="logo" [src]="tvShow?.logoUrl" alt="" />
+            <app-button
+                rounded
+                visual="outline"
+                (clickHandler)="toggleVideoMute()">
+                @if (isVideoMuted) {
+                    <i class="fa-solid fa-volume-xmark"></i>
+                } @else {
+                    <i class="fa-solid fa-volume-high"></i>
+                }
+            </app-button>
+        </div>
+    </div>
+    <div class="mini-preview-modal__info">
+        <div class="mini-preview-modal__info__action-buttons">
+            <div class="preview-moda__info__action-buttons__play">
+                <app-button rounded visual="primary">
+                    <i class="fa-solid fa-play"></i>
+                </app-button>
+            </div>
+            <div class="mini-preview-modal__info__action-buttons__favorite">
+                <app-button rounded visual="outline">
+                    <i class="fa-regular fa-plus"></i>
+                </app-button>
+            </div>
+            <div class="mini-preview-modal__info__action-buttons__like">
+                <app-button rounded visual="outline">
+                    <i class="fa-regular fa-thumbs-up"></i>
+                </app-button>
+            </div>
+            <div class="mini-preview-modal__info__action-buttons__more">
+                <app-button
+                    rounded
+                    visual="outline"
+                    (clickHandler)="onClickToExpand()">
+                    <i class="fa-solid fa-chevron-down"></i>
+                </app-button>
+            </div>
+        </div>
+        <div class="mini-preview-modal__info__show-details">
+            <span class="mini-preview-modal__info__show-details__like-rating"
+                >{{ tvShow?.details?.likeRating }}{{ '% Match' | translate }}
+            </span>
+            <!-- <div
+                class="mini-preview-modal__info__show-details__maturity maturity-rating"
+                style="background-color: orange; color: white">
+                A18
+            </div> -->
+            <app-maturity-rating-box
+                class="mini-preview-modal__info__show-details__maturity"
+                [bgColor]="tvShow?.details?.maturityRating?.color || 'grey'"
+                textColor="white"
+                >{{
+                    tvShow?.details?.maturityRating?.label
+                }}</app-maturity-rating-box
+            >
+            <span class="mini-preview-modal__info__show-details__duration"
+                >{{ tvShow?.details?.totalSeasons }}
+                {{ 'Seasons' | translate }}</span
+            >
+            <div
+                class="mini-preview-modal__info__show-details__video-quality video-quality">
+                {{ tvShow?.details?.qualityLabel }}
+            </div>
+        </div>
+        <div class="mini-preview-modal__info__categories">
+            <span *ngFor="let category of tvShow?.details?.categories">{{
+                category
+            }}</span>
+        </div>
+    </div>
+</div>

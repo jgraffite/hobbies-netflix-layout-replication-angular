@@ -1,0 +1,17 @@
+<nav class="navigation">
+    <li class="navigation__humburger-button">
+        <a
+            href="javacript: void(0);"
+            aria-label="Netflix"
+            id="mobile-menu-button-toggle"
+            (click)="openMobileMenu()"
+            ><i class="fa-solid fa-bars"></i>
+        </a>
+    </li>
+    <li class="navigation__netflix-logo">
+        <a href="" class="navigation__netflix-logo__a" aria-label="Netflix"></a>
+    </li>
+    <li *ngFor="let navItem of navMenu">
+        <a href="javacript: void(0);">{{ navItem }}</a>
+    </li>
+</nav>

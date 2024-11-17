@@ -1,0 +1,96 @@
+<div [class]="boxClass">
+    <div class="tv-shows-carousel__title-box">
+        <h2>{{ title }}</h2>
+        @if (isTopRanking === undefined) {
+            <a href="" class="{{ boxClass }}__title-box__see-all">{{
+                'Explore all' | translate
+            }}</a>
+            <i class="fa-solid fa-chevron-right"></i>
+        }
+    </div>
+    <div class="{{ boxClass }}__slider-wrapper">
+        <button
+            class="{{ boxClass }}__slider-wrapper__nav-prev"
+            (click)="prev()">
+            <i class="fa-solid fa-chevron-left"></i>
+        </button>
+        <div
+            class="{{ boxClass }}__slider-wrapper__slider tv-show-carousel"
+            #slideItems>
+            <!-- <owl-carousel-o [options]="sliderSettings" *ngIf="tvShows.length > 0">
+                <ng-container *ngFor="let tvShow of tvShows">
+                    <ng-template carouselSlide [id]="tvShow.videoId">
+                        <div
+                            class="{{
+                                boxClass
+                            }}__slider-wrapper__slider__item tv-show-mini-preview"
+                            (mouseover)="onMouseOver($event, tvShow)"
+                            (focus)="onMouseOver($event, tvShow)"
+                            (mouseleave)="onMouseLeave()"
+                            [attr.data-video-id]="tvShow.videoId">
+                            <img
+                                [src]="tvShow.thumbUrl"
+                                [alt]="tvShow.name"
+                                [title]="tvShow.name" />
+                        </div>
+                    </ng-template>
+                </ng-container>
+            </owl-carousel-o> -->
+
+            <!-- <ng-content select=".items"></ng-content> -->
+            @if (isTopRanking === undefined) {
+                <div
+                    class="{{
+                        boxClass
+                    }}__slider-wrapper__slider__item tv-show-mini-preview"
+                    [attr.aria-hidden]="true"
+                    (click)="onMouseClick(tvShow)"
+                    (mouseover)="onMouseOver($event, tvShow)"
+                    (focus)="onMouseOver($event, tvShow)"
+                    (mouseleave)="onMouseLeave()"
+                    [attr.data-video-id]="tvShow.videoId"
+                    [attr.data-name]="tvShow.name"
+                    *ngFor="let tvShow of tvShows">
+                    <img
+                        [src]="tvShow.thumbUrl"
+                        [alt]="tvShow.name"
+                        [title]="tvShow.name" />
+                </div>
+            } @else {
+                <div
+                    class="{{
+                        boxClass
+                    }}__slider-wrapper__slider__item tv-show-mini-preview"
+                    [attr.aria-hidden]="true"
+                    (click)="onMouseClick(tvShow)"
+                    (mouseover)="onMouseOver($event, tvShow)"
+                    (focus)="onMouseOver($event, tvShow)"
+                    (mouseleave)="onMouseLeave()"
+                    [attr.data-video-id]="tvShow.videoId"
+                    [attr.data-name]="tvShow.name"
+                    *ngFor="let tvShow of tvShows">
+                    <div
+                        class="{{
+                            boxClass
+                        }}__slider-wrapper__slider__item__position">
+                        {{ tvShow.ranking }}
+                    </div>
+                    <div
+                        class="{{
+                            boxClass
+                        }}__slider-wrapper__slider__item__image">
+                        <img
+                            [src]="tvShow.verticalThumbUrl"
+                            [alt]="tvShow.name"
+                            [title]="tvShow.name" />
+                    </div>
+                </div>
+            }
+        </div>
+        <button
+            class="{{ boxClass }}__slider-wrapper__nav-next"
+            (click)="next()">
+            <i class="fa-solid fa-chevron-right"></i>
+        </button>
+    </div>
+</div>

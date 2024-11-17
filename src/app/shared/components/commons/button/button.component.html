@@ -1,0 +1,7 @@
+<button
+    [class]="'button button--' + variant + ' button--' + visual"
+    [class.button--rounded]="rounded !== undefined"
+    [class.with-icon]="withIcon !== undefined"
+    (click)="onClick($event)">
+    <ng-content></ng-content>
+</button>

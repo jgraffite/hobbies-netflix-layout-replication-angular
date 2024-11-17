@@ -1,0 +1,45 @@
+<app-header [profiles]="profiles" />
+<app-featured-tv-show
+    [featuredTvShow]="featuredTvShow"
+    *ngIf="featuredTvShow !== undefined" />
+<div class="tv-shows-carousels-box" *ngIf="tvShows.length > 0">
+    <div class="container">
+        <app-tv-shows-carousel
+            (mouseClickHandler)="onTvShowsMouseClick($event)"
+            (mouseOverHandler)="onTvShowsMouseOver($event)"
+            (mouseLeaveHandler)="onTvShowsMouseLeave()"
+            [tvShows]="tvShows.slice(0, 10)"
+            [title]="'Popular on Netflix' | translate" />
+        <app-tv-shows-carousel
+            (mouseClickHandler)="onTvShowsMouseClick($event)"
+            (mouseOverHandler)="onTvShowsMouseOver($event)"
+            (mouseLeaveHandler)="onTvShowsMouseLeave()"
+            [tvShows]="tvShows.slice(11, 20)"
+            [title]="'Trending Now' | translate" />
+        <app-tv-shows-carousel
+            isTopRanking
+            (mouseClickHandler)="onTvShowsMouseClick($event)"
+            (mouseOverHandler)="onTvShowsMouseOver($event)"
+            (mouseLeaveHandler)="onTvShowsMouseLeave()"
+            [tvShows]="filterAndOrderRanking()"
+            [title]="'Top 10 TV Shows in Brazil Today' | translate" />
+        <app-tv-shows-carousel
+            (mouseClickHandler)="onTvShowsMouseClick($event)"
+            (mouseOverHandler)="onTvShowsMouseOver($event)"
+            (mouseLeaveHandler)="onTvShowsMouseLeave()"
+            [tvShows]="tvShows.slice(21, 31)"
+            title="{{ 'Because you watched' | translate }} {{
+                featuredTvShow && featuredTvShow.name
+            }}" />
+
+        <app-tv-shows-carousel
+            (mouseClickHandler)="onTvShowsMouseClick($event)"
+            (mouseOverHandler)="onTvShowsMouseOver($event)"
+            (mouseLeaveHandler)="onTvShowsMouseLeave()"
+            [tvShows]="tvShows.slice(8, 18)"
+            [title]="'New Releases' | translate" />
+    </div>
+</div>
+
+<app-mini-preview (expandClickHandler)="onTvShowsMouseClick($event)" />
+<app-tv-show-preview />

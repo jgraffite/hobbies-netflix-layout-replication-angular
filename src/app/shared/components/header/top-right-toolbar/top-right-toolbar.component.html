@@ -1,0 +1,57 @@
+<div class="top-right-toolbar">
+    <ul class="top-right-toolbar__nav">
+        <li
+            class="top-right-toolbar__nav__search-box-item"
+            id="search-box"
+            [attr.data-expanded]="searchExpanded ? '1' : '0'">
+            <a href="" (click)="expandSearch($event)"
+                ><i class="fa-solid fa-magnifying-glass"></i
+            ></a>
+            <div class="top-right-toolbar__nav__search-box-item__input-box">
+                <input
+                    type="text"
+                    [placeholder]="'Titles, people, genre' | translate"
+                    (blur)="closeSearch()"
+                    #searchInput />
+            </div>
+        </li>
+        <li>
+            <a href=""><i class="fa-regular fa-bell"></i></a>
+        </li>
+        <li
+            class="top-right-toolbar__nav__profile-button profile-button"
+            (mouseenter)="onAvatarMouseEnter()"
+            (mouseleave)="onAvatarMouseLeave()">
+            <a href="javacript: void(0);" class="profile-button__avatar"
+                ><img
+                    [src]="profiles[0].avatarUrl"
+                    [alt]="profiles[0].profileName"
+                    [title]="profiles[0].profileName"
+                    class="profile-button__avatar__img"
+            /></a>
+
+            <ul class="profile-avatar-menu" *ngIf="showPopupMenu">
+                <li *ngFor="let profile of profiles">
+                    <a href="javacript: void(0);"
+                        ><img
+                            [src]="profile.avatarUrl"
+                            class="profile-button__avatar__img"
+                            alt="Avatar" />
+                        <span>{{ profile.profileName }}</span>
+                    </a>
+                </li>
+                <li *ngFor="let menuItem of menuList">
+                    <a href="javacript: void(0);"
+                        ><i [class]="menuItem.iconClass"></i>
+                        <span>{{ menuItem.text }}</span>
+                    </a>
+                </li>
+                <li class="profile-avatar-menu__sign-out">
+                    <a href="javacript: void(0);"
+                        ><span>{{ 'Sign out of Netflix' | translate }}</span>
+                    </a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>

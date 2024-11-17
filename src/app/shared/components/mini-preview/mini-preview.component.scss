@@ -1,0 +1,181 @@
+@import "../../../../assets/css/variables.scss";
+
+.mini-preview-modal {
+    color: white;
+    //opacity: 0;
+    position: absolute;
+    left: -100vw;
+    top: -100vh;
+    z-index: 99;
+    background-color: $netflix-black;
+    box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    transform: scale(.671) translate(0px);
+    transition-property: transform, opacity, margin-top, margin-left;
+    transition-duration: .5s, .5s, .5s, .5s;
+    transition-delay: 0, 5.9s, 0, 0;
+    cursor: pointer;
+    margin-top: -70px;
+    margin-left: -60px;
+
+    @media #{$xs} {
+        display: none;
+    }
+
+    
+    app-maturity-rating-box {
+        //display: none;
+        ::ng-deep span {
+            font-size: 16px !important;
+        }
+    }
+
+    &.showed {
+        margin-top: -120px;
+        transform: scale(1);
+
+        &.corner-start {
+            transform: translateX(50px) scale(1);
+        }
+
+        &.corner-end {
+            transform: translateX(-50px) scale(1);
+        }
+    }
+
+    &[data-video-ended="1"] {
+        video, iframe, youtube-player ::ng-deep iframe {
+            opacity: 0;
+        }
+    }
+
+    &__video-image-box {
+        position: relative;
+
+        &:hover [class*="__volume-control-and-logo"] {
+            opacity: 1;
+        }
+
+        &__video-protector {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            background: transparent;
+            z-index: 1;
+        }
+
+        // youtube-player ::ng-deep iframe {
+        //     display: none;
+        // }
+        video, iframe, youtube-player ::ng-deep iframe {
+            position: absolute;
+            max-width: 100%;
+            width: 100%;
+            max-height: 100%;
+            opacity: 1;
+            transition: opacity .75s;
+        }
+
+        img {
+            max-width: 100%;
+            width: 100%;
+            display: block;
+        }
+
+        &__volume-control-and-logo {
+            z-index: 2;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            position: absolute;
+            bottom: 10px;
+            width: calc(100% - 30px);
+            padding: 15px;
+            opacity: 0;
+            transition: .5s;
+            transition-delay: .5s;
+
+            img {
+                width: 40%;
+            }
+    
+            button {
+                opacity: 0.5;
+                transition: opacity .75s;
+    
+                &:hover {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+
+    &__info {
+        transition: height .75s;
+        padding: 0 20px 25px;
+
+        &__action-buttons {
+            margin-top: 15px;
+            display: flex;
+
+            &> div {
+                margin-right: 5px;
+            }
+
+            &__more {
+                flex-grow: 1;
+                display: flex;
+                justify-content: flex-end;
+            }
+        }
+
+        &__show-details {
+            margin-top: 15px;
+            font-size: 16px;
+
+            &> * {
+                margin-right: 5px;
+            }
+
+            &__like-rating {
+                color: #46d369;
+                font-weight: bold;
+            }
+
+            // &__maturity {
+            //     //display: none;
+            //     ::ng-deep span {
+            //         font-size: 16px !important;
+            //     }
+            // }
+
+            &__duration {
+                color: #bcbcbc;
+            }
+
+            &__video-quality {
+                display: inline-block;
+            }
+        }
+
+        &__categories {
+            display: flex;
+            margin-top: 10px;
+
+            span {
+
+                &:not(:first-child) {
+                    margin-left: 10px;
+
+                    &::before {
+                        color: #646464;
+                        content: "\2022";
+                        display: inline-block;
+                        padding-right: 0.5vw;
+                    }
+                }
+            }
+        }
+    }
+}

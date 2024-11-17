@@ -1,0 +1,508 @@
+@import "../../../../assets/css/variables.scss";
+
+.preview-modal-wrapper {
+    z-index: 3;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+    opacity: 0;
+    height: 0%;
+    top: 0;
+
+    @media #{$md} {
+        z-index: 11;
+        background-color: rgba(20, 20, 20, 0.582);
+    }
+
+    &[data-opened="1"] {
+        opacity: 1;
+        height: 100%;
+
+        .preview-modal {
+            opacity: 1;
+            transform: scale(1);
+        }
+    }
+
+    &[data-opened="0"] {
+        transition: opacity .5s, height .1ms;
+        transition-delay: .5s, .5s;
+    }
+}
+.preview-modal {
+    color: white;
+    background-color: $netflix-black;
+    margin-top: 30px;
+    border-radius: 5px;
+    height: fit-content;
+    opacity: 0;
+    transform: scale(0.8);
+    transition: .5s;
+    transition-delay: .2s;
+
+    @media #{$xs} {
+        min-height: 100vh;
+        position: relative;
+        margin-top: 50px;
+    }
+
+    @media #{$md} {
+        overflow: hidden;
+        width: 850px;
+        min-width: 850px;
+    }
+
+    &__video-wrapper__actions, &__show-details, &__episodes {
+        padding: 0 40px;
+
+        @media #{$xs} {
+            padding: 0 10px;
+        }
+    }
+
+    &:not([data-video-playing="1"]) {
+        iframe, youtube-player ::ng-deep iframe {
+            opacity: 0;
+        }
+
+        [class*="__tv-show-logo"] {
+            visibility: hidden;
+        }
+    }
+
+    &__video-wrapper {
+        height: 130px;
+        overflow: hidden;
+        position: relative;
+
+        @media #{$md} {
+            margin-bottom: 30px;
+            height: auto;
+        }
+
+        &__close-box {
+            position: absolute;
+            z-index: 3;
+            display: flex;
+            justify-content: flex-end;
+            width: 100%;
+
+            app-button ::ng-deep button {
+                margin-right: 15px;
+                margin-top: 15px;
+                cursor: pointer;
+                height: 2vw;
+                width: 2vw;
+                background-color: $netflix-black !important;
+                color: white;
+                border-color: transparent;
+
+                i {
+                    color: white !important;
+                }
+            }
+        }
+
+        &__placeholder {
+            height: 100%;
+
+            @media #{$xs} {
+                background-size: auto;
+                background-position: center center;
+            }
+        
+            @media #{$md} {
+                background-image: none;
+                height: 500px;
+                //margin-bottom: -320px;
+                margin-bottom: -250px;
+            }
+
+            &__video-protector {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                background: transparent;
+                z-index: 2;
+                top: 0;
+            }
+
+            iframe, youtube-player ::ng-deep iframe {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                z-index: 1;
+                display: block;
+                top: 0;
+                transition: opacity .5s;
+                //margin-top: -10px;
+
+                @media #{$xs} {
+                    height: 110%;
+                }
+            }
+
+            &__img {
+                //max-height: 100%;
+                width: 100vw;
+
+                // @media #{$xs} {
+                //     display: none;
+                // }
+
+                @media #{$md} {
+                    width: 100%;
+                }
+            }
+
+            &__bottom-shadow {
+                //--dark-color: red;
+                --tranparency-height: 50%;
+                margin-top: -160px;
+                height: 30vh;
+                width: 100%;
+                position: relative;
+                z-index: 2;
+
+                @media #{$xs} {
+                    display: none;
+                }
+            }
+        }
+
+        &__actions {
+            position: relative;
+            margin-top: 10px;
+            //margin-bottom: 110px;
+            z-index: 2;
+
+            @media #{$xs} {
+                display: none;
+            }
+
+            &__tv-show-logo {
+                width: 45%;
+            }
+
+            &__buttons {
+                display: flex;
+                align-items: center;
+                margin-top: 40px;
+
+                &> div {
+
+                    &:not(:last-child) {
+                        margin-right: 10px;
+                    }
+
+                    button:not([class*="--classic"]) {
+                        padding: 20px;
+                    }
+                }
+
+                &__play app-button ::ng-deep button {
+                    padding-left: 30px;
+                    padding-right: 30px;
+                }
+    
+                &__volume-control {
+                    flex-grow: 1;
+                    display: flex;
+                    justify-content: flex-end;
+
+                    app-button ::ng-deep button {
+                        opacity: 0.4;
+                        transition: opacity .5s;
+
+                        &:hover {
+                            opacity: 1;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    &__show-details {
+        display: flex;
+        justify-content: space-between;
+        //margin-top: -80px;
+        position: relative;
+        z-index: 2;
+
+        @media #{$xs} {
+            &:not([class*="--little-screen"]) {
+                display: none;
+            }
+        }
+
+        &--little-screen {
+            position: absolute;
+            color: #999;
+            top: 0px;
+            height: 135px;
+            background: linear-gradient(270deg, rgba(255,255,255,0) 36%, rgba(0,0,0,1) 100%);
+            z-index: 3;
+
+            @media #{$md} {
+                display: none;
+            }
+
+            .container {
+                width: 80%;
+                margin: 0 20px;
+            }
+
+            &__title {
+                margin: 0;
+                color: white;
+                font-size: 1.5em;
+            }
+
+            &__info {
+
+                span {
+                    display: inline-block;
+                    margin-right: 5px;
+                }
+            }
+
+            app-button ::ng-deep button {
+                margin-top: 5px;
+            }
+        }
+
+        &__details {
+            flex-basis: 70%;
+
+            &__info {
+                margin-top: 15px;
+                font-size: 16px;
+
+                &> * {
+                    margin-right: 5px;
+                }
+
+                &__like-rating {
+                    color: #46d369;
+                    font-weight: bold;
+                }
+
+                &__duration, &__year {
+                    color: #bcbcbc;
+                }
+
+                &__video-quality {
+                    display: inline-block;
+                }
+            }
+
+            &__maturity-description {
+                font-size: 14px;
+                margin-top: 5px;
+
+                &__maturity ::ng-deep span {
+                    padding: 4px;
+                    margin-right: 5px;
+                    font-size: 15px;
+                    letter-spacing: -2px;
+                }
+            }
+
+            &__ranking-description {
+                font-size: 20px;
+                margin-top: 15px;
+                font-weight: 500;
+
+                &__ranking {
+                    padding: 4px;
+                    margin-right: 5px;
+                }
+            }
+
+            &__description {
+                margin: 1rem 0 0.5em 0;
+                font-size: 16px;
+                line-height: 26px;
+            }
+            
+        }
+
+        &__credits {
+            flex-basis: 25%;
+
+            &__row {
+                color: white;
+                font-size: 14px;
+                line-height: 20px;
+                margin: 1em 0.5em 1em 0;
+                word-break: break-word;
+
+                span {
+                    color: #777;
+                }
+
+                a {
+                    color: white;
+
+                    &:not(:hover) {
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+
+    &__episodes {
+        margin-top: 40px;
+        
+        &__control {
+            display: flex;
+            justify-content: space-between;
+
+            @media #{$xs} {
+                color: #999;
+            }
+
+            &__select {
+
+                @media #{$xs} {
+                    display: none;
+                }
+
+                span {
+                    font-size: 14px;
+                    font-weight: 400;
+                }
+            }
+        }
+
+        &__list {
+
+            &__maturity-and-season-description {
+
+                @media #{$xs} {
+                    display: none;
+                }
+                
+                h3 {
+                    display: inline-block;
+                }
+
+                &__maturity ::ng-deep span {
+                    font-size: 15px;
+                    letter-spacing: -2px;
+                }
+            }
+
+            &__episode {
+                display: flex;
+                //margin-bottom: 30px;
+                border-top: 1px solid #404040;
+                padding: 30px;
+                cursor: pointer;
+
+                @media #{$xs} {
+                    align-items: flex-start;
+                    border-top: none;
+                    padding: 0;
+                    margin-bottom: 20px;
+                }
+
+                &--current {
+                    background-color: #333;
+
+                    @media #{$xs} {
+                        background-color: transparent;
+                    }
+                }
+
+                &__number {
+                    color: #d2d2d2;
+                    display: flex;
+                    flex: 0 0 7%;
+                    font-size: 1.5em;
+                    justify-content: center;
+                    align-items: center;
+
+                    @media #{$xs} {
+                        display: none;
+                    }
+                }
+
+                &__thumb-wrapper {
+                    border-radius: 4px;
+                    flex: 0 0 18%;
+                    overflow: hidden;
+                    position: relative;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    @media #{$xs} {
+                        flex-basis: auto;
+                        width: 33%;
+                    }
+                    
+
+                    &::after {
+                        opacity: 0;
+                        content: '\f144';
+                        font-family: "Font Awesome 6 Free";
+                        font-weight: bold;
+                        position: absolute;
+                        font-size: 4rem;
+                        transition: opacity .5s;
+                    }
+
+                    &:hover::after {
+                        opacity: 1;
+                    }
+
+                    img {
+                        width: 100%;
+                    }
+                }
+
+                &__data {
+                    flex: 0 0 70%;
+                    font-size: 1em;
+                    min-height: 100%;
+                    padding: .1em 1em 0.5em;
+
+                    @media #{$xs} {
+                        flex-basis: auto;
+                        width: 61%;
+                        color: #999;
+                    }
+
+                    &__title {
+                        width: 100%;
+                        display: flex;
+                        font-size: 1.3em;
+                        font-weight: 500;
+                        overflow-wrap: anywhere;
+                        justify-content: space-between;
+
+                        @media #{$md} {
+                            color: #fff;
+                        }
+                    }
+
+                    &__description {
+                        //padding: 0 1em 1em;
+
+                        @media #{$md} {
+                            margin-top: 10px;
+                            color: #d2d2d2;
+                        }
+
+                    }
+                }
+            }
+        }
+    }
+}
